@@ -18,7 +18,7 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
     calculateTotals();
   }, [checkedRows]);
 
-  const handleCheckboxChange = (area) => {
+  const handleRowClick = (area) => {
     setCheckedRows((prevCheckedRows) => ({
       ...prevCheckedRows,
       [area]: !prevCheckedRows[area],
@@ -83,13 +83,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
         </tr>
       </thead>
       <tbody>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("General")}
+          className={checkedRows["General"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["General"]}
-              onChange={() => handleCheckboxChange("General")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Globe-icon.webp"}
               alt="General Logo"
@@ -104,13 +102,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="General-total-tasks">503</td>
           <td id="General-total-points">49,630</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Misthalin")}
+          className={checkedRows["Misthalin"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Misthalin"]}
-              onChange={() => handleCheckboxChange("Misthalin")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Misthalin_Area_Badge.webp"}
               alt="Misthalin Logo"
@@ -125,13 +121,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="Misthalin-total-tasks">96</td>
           <td id="Misthalin-total-points">5,940</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Karamja")}
+          className={checkedRows["Karamja"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Karamja"]}
-              onChange={() => handleCheckboxChange("Karamja")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Karamja_Area_Badge.webp"}
               alt="Karamja Logo"
@@ -146,13 +140,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="Karamja-total-tasks">57</td>
           <td id="Karamja-total-points">7,310</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Asgarnia")}
+          className={checkedRows["Asgarnia"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Asgarnia"]}
-              onChange={() => handleCheckboxChange("Asgarnia")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Asgarnia_Area_Badge.webp"}
               alt="Asgarnia Logo"
@@ -167,13 +159,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="Asgarnia-total-tasks">105</td>
           <td id="Asgarnia-total-points">9,540</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Kharidian Desert")}
+          className={checkedRows["Kharidian Desert"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Kharidian Desert"]}
-              onChange={() => handleCheckboxChange("Kharidian Desert")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Desert_Area_Badge.webp"}
               alt="Kharidian Desert Logo"
@@ -188,13 +178,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="Kharidian Desert-total-tasks">125</td>
           <td id="Kharidian Desert-total-points">11,160</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Fremennik Provinces")}
+          className={checkedRows["Fremennik Provinces"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Fremennik Provinces"]}
-              onChange={() => handleCheckboxChange("Fremennik Provinces")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Fremennik_Area_Badge.webp"}
               alt="Fremennik Provinces Logo"
@@ -209,13 +197,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="Fremennik Provinces-total-tasks">96</td>
           <td id="Fremennik Provinces-total-points">10,110</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Kandarin")}
+          className={checkedRows["Kandarin"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Kandarin"]}
-              onChange={() => handleCheckboxChange("Kandarin")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Kandarin_Area_Badge.webp"}
               alt="Kandarin Logo"
@@ -230,13 +216,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="Kandarin-total-tasks">104</td>
           <td id="Kandarin-total-points">9,130</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Morytania")}
+          className={checkedRows["Morytania"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Morytania"]}
-              onChange={() => handleCheckboxChange("Morytania")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Morytania_Area_Badge.webp"}
               alt="Morytania Logo"
@@ -251,13 +235,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="Morytania-total-tasks">102</td>
           <td id="Morytania-total-points">11,500</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Tirannwn")}
+          className={checkedRows["Tirannwn"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Tirannwn"]}
-              onChange={() => handleCheckboxChange("Tirannwn")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Tirannwn_Area_Badge.webp"}
               alt="Tirannwn Logo"
@@ -272,13 +254,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="Tirannwn-total-tasks">76</td>
           <td id="Tirannwn-total-points">9,490</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Wilderness")}
+          className={checkedRows["Wilderness"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Wilderness"]}
-              onChange={() => handleCheckboxChange("Wilderness")}
-            />
             <img
               src={
                 process.env.PUBLIC_URL + "/assets/Wilderness_Area_Badge.webp"
@@ -295,13 +275,11 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
           <td id="Wilderness-total-tasks">94</td>
           <td id="Wilderness-total-points">10,390</td>
         </tr>
-        <tr>
+        <tr
+          onClick={() => handleRowClick("Kourend")}
+          className={checkedRows["Kourend"] ? "selected-row" : ""}
+        >
           <td>
-            <input
-              type="checkbox"
-              checked={checkedRows["Kourend"]}
-              onChange={() => handleCheckboxChange("Kourend")}
-            />
             <img
               src={process.env.PUBLIC_URL + "/assets/Kourend_Area_Badge.webp"}
               alt="Kourend"

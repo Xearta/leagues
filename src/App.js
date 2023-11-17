@@ -116,7 +116,7 @@ function App() {
     }
 
     return (
-      <span>
+      <span style={{ display: "flex", alignItems: "center" }}>
         <img src={imageSrc} alt={altText} style={{ marginRight: "5px" }} />
         {points}
       </span>
@@ -143,6 +143,12 @@ function App() {
         }}
       />
 
+      <div className="total-points">
+        <span>Total Points: </span>
+        {totalPoints}
+        <span>/145,610</span>
+      </div>
+
       {/* Add filter and sorting controls here */}
       <div className="controls">
         <label>
@@ -157,70 +163,69 @@ function App() {
 
       {/* Display the number of tasks being shown */}
       <div className="task-count">
-        {sortedTasks.length === 1
-          ? "1 task is being shown"
-          : `${sortedTasks.length} tasks are being shown`}
-      </div>
-
-      <div className="total-points">
-        <span>Total Points: </span>
-        {totalPoints}
-        <span>/145,610</span>
+        {checkedAreas.length > 0
+          ? sortedTasks.length === 1
+            ? "1 task is being shown"
+            : `${sortedTasks.length} tasks are being shown`
+          : "No area selected. Please select at least one area."}
       </div>
 
       {/* Search bar */}
-      <div className="search-bar">
+      <div className="search-bar-container">
         <input
           type="text"
           placeholder="Search tasks..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
+          className="search-bar-input"
         />
       </div>
 
-      <table>
-        <thead className="task-table-header">
-          <tr>
-            <th onClick={() => handleSort("area")}>Area</th>
-            <th onClick={() => handleSort("name")}>Name</th>
-            <th onClick={() => handleSort("description")}>Task</th>
-            <th onClick={() => handleSort("requirements")}>Requirements</th>
-            <th onClick={() => handleSort("points")}>Points</th>
-            <th onClick={() => handleSort("completion")}>Comp%</th>
-          </tr>
-        </thead>
+      {checkedAreas.length > 0 && (
+        <table>
+          <thead className="task-table-header">
+            <tr>
+              <th onClick={() => handleSort("area")}>Area</th>
+              <th onClick={() => handleSort("name")}>Name</th>
+              <th onClick={() => handleSort("description")}>Task</th>
+              <th onClick={() => handleSort("requirements")}>Requirements</th>
+              <th onClick={() => handleSort("points")}>Points</th>
+              <th onClick={() => handleSort("completion")}>Comp%</th>
+            </tr>
+          </thead>
 
-        <tbody>
-          {/* Your task list will be dynamically generated here */}
-          {sortedTasks.map((task) => {
-            const isCompletedTask = task.completed;
-            const taskClassName = `task ${
-              isCompletedTask ? "completed-task" : ""
-            }`;
+          <tbody>
+            {/* Your task list will be dynamically generated here */}
+            {sortedTasks.map((task) => {
+              const isCompletedTask = task.completed;
+              const taskClassName = `task ${
+                isCompletedTask ? "completed-task" : ""
+              }`;
 
-            return (
-              <tr
-                key={task.id}
-                className={taskClassName}
-                onClick={() => completeTask(task.id)}
-              >
-                <td>
-                  <img
-                    src={process.env.PUBLIC_URL + task.logoUrl}
-                    alt={`${task.area} Logo`}
-                  />{" "}
-                  {/* Use logo image from URL */}
-                </td>
-                <td>{task.name}</td>
-                <td>{task.description}</td>
-                <td>{task.requirements}</td>
-                <td>{pointsToImage(task.points)}</td>
-                <td>{task.completion}%</td>
-              </tr>
-            );
-          })}
-        </tbody>
-      </table>
+              return (
+                <tr
+                  key={task.id}
+                  className={taskClassName}
+                  onClick={() => completeTask(task.id)}
+                >
+                  <td>
+                    <img
+                      src={process.env.PUBLIC_URL + task.logoUrl}
+                      alt={`${task.area} Logo`}
+                    />{" "}
+                    {/* Use logo image from URL */}
+                  </td>
+                  <td>{task.name}</td>
+                  <td>{task.description}</td>
+                  <td>{task.requirements}</td>
+                  <td>{pointsToImage(task.points)}</td>
+                  <td>{task.completion}%</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      )}
     </div>
   );
 }

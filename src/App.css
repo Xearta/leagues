@@ -11,6 +11,10 @@ body {
   background-color: #e2dbc8; /* Content background color */
 }
 
+.selected-row {
+  background-color: lightgreen;
+}
+
 .task {
   border: 1px solid #454545; /* Border color for tasks */
   cursor: pointer;
@@ -30,6 +34,10 @@ body {
 
 .total-points span {
   font-size: 0.5em;
+}
+
+.task-count {
+  padding-bottom: 10px;
 }
 
 table {
@@ -63,4 +71,22 @@ table .header {
 
 .task-count {
   font-style: italic;
+}
+
+.search-bar-container {
+  display: flex;
+  align-items: center;
+  height: 30px; /* Adjust the height as needed */
+  margin-bottom: 10px; /* Optional: Adjust spacing as needed */
+}
+
+.search-bar-input {
+  background-color: #efeee6;
+  color: 767571;
+  width: 100%; /* Take up the full width of the container */
+  height: 100%; /* Take up the full height of the container */
+  padding: 10px; /* Adjust padding as needed for the design */
+  border: 1px solid #ccc; /* Optional: Add a border */
+  border-radius: 5px; /* Optional: Add border-radius for rounded corners */
+  font-size: 2em;
 }
