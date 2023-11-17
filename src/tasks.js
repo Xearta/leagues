@@ -2,7 +2,7 @@ const tasks = [
   {
     id: 25,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "1 Easy Clue Scroll",
     description: "Open a Reward casket for completing an easy clue scroll.",
     requirements: "N/A",
@@ -13,7 +13,7 @@ const tasks = [
   {
     id: 26,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "1 Medium Clue Scroll",
     description: "Open a Reward casket for completing a medium clue scroll.",
     requirements: "N/A",
@@ -24,7 +24,7 @@ const tasks = [
   {
     id: 27,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "25 Easy Clue Scrolls",
     description: "Open 25 Reward caskets for completing easy clue scrolls.",
     requirements: "N/A",
@@ -35,7 +35,7 @@ const tasks = [
   {
     id: 28,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level Up",
     description: "Level up any of your skills for the first time.",
     requirements: "N/A",
@@ -46,7 +46,7 @@ const tasks = [
   {
     id: 29,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 5",
     description:
       "Reach level 5 in any skill (not including Agility, Hitpoints and Runecraft).",
@@ -58,7 +58,7 @@ const tasks = [
   {
     id: 30,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 10",
     description:
       "Reach level 10 in any skill (not including Agility and Hitpoints).",
@@ -70,7 +70,7 @@ const tasks = [
   {
     id: 31,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 20",
     description: "Reach level 20 in any skill.",
     requirements: "N/A",
@@ -81,7 +81,7 @@ const tasks = [
   {
     id: 32,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Build a Room in Your Player Owned House",
     description: "Build a room in your Player Owned House.",
     requirements: "1,000",
@@ -92,7 +92,7 @@ const tasks = [
   {
     id: 33,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Burn Some Coloured Logs",
     description: "Burn some logs that have been coloured with a firelighter.",
     requirements: "N/A",
@@ -103,7 +103,7 @@ const tasks = [
   {
     id: 34,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Burn Some Food",
     description: "Burn any kind of food while trying to cook it.",
     requirements: "N/A",
@@ -114,7 +114,7 @@ const tasks = [
   {
     id: 35,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Burn Some Normal Logs",
     description: "Burn some Normal Logs.",
     requirements: "N/A",
@@ -125,7 +125,7 @@ const tasks = [
   {
     id: 36,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Burn Some Oak Logs",
     description: "Burn some Oak Logs.",
     requirements: "15 Firemaking",
@@ -136,7 +136,7 @@ const tasks = [
   {
     id: 37,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Bury Some Bones",
     description: "Bury any kind of Bones.",
     requirements: "N/A",
@@ -147,7 +147,7 @@ const tasks = [
   {
     id: 38,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Buy Something From Trader Crewmembers",
     description: "Buy something from the Trader Crewmembers.",
     requirements: "2",
@@ -158,7 +158,7 @@ const tasks = [
   {
     id: 39,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cast Home Teleport",
     description: "Cast the Home Teleport spell.",
     requirements: "N/A",
@@ -169,7 +169,7 @@ const tasks = [
   {
     id: 40,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch a Baby Impling",
     description: "Catch a Baby Impling.",
     requirements: "17 Hunter",
@@ -180,7 +180,7 @@ const tasks = [
   {
     id: 41,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch a Butterfly",
     description: "Catch any butterfly.",
     requirements:
@@ -192,7 +192,7 @@ const tasks = [
   {
     id: 42,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch a Herring",
     description: "Catch a Raw Herring whilst Fishing.",
     requirements: "10 Fishing",
@@ -203,7 +203,7 @@ const tasks = [
   {
     id: 43,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch a Shrimp",
     description: "Catch Raw Shrimp while Fishing.",
     requirements: "N/A",
@@ -214,7 +214,7 @@ const tasks = [
   {
     id: 44,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch an Anchovy",
     description: "Catch a Raw Anchovy whilst Fishing.",
     requirements: "15 Fishing",
@@ -225,7 +225,7 @@ const tasks = [
   {
     id: 45,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Check Your Slayer Task",
     description: "Use an Enchanted Gem to check your Slayer Task.",
     requirements: "1 to purchase an enchanted gem",
@@ -236,7 +236,7 @@ const tasks = [
   {
     id: 46,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Chop Some Logs With a Steel Axe",
     description: "Chop any kind of logs using a Steel Axe.",
     requirements: "6 Woodcutting",
@@ -247,7 +247,7 @@ const tasks = [
   {
     id: 47,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Chop Some Logs",
     description: "Chop any kind of logs.",
     requirements: "1 WoodcuttingAny axe",
@@ -258,7 +258,7 @@ const tasks = [
   {
     id: 48,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Clean a Grimy Guam",
     description: "Clean a Grimy Guam.",
     requirements: "N/A",
@@ -269,7 +269,7 @@ const tasks = [
   {
     id: 49,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 1 Slayer Task",
     description: "Complete 1 Slayer Task.",
     requirements: "N/A",
@@ -280,7 +280,7 @@ const tasks = [
   {
     id: 50,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete a Rooftop Agility Course",
     description: "Complete a lap of any Rooftop Agility Course.",
     requirements: "N/A",
@@ -291,7 +291,7 @@ const tasks = [
   {
     id: 51,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete the Leagues Tutorial",
     description: "Complete the Leagues Tutorial and begin your adventure.",
     requirements: "N/A",
@@ -302,7 +302,7 @@ const tasks = [
   {
     id: 52,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cook Shrimp",
     description: "Cook Raw Shrimp.",
     requirements: "N/A",
@@ -313,7 +313,7 @@ const tasks = [
   {
     id: 53,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft a Leather Body",
     description: "Craft a Leather Body.",
     requirements:
@@ -325,7 +325,7 @@ const tasks = [
   {
     id: 54,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft Any Rune",
     description:
       "Use a Runecrafting Altar to craft any type of rune from Essence.",
@@ -337,7 +337,7 @@ const tasks = [
   {
     id: 55,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Create a Compost Potion",
     description: "Create a Compost Potion.",
     requirements: "22 Herblore",
@@ -348,7 +348,7 @@ const tasks = [
   {
     id: 56,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Create an Antipoison",
     description: "Create an Antipoison.",
     requirements: "5 Herblore",
@@ -359,7 +359,7 @@ const tasks = [
   {
     id: 57,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cry in a wheat field",
     description: "Cry in a wheat field.",
     requirements: "N/A",
@@ -370,7 +370,7 @@ const tasks = [
   {
     id: 58,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cut a Sapphire",
     description: "Cut a Sapphire.",
     requirements: "20 Crafting",
@@ -381,7 +381,7 @@ const tasks = [
   {
     id: 59,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Dance in a graveyard",
     description: "Dance in a graveyard.",
     requirements: "N/A",
@@ -392,7 +392,7 @@ const tasks = [
   {
     id: 60,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat a Goblin",
     description:
       "Defeat a Goblin. After all, this still isn't the Goblin League.",
@@ -404,7 +404,7 @@ const tasks = [
   {
     id: 61,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat a Guard",
     description: "Defeat a Guard.",
     requirements: "N/A",
@@ -415,7 +415,7 @@ const tasks = [
   {
     id: 62,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat a Moss Giant",
     description: "Defeat a Moss Giant.",
     requirements: "N/A",
@@ -426,7 +426,7 @@ const tasks = [
   {
     id: 63,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Drink a Strength Potion",
     description: "Drink a Strength Potion.",
     requirements: "N/A",
@@ -437,7 +437,7 @@ const tasks = [
   {
     id: 64,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Dye a cape orange",
     description: "Dye a cape orange.",
     requirements: "N/A",
@@ -448,7 +448,7 @@ const tasks = [
   {
     id: 65,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Eat some Purple Sweets",
     description: "Eat some Purple Sweets.",
     requirements: "N/A",
@@ -459,7 +459,7 @@ const tasks = [
   {
     id: 66,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Enter Puro Puro from Gielinor",
     description: "Enter Puro Puro from a crop circle in mainland Gielinor.",
     requirements: "17 Hunter",
@@ -470,7 +470,7 @@ const tasks = [
   {
     id: 67,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Enter your Player Owned House",
     description: "Enter your Player Owned House.",
     requirements:
@@ -482,7 +482,7 @@ const tasks = [
   {
     id: 68,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Mithril Set",
     description:
       "Equip a Mithril Platebody, a Mithril Full Helm and either some Mithril Platelegs or a Mithril Plateskirt.",
@@ -494,7 +494,7 @@ const tasks = [
   {
     id: 69,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Maple Shortbow",
     description: "Equip a Maple Shortbow.",
     requirements: "30 Ranged",
@@ -505,7 +505,7 @@ const tasks = [
   {
     id: 70,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Mithril Weapon",
     description: "Equip any Mithril weapon.",
     requirements: "20 Attack",
@@ -516,7 +516,7 @@ const tasks = [
   {
     id: 71,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Spiny Helmet",
     description: "Equip a Spiny Helmet.",
     requirements: "5 Defence650 to purchase from store",
@@ -527,7 +527,7 @@ const tasks = [
   {
     id: 72,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Studded Body and Chaps",
     description: "Equip a Studded Body along with some Studded Chaps.",
     requirements: "20 Ranged,  20 Defence",
@@ -538,7 +538,7 @@ const tasks = [
   {
     id: 73,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Willow Shield",
     description: "Equip a Willow Shield.",
     requirements:
@@ -550,7 +550,7 @@ const tasks = [
   {
     id: 74,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip an Elemental Staff",
     description: "Equip a basic elemental staff.",
     requirements: "N/A",
@@ -561,7 +561,7 @@ const tasks = [
   {
     id: 75,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip some Black armour",
     description:
       "Equip either a Black Platebody, some Black Platelegs or a Black Full Helm.",
@@ -573,7 +573,7 @@ const tasks = [
   {
     id: 76,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip some Steel armour",
     description:
       "Equip either a Steel Platebody, some Steel Platelegs or a Steel Full Helm.",
@@ -585,7 +585,7 @@ const tasks = [
   {
     id: 77,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch 1000 arrow shafts",
     description: "Fletch 1000 arrow shafts.",
     requirements: "N/A",
@@ -596,7 +596,7 @@ const tasks = [
   {
     id: 78,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch 150 Iron Arrows",
     description: "Fletch 150 Iron Arrows.",
     requirements: "15 Fletching",
@@ -607,7 +607,7 @@ const tasks = [
   {
     id: 79,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch 25 Oak Stocks",
     description: "Fletch 25 Oak Stocks.",
     requirements: "24 Fletching",
@@ -618,7 +618,7 @@ const tasks = [
   {
     id: 80,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch an Oak Shortbow",
     description: "Fletch an Oak Shortbow.",
     requirements: "20 Fletching 15 Woodcutting if chopping own log",
@@ -629,7 +629,7 @@ const tasks = [
   {
     id: 81,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch Some Arrow Shafts",
     description: "Fletch some Arrow Shafts.",
     requirements: "N/A",
@@ -640,7 +640,7 @@ const tasks = [
   {
     id: 82,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain a Unique Item From a Beginner Clue",
     description:
       "Gain a unique item from a Beginner Clue Scroll Reward Casket.",
@@ -652,7 +652,7 @@ const tasks = [
   {
     id: 83,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain a Unique Item From an Easy Clue",
     description: "Gain a unique item from an Easy Clue Scroll Reward Casket.",
     requirements: "N/A",
@@ -663,7 +663,7 @@ const tasks = [
   {
     id: 84,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Have a conversation with a cat",
     description: "Have a conversation with a cat.",
     requirements:
@@ -675,7 +675,7 @@ const tasks = [
   {
     id: 85,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Kill a Necromancer",
     description: "Kill a Necromancer.",
     requirements:
@@ -687,7 +687,7 @@ const tasks = [
   {
     id: 86,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Light a Torch",
     description: "Light a Torch.",
     requirements: "N/A",
@@ -698,7 +698,7 @@ const tasks = [
   {
     id: 87,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Locate a Runecrafting Altar With a Talisman",
     description:
       "Use any talisman to check the location of a Runecrafting Altar.",
@@ -710,7 +710,7 @@ const tasks = [
   {
     id: 88,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Make an Attack Potion",
     description: "Make an Attack Potion.",
     requirements: "N/A",
@@ -721,7 +721,7 @@ const tasks = [
   {
     id: 89,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Make some Flour",
     description: "Make some Flour in a windmill.",
     requirements: "N/A",
@@ -732,7 +732,7 @@ const tasks = [
   {
     id: 90,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Mine 10 Tin Ore",
     description: "Mine 10 Tin Ore.",
     requirements: "Any pickaxe",
@@ -743,7 +743,7 @@ const tasks = [
   {
     id: 91,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Mine 15 coal",
     description: "Mine 15 coal.",
     requirements: "30 MiningAny pickaxe",
@@ -754,7 +754,7 @@ const tasks = [
   {
     id: 92,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Mine some Copper Ore",
     description: "Mine some Copper Ore.",
     requirements: "N/A",
@@ -765,7 +765,7 @@ const tasks = [
   {
     id: 93,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Mine some Ore With a Steel Pickaxe",
     description: "Mine any ore using a Steel Pickaxe.",
     requirements: "6 Mining",
@@ -776,7 +776,7 @@ const tasks = [
   {
     id: 94,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain a Bird Nest",
     description: "Obtain a Bird Nest whilst cutting down trees.",
     requirements: "N/A",
@@ -787,7 +787,7 @@ const tasks = [
   {
     id: 95,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain a Casket from Fishing",
     description: "Obtain a Casket from Fishing.",
     requirements: "16 Fishing",
@@ -798,7 +798,7 @@ const tasks = [
   {
     id: 96,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain a Gem While Mining",
     description: "Obtain any kind of gem whilst Mining a rock.",
     requirements: "N/A",
@@ -809,7 +809,7 @@ const tasks = [
   {
     id: 97,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain a Mark of Grace",
     description: "Obtain a Mark of Grace from any Rooftop Agility Course.",
     requirements: "N/A",
@@ -820,7 +820,7 @@ const tasks = [
   {
     id: 98,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Open 28 Coin Pouches At Once",
     description: "Open 28 Coin Pouches at once.",
     requirements: "N/A",
@@ -831,7 +831,7 @@ const tasks = [
   {
     id: 99,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Open the Leagues Menu",
     description: "Open the Leagues Menu found within the Journal Panel.",
     requirements: "N/A",
@@ -842,7 +842,7 @@ const tasks = [
   {
     id: 100,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Pickpocket a Citizen",
     description: "Pickpocket a Man or a Woman.",
     requirements: "N/A",
@@ -853,7 +853,7 @@ const tasks = [
   {
     id: 101,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Plant Seeds in an Allotment Patch",
     description: "Plant some seeds in an Allotment patch.",
     requirements:
@@ -865,7 +865,7 @@ const tasks = [
   {
     id: 102,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Protect Your Crops",
     description: "Pay a farmer to protect any of your crops.",
     requirements: "Items requested by the farmer to protect the crop",
@@ -876,7 +876,7 @@ const tasks = [
   {
     id: 103,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Purchase a Player Owned House",
     description: "Purchase a Player Owned House.",
     requirements: "1,000 or completion of   Daddy's Home",
@@ -887,7 +887,7 @@ const tasks = [
   {
     id: 104,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Rake a Farming Patch",
     description: "Rake any Farming patch.",
     requirements:
@@ -899,7 +899,7 @@ const tasks = [
   {
     id: 105,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 10",
     description: "Reach level 10 in every skill.",
     requirements: "N/A",
@@ -910,7 +910,7 @@ const tasks = [
   {
     id: 106,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 20",
     description: "Reach level 20 in every skill.",
     requirements: "N/A",
@@ -921,7 +921,7 @@ const tasks = [
   {
     id: 107,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 5",
     description: "Reach level 5 in every skill.",
     requirements: "N/A",
@@ -932,7 +932,7 @@ const tasks = [
   {
     id: 108,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Combat Level 10",
     description: "Reach Combat Level 10.",
     requirements: "N/A",
@@ -943,7 +943,7 @@ const tasks = [
   {
     id: 109,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Combat Level 25",
     description: "Reach Combat Level 25.",
     requirements: "N/A",
@@ -954,7 +954,7 @@ const tasks = [
   {
     id: 110,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 100",
     description: "Reach a Total Level of 100.",
     requirements: "N/A",
@@ -965,7 +965,7 @@ const tasks = [
   {
     id: 111,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 250",
     description: "Reach a Total Level of 250.",
     requirements: "N/A",
@@ -976,7 +976,7 @@ const tasks = [
   {
     id: 112,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 500",
     description: "Reach a Total Level of 500.",
     requirements: "N/A",
@@ -987,7 +987,7 @@ const tasks = [
   {
     id: 113,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Receive a Slayer Task",
     description: "Receive a Slayer Task from any Slayer Master.",
     requirements: "N/A",
@@ -998,7 +998,7 @@ const tasks = [
   {
     id: 114,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Restore 5 Prayer Points at an Altar",
     description: "Restore 5 or more Prayer Points at any altar.",
     requirements: "5 Prayer",
@@ -1009,7 +1009,7 @@ const tasks = [
   {
     id: 115,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Scrape some blue dragonhide",
     description: "Scrape some blue dragonhide.",
     requirements: "N/A",
@@ -1020,7 +1020,7 @@ const tasks = [
   {
     id: 116,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smelt a Bronze Bar",
     description: "Use a Furnace to smelt a Bronze Bar.",
     requirements: "N/A",
@@ -1031,7 +1031,7 @@ const tasks = [
   {
     id: 117,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smelt an Iron Bar",
     description: "Use a Furnace to smelt an Iron Bar.",
     requirements: "15 Smithing",
@@ -1042,7 +1042,7 @@ const tasks = [
   {
     id: 118,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smith 150 Iron Arrowtips",
     description: "Use an Anvil to smith 150 Iron Arrowtips.",
     requirements: "20 Smithing",
@@ -1053,7 +1053,7 @@ const tasks = [
   {
     id: 119,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smith a Bronze full helm",
     description: "Use an Anvil to smith a Bronze full helm.",
     requirements: "7 Smithing",
@@ -1064,7 +1064,7 @@ const tasks = [
   {
     id: 120,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smith a Bronze plateskirt",
     description: "Use an Anvil to smith a Bronze plateskirt.",
     requirements: "16 Smithing",
@@ -1075,7 +1075,7 @@ const tasks = [
   {
     id: 121,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Snare a Bird",
     description: "Catch any bird with a Bird Snare.",
     requirements: "N/A",
@@ -1086,7 +1086,7 @@ const tasks = [
   {
     id: 122,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Spin a Ball of Wool",
     description: "Use a Spinning Wheel to spin a Ball of Wool.",
     requirements: "N/A",
@@ -1097,7 +1097,7 @@ const tasks = [
   {
     id: 123,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Steal a Chocolate Slice",
     description: "Steal a Chocolate Slice from a Bakery Stall.",
     requirements: "5 Thieving Fremennik✓,  Kandarin✓, or  Kourend✓",
@@ -1108,7 +1108,7 @@ const tasks = [
   {
     id: 124,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Steal Some Silk",
     description: "Steal some silk from a silk stall.",
     requirements: "20 Thieving Kandarin✓,  Kourend✓, or  Tirannwn✓",
@@ -1119,7 +1119,7 @@ const tasks = [
   {
     id: 125,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Successfully Cook 5 Pieces of Food",
     description: "Cook 5 pieces of food in a row without burning them.",
     requirements: "N/A",
@@ -1130,7 +1130,7 @@ const tasks = [
   {
     id: 126,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Successfully Cut a Red Topaz",
     description: "Successfully Cut a Red Topaz.",
     requirements: "16 CraftingChisel",
@@ -1141,7 +1141,7 @@ const tasks = [
   {
     id: 127,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Superhuman Strength and Improved Reflexes",
     description:
       "Use both the Superhuman Strength prayer and the Improved Reflexes prayer at the same time.",
@@ -1153,7 +1153,7 @@ const tasks = [
   {
     id: 128,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Turn any Logs Into a Plank",
     description: "Use a Sawmill to turn Logs into a Plank.",
     requirements: "Logs and 100",
@@ -1164,7 +1164,7 @@ const tasks = [
   {
     id: 129,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Use a herring on a tree",
     description: "Not quite of the crimson variety.",
     requirements: "N/A",
@@ -1175,7 +1175,7 @@ const tasks = [
   {
     id: 130,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Visit Death's Domain",
     description: "Visit Death's Domain.",
     requirements: "N/A",
@@ -1186,7 +1186,7 @@ const tasks = [
   {
     id: 131,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Visit the Rune Essence Mine",
     description: "Visit the Rune Essence Mine.",
     requirements: "Completion of   Rune Mysteries",
@@ -1197,7 +1197,7 @@ const tasks = [
   {
     id: 132,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Become a mushroom",
     description: "Have a wizard practice some Magic on you.",
     requirements: "N/A",
@@ -1208,7 +1208,7 @@ const tasks = [
   {
     id: 133,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete a Game of Novice Pest Control",
     description: "Complete a game of Novice   Pest Control or higher.",
     requirements: "40 Combat level",
@@ -1219,7 +1219,7 @@ const tasks = [
   {
     id: 134,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Craft an Air Rune",
     description: "Craft an Air Rune from Essence at the Air Altar.",
     requirements: "N/A",
@@ -1230,7 +1230,7 @@ const tasks = [
   {
     id: 135,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat a Black Demon in Asgarnia",
     description: "Defeat a Black Demon in Asgarnia.",
     requirements: "N/A",
@@ -1241,7 +1241,7 @@ const tasks = [
   {
     id: 136,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat a Blue Dragon in Asgarnia",
     description: "Defeat a Blue Dragon in Asgarnia.",
     requirements: "N/A",
@@ -1252,7 +1252,7 @@ const tasks = [
   {
     id: 137,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat a Troll in Asgarnia",
     description: "Defeat a Troll in Asgarnia.",
     requirements: "N/A",
@@ -1263,7 +1263,7 @@ const tasks = [
   {
     id: 138,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat the Evil chicken",
     description: "Defeat the Evil chicken.",
     requirements: "N/A",
@@ -1274,7 +1274,7 @@ const tasks = [
   {
     id: 139,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Eat a magic cabbage",
     description: "Eat a magic cabbage.",
     requirements:
@@ -1286,7 +1286,7 @@ const tasks = [
   {
     id: 140,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Enter the Taverley Dungeon",
     description: "Enter the Taverley Dungeon.",
     requirements: "N/A",
@@ -1297,7 +1297,7 @@ const tasks = [
   {
     id: 141,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip an Imcando Hammer",
     description: "Equip an Imcando hammer.",
     requirements:
@@ -1309,7 +1309,7 @@ const tasks = [
   {
     id: 142,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Give Thurgo a redberry pie",
     description: "Give Thurgo a redberry pie.",
     requirements: "10 Cooking, or  Wilderness✓",
@@ -1320,7 +1320,7 @@ const tasks = [
   {
     id: 143,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Kill a port sarim prisoner",
     description: "Kill a port sarim prisoner.",
     requirements: "N/A",
@@ -1331,7 +1331,7 @@ const tasks = [
   {
     id: 144,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Move Your House to Taverley",
     description: "Move your Player Owned House to Taverley.",
     requirements: "10 Construction",
@@ -1342,7 +1342,7 @@ const tasks = [
   {
     id: 145,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Open an Ornate Lockbox",
     description: "Open an Ornate Lockbox from the Camdozaal Vault.",
     requirements: "N/A",
@@ -1353,7 +1353,7 @@ const tasks = [
   {
     id: 146,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Pay Atlas to re-train you",
     description: "Pay Atlas to re-train you.",
     requirements: "Completion of   Below Ice Mountain",
@@ -1364,7 +1364,7 @@ const tasks = [
   {
     id: 147,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Receive a Slayer Task From Turael or Spria",
     description:
       "Receive a Slayer Task from Turael in Burthorpe or Spria in Draynor.",
@@ -1376,7 +1376,7 @@ const tasks = [
   {
     id: 148,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Talk to the Mysterious Old Man in Falador",
     description: "Talk to the Mysterious Old Man in Falador.",
     requirements: "N/A",
@@ -1387,7 +1387,7 @@ const tasks = [
   {
     id: 149,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Unlock a Gate in Taverley Dungeon",
     description: "Unlock a gate in Taverley Dungeon using the Dusty Key.",
     requirements: "N/A",
@@ -1398,7 +1398,7 @@ const tasks = [
   {
     id: 150,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "1 Tempoross Kill",
     description: "Help the Spirit Anglers subdue the Tempoross.",
     requirements: "35 Fishing",
@@ -1409,7 +1409,7 @@ const tasks = [
   {
     id: 151,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete the Al Kharid Agility Course",
     description: "Complete a lap of the Al Kharid Rooftop Agility Course.",
     requirements: "20 Agility",
@@ -1420,7 +1420,7 @@ const tasks = [
   {
     id: 152,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete The Golem",
     description: "Complete   The Golem quest.",
     requirements: "20 Crafting,  25 Thieving",
@@ -1431,7 +1431,7 @@ const tasks = [
   {
     id: 153,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Craft a Fire Rune",
     description: "Craft a Fire Rune from Essence at the Fire Altar.",
     requirements: "14 Runecraft",
@@ -1442,7 +1442,7 @@ const tasks = [
   {
     id: 154,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Cut a Cactus in the Kharidian Desert",
     description: "Cut a Cactus in the Kharidian Desert.",
     requirements: "N/A",
@@ -1453,7 +1453,7 @@ const tasks = [
   {
     id: 155,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat an Al Kharid Warrior",
     description: "Defeat an Al Kharid warrior.",
     requirements: "N/A",
@@ -1464,7 +1464,7 @@ const tasks = [
   {
     id: 156,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Enter Sophanem",
     description: "Enter Sophanem.",
     requirements: "Completion of   Icthlarin's Little Helper",
@@ -1475,7 +1475,7 @@ const tasks = [
   {
     id: 157,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Enter the Kalphite Lair",
     description: "Enter the Kalphite Lair.",
     requirements: "Rope",
@@ -1486,7 +1486,7 @@ const tasks = [
   {
     id: 158,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Get sent to port sarim jail",
     description: "Become an outlaw and get sent to Port Sarim Jail.",
     requirements: "Asgarnia✓",
@@ -1497,7 +1497,7 @@ const tasks = [
   {
     id: 159,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Go Through the Al Kharid Gate",
     description: "Go through the Al Kharid gate.",
     requirements: "N/A",
@@ -1508,7 +1508,7 @@ const tasks = [
   {
     id: 160,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Kill a Seagull in the Desert",
     description: "Kill a Seagull in the Desert.",
     requirements: "N/A",
@@ -1519,7 +1519,7 @@ const tasks = [
   {
     id: 161,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Obtain Fossilised Dung",
     description: "Obtain Fossilised Dung.",
     requirements: "Completion of   Beneath Cursed Sands",
@@ -1530,7 +1530,7 @@ const tasks = [
   {
     id: 162,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Pick a Winter Sq'irk",
     description: "Pick a Winter Sq'irk in the Sorceress's Garden.",
     requirements: "Completion of   Prince Ali Rescue",
@@ -1541,7 +1541,7 @@ const tasks = [
   {
     id: 163,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Pick up a cabbage in the Citharede Abbey",
     description: "Pick up a Cabbage in the Citharede Abbey.",
     requirements: "N/A",
@@ -1552,7 +1552,7 @@ const tasks = [
   {
     id: 164,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 1 of Pyramid Plunder",
     description:
       "Search the Golden Chest in Room 1 of Pyramid Plunder in Sophanem.",
@@ -1565,7 +1565,7 @@ const tasks = [
   {
     id: 165,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 2 of Pyramid Plunder",
     description:
       "Search the Golden Chest in Room 2 of Pyramid Plunder in Sophanem.",
@@ -1578,7 +1578,7 @@ const tasks = [
   {
     id: 166,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 3 of Pyramid Plunder",
     description:
       "Search the Golden Chest in Room 3 of Pyramid Plunder in Sophanem.",
@@ -1591,7 +1591,7 @@ const tasks = [
   {
     id: 167,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Take a Carpet Ride from Pollnivneach to Sophanem",
     description: "Take a carpet ride from Pollnivneach to Sophanem.",
     requirements: "Completion of   Icthlarin's Little Helper",
@@ -1602,7 +1602,7 @@ const tasks = [
   {
     id: 168,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Tan a Cow Hide in the Kharidian Desert",
     description: "Tan a Cow Hide in the Kharidian Desert.",
     requirements: "N/A",
@@ -1613,7 +1613,7 @@ const tasks = [
   {
     id: 169,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Turn in a Winter Sq'irkjuice to Osman",
     description: "Turn in a Winter Sq'irkjuice to Osman in Al Kharid.",
     requirements: "Completion of   Prince Ali Rescue",
@@ -1624,7 +1624,7 @@ const tasks = [
   {
     id: 170,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Chop down an arctic pine tree",
     description: "Chop down an arctic pine tree.",
     requirements: "54 Woodcutting",
@@ -1635,7 +1635,7 @@ const tasks = [
   {
     id: 171,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Cockatrice in the Fremennik Province",
     description: "Defeat a Cockatrice in the Fremennik Province.",
     requirements: "25 Slayer",
@@ -1646,7 +1646,7 @@ const tasks = [
   {
     id: 172,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Pyrefiend in the Fremennik Province",
     description: "Defeat a Pyrefiend in the Fremennik Province.",
     requirements: "30 Slayer",
@@ -1657,7 +1657,7 @@ const tasks = [
   {
     id: 173,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Rock Crab in the Fremennik Province",
     description: "Defeat a Rock Crab in the Fremennik Province.",
     requirements: "N/A",
@@ -1668,7 +1668,7 @@ const tasks = [
   {
     id: 174,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Troll in the Fremennik Province",
     description: "Defeat a Troll in the Fremennik Province.",
     requirements: "N/A",
@@ -1679,7 +1679,7 @@ const tasks = [
   {
     id: 175,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Deposit an Item Using Peer the Seer",
     description: "Deposit an item into your Bank using Peer the Seer.",
     requirements: "N/A",
@@ -1690,7 +1690,7 @@ const tasks = [
   {
     id: 176,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Kill a Yak",
     description: "Kill a Yak.",
     requirements: "N/A",
@@ -1701,7 +1701,7 @@ const tasks = [
   {
     id: 177,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Switch to the Lunar Spellbook",
     description: "Switch to the Lunar Spellbook.",
     requirements: "N/A",
@@ -1712,7 +1712,7 @@ const tasks = [
   {
     id: 178,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Use the Bank on Jatizso",
     description: "Use the Bank on Jatizso.",
     requirements: "N/A",
@@ -1723,7 +1723,7 @@ const tasks = [
   {
     id: 179,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Use the Bank on Lunar Isle",
     description: "Use the Bank on Lunar Isle.",
     requirements: "N/A",
@@ -1734,7 +1734,7 @@ const tasks = [
   {
     id: 180,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Use the Bank on Neitiznot",
     description: "Use the Bank on Neitiznot.",
     requirements: "N/A",
@@ -1745,7 +1745,7 @@ const tasks = [
   {
     id: 181,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Brimstail Rune Essence Mine teleport",
     description: "Have Brimstail teleport you to the Rune Essence Mine.",
     requirements: "N/A",
@@ -1756,7 +1756,7 @@ const tasks = [
   {
     id: 182,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Catch a Crimson Swift in the Feldip Hills",
     description: "Catch a Crimson Swift in the Feldip Hills.",
     requirements: "N/A",
@@ -1767,7 +1767,7 @@ const tasks = [
   {
     id: 183,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Catch a wild kebbit",
     description: "Catch a wild kebbit.",
     requirements: "23 Hunter",
@@ -1778,7 +1778,7 @@ const tasks = [
   {
     id: 184,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete a Fishing Trawler Game",
     description: "Complete a   Fishing Trawler game at Port Khazard.",
     requirements: "15 Fishing",
@@ -1789,7 +1789,7 @@ const tasks = [
   {
     id: 185,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete Fishing Contest",
     description: "Complete the   Fishing Contest Quest.",
     requirements: "10 Fishing",
@@ -1800,7 +1800,7 @@ const tasks = [
   {
     id: 186,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete Monk's Friend",
     description: "Complete the   Monk's Friend quest.",
     requirements: "N/A",
@@ -1811,7 +1811,7 @@ const tasks = [
   {
     id: 187,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete Sea Slug",
     description: "Complete the   Sea Slug quest.",
     requirements: "30 Firemaking",
@@ -1822,7 +1822,7 @@ const tasks = [
   {
     id: 188,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Gnome Stronghold Agility Course",
     description: "Complete a lap of the Gnome Stronghold Agility Course.",
     requirements: "N/A",
@@ -1833,7 +1833,7 @@ const tasks = [
   {
     id: 189,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat a Bloodveld in Kandarin",
     description: "Defeat a Bloodveld in Kandarin.",
     requirements: "50 Slayer",
@@ -1844,7 +1844,7 @@ const tasks = [
   {
     id: 190,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat a Fire Giant in Kandarin",
     description: "Defeat a Fire Giant in Kandarin.",
     requirements: "N/A",
@@ -1855,7 +1855,7 @@ const tasks = [
   {
     id: 191,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Drink a Poison Chalice",
     description: "Drink a Poison Chalice.",
     requirements: "N/A",
@@ -1866,7 +1866,7 @@ const tasks = [
   {
     id: 192,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Marksman Chompy Hat",
     description: "Equip a Marksman Chompy Hat.",
     requirements:
@@ -1878,7 +1878,7 @@ const tasks = [
   {
     id: 193,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Flex in front of The Guns",
     description: "Flex in front of The Guns",
     requirements:
@@ -1890,7 +1890,7 @@ const tasks = [
   {
     id: 194,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Get Stung By Bees",
     description: "Get stung by bees at the Beehives.",
     requirements: "N/A",
@@ -1901,7 +1901,7 @@ const tasks = [
   {
     id: 195,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Kill a Newtroost",
     description: "Kill a Newtroost underneath the Tower of Life.",
     requirements: "Completion of   Tower of Life",
@@ -1912,7 +1912,7 @@ const tasks = [
   {
     id: 196,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Kill Salarin the Twisted",
     description: "Kill Salarin the Twisted in Yanille Agility Dungeon.",
     requirements: "67 Agility",
@@ -1923,7 +1923,7 @@ const tasks = [
   {
     id: 197,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Pick Wheat in Catherby",
     description:
       "Pick some wheat in the field by the Catherby Farming patches.",
@@ -1935,7 +1935,7 @@ const tasks = [
   {
     id: 198,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Prove yourself to Ponts",
     description: "Prove yourself to Ponts.",
     requirements: "Fremennik✓ for   Dragon Slayer II completion",
@@ -1946,7 +1946,7 @@ const tasks = [
   {
     id: 199,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Receive a Slayer Task From Nieve/Steve",
     description:
       "Receive a Slayer Task from Nieve/Steve in the Tree Gnome Stronghold.",
@@ -1958,7 +1958,7 @@ const tasks = [
   {
     id: 200,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Visit the Tree Gnome Stronghold",
     description: "Visit the Tree Gnome Stronghold.",
     requirements: "N/A",
@@ -1969,7 +1969,7 @@ const tasks = [
   {
     id: 201,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Visit the Tree Gnome Village",
     description: "Visit the Tree Gnome Village.",
     requirements: "N/A",
@@ -1980,7 +1980,7 @@ const tasks = [
   {
     id: 202,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Catch a Karambwanji",
     description: "Catch a Karambwanji on Karamja.",
     requirements: "5 Fishing",
@@ -1991,7 +1991,7 @@ const tasks = [
   {
     id: 203,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Defeat a Greater Demon on Karamja",
     description: "Defeat a Greater Demon on Karamja.",
     requirements: "N/A",
@@ -2002,7 +2002,7 @@ const tasks = [
   {
     id: 204,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Defeat a TzHaar",
     description: "Defeat any TzHaar in Mor Ul Rek.",
     requirements: "N/A",
@@ -2013,7 +2013,7 @@ const tasks = [
   {
     id: 205,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Enter the Brimhaven Dungeon",
     description: "Enter the Brimhaven Dungeon.",
     requirements: "875",
@@ -2024,7 +2024,7 @@ const tasks = [
   {
     id: 206,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Pick a Pineapple on Karamja",
     description: "Pick a Pineapple on Karamja.",
     requirements: "N/A",
@@ -2035,7 +2035,7 @@ const tasks = [
   {
     id: 207,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Receive a Slayer Task From Duradel",
     description: "Receive a Slayer Task From Duradel in Shilo Village.",
     requirements: "N/A",
@@ -2046,7 +2046,7 @@ const tasks = [
   {
     id: 208,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Receive an Agility Arena Ticket",
     description:
       "Receive an Agility Arena Ticket from the Brimhaven Agility Arena.",
@@ -2058,7 +2058,7 @@ const tasks = [
   {
     id: 209,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "1 Sarachnis Kill",
     description: "Kill Sarachnis in the Forthos Dungeon.",
     requirements: "N/A",
@@ -2069,7 +2069,7 @@ const tasks = [
   {
     id: 210,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "1 Wintertodt Kill",
     description: "Help the Pyromancers subdue the Wintertodt.",
     requirements: "50 Firemaking",
@@ -2080,7 +2080,7 @@ const tasks = [
   {
     id: 211,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Brutally murder Conrad King",
     description: "Brutally murder Conrad King.",
     requirements: "20 ThievingPartial completion of   The Queen of Thieves",
@@ -2091,7 +2091,7 @@ const tasks = [
   {
     id: 212,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete 1 Farming Contract",
     description:
       "Complete a Farming Contract for Guildmaster Jane in the Farming Guild.",
@@ -2103,7 +2103,7 @@ const tasks = [
   {
     id: 213,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete Architectural Alliance",
     description: "Complete the mini-quest   Architectural Alliance.",
     requirements: "42 Mining100% of each type of   Kourend favour",
@@ -2114,7 +2114,7 @@ const tasks = [
   {
     id: 214,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete Ascent of Arceuus",
     description: "Complete the   Ascent of Arceuus quest.",
     requirements: "12 Hunter20%   Arceuus favour",
@@ -2125,7 +2125,7 @@ const tasks = [
   {
     id: 215,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete Client of Kourend",
     description: "Complete the   Client of Kourend quest.",
     requirements: "N/A",
@@ -2136,7 +2136,7 @@ const tasks = [
   {
     id: 216,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete Depths of Despair",
     description: "Complete the   Depths of Despair quest.",
     requirements: "18 Agility20%   Hosidius favour",
@@ -2147,7 +2147,7 @@ const tasks = [
   {
     id: 217,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete Forsaken Tower",
     description: "Complete the   Forsaken Tower quest.",
     requirements: "20%   Lovakengj favour",
@@ -2158,7 +2158,7 @@ const tasks = [
   {
     id: 218,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete In Search Of Knowledge",
     description: "Complete the mini-quest   In Search Of Knowledge.",
     requirements: "N/A",
@@ -2169,7 +2169,7 @@ const tasks = [
   {
     id: 219,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete Queen of Thieves",
     description: "Complete the   Queen of Thieves quest.",
     requirements: "20 Thieving20%   Piscarilius favour",
@@ -2180,7 +2180,7 @@ const tasks = [
   {
     id: 220,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete Tale Of The Righteous",
     description: "Complete the   Tale of the Righteous quest.",
     requirements: "16 Strength,  10 Mining20%   Shayzien favour",
@@ -2191,7 +2191,7 @@ const tasks = [
   {
     id: 221,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Drink a LizardKicker",
     description: "Drink a LizardKicker.",
     requirements: "N/A",
@@ -2202,7 +2202,7 @@ const tasks = [
   {
     id: 222,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Protest Banner",
     description: "Equip a Protest Banner.",
     requirements: "N/A",
@@ -2213,7 +2213,7 @@ const tasks = [
   {
     id: 223,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Fish an old boot in stranglewood",
     description: "Fish an old boot in stranglewood.",
     requirements:
@@ -2225,7 +2225,7 @@ const tasks = [
   {
     id: 224,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Open 1 Grubby Chest",
     description: "Open the grubby chest in the Forthos Dungeon.",
     requirements: "57 Thieving",
@@ -2236,7 +2236,7 @@ const tasks = [
   {
     id: 225,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Open 15 Grubby Chests",
     description: "Open the grubby chest in the Forthos Dungeon 15 times.",
     requirements: "57 Thieving",
@@ -2247,7 +2247,7 @@ const tasks = [
   {
     id: 226,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Pray at an altar in Molch while poisoned.",
     description: "Pray at an altar in Molch while poisoned.",
     requirements: "N/A",
@@ -2258,7 +2258,7 @@ const tasks = [
   {
     id: 227,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Receive a Konar Slayer Task",
     description: "Have a Slayer Task assigned by Konar.",
     requirements: "N/A",
@@ -2269,7 +2269,7 @@ const tasks = [
   {
     id: 228,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Steal 1 Artefact",
     description: "Steal an artefact for Captain Khaled in Piscarilius.",
     requirements: "49 Thieving75%   Piscarilius favour",
@@ -2280,7 +2280,7 @@ const tasks = [
   {
     id: 229,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Turn in 1 Library Book",
     description: "Find and turn in a book in the Arceuus Library.",
     requirements: "N/A",
@@ -2291,7 +2291,7 @@ const tasks = [
   {
     id: 230,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Build a Bank on Fossil Island",
     description: "Build a Bank at the Museum Camp on Fossil Island.",
     requirements: "21 Construction",
@@ -2302,7 +2302,7 @@ const tasks = [
   {
     id: 231,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Charm Gertrude",
     description: "Charm Gertrude.",
     requirements:
@@ -2314,7 +2314,7 @@ const tasks = [
   {
     id: 232,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Chop a log from a potato tree",
     description: "Chop a log from a tree that is curiously in a potato field.",
     requirements: "Lonely tree",
@@ -2325,7 +2325,7 @@ const tasks = [
   {
     id: 233,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Churn some butter",
     description: "Use a churn to make some butter.",
     requirements: "38 Cooking",
@@ -2336,7 +2336,7 @@ const tasks = [
   {
     id: 234,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete Gertrude's Cat",
     description: "Complete the   Gertrude's Cat quest.",
     requirements: "N/A",
@@ -2347,7 +2347,7 @@ const tasks = [
   {
     id: 235,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete Romeo & Juliet",
     description: "Complete the   Romeo & Juliet Quest",
     requirements: "N/A",
@@ -2358,7 +2358,7 @@ const tasks = [
   {
     id: 236,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete Sheep Shearer",
     description: "Complete the   Sheep Shearer quest.",
     requirements: "N/A",
@@ -2369,7 +2369,7 @@ const tasks = [
   {
     id: 237,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Draynor Agility Course",
     description: "Complete a lap of the Draynor Rooftop Agility Course.",
     requirements: "N/A",
@@ -2380,7 +2380,7 @@ const tasks = [
   {
     id: 238,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Natural History Quiz",
     description: "Complete the Natural History Quiz in the Varrock Museum.",
     requirements: "N/A",
@@ -2391,7 +2391,7 @@ const tasks = [
   {
     id: 239,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Varrock Agility Course",
     description: "Complete a lap of the Varrock Rooftop Agility Course.",
     requirements: "30 Agility",
@@ -2402,7 +2402,7 @@ const tasks = [
   {
     id: 240,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete Vampyre Slayer",
     description: "Complete the   Vampyre Slayer quest.",
     requirements: "N/A",
@@ -2413,7 +2413,7 @@ const tasks = [
   {
     id: 241,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Craft 50 Water Runes",
     description: "Craft 50 Water Runes from Essence at the Water Altar.",
     requirements: "N/A",
@@ -2424,7 +2424,7 @@ const tasks = [
   {
     id: 242,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat the Lesser Demon in the Wizards' Tower",
     description: "Defeat the Lesser Demon at the top of the Wizards' Tower.",
     requirements: "N/A",
@@ -2435,7 +2435,7 @@ const tasks = [
   {
     id: 243,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Enter Draynor Manor",
     description: "Enter Draynor Manor through the front door.",
     requirements: "N/A",
@@ -2446,7 +2446,7 @@ const tasks = [
   {
     id: 244,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Enter Zanaris",
     description: "Enter the lost city of Zanaris.",
     requirements: "N/A",
@@ -2457,7 +2457,7 @@ const tasks = [
   {
     id: 245,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip Some Fancy, Fancier or Fighting Boots",
     description:
       "Equip a pair of Fancy Boots, Fancier Boots or Fighting Boots.",
@@ -2469,7 +2469,7 @@ const tasks = [
   {
     id: 246,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Feed a draynor guard some stew",
     description: "Feed a Draynor guard some stew in Draynor Village.",
     requirements: "N/A",
@@ -2480,7 +2480,7 @@ const tasks = [
   {
     id: 247,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Fully Unlock the Mycelium Transportation System",
     description:
       "Unlock every destination for the Mycelium Transportation System on Fossil Island.",
@@ -2492,7 +2492,7 @@ const tasks = [
   {
     id: 248,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Get a chair to follow you",
     description: "Get a chair to follow you.",
     requirements: "N/A",
@@ -2503,7 +2503,7 @@ const tasks = [
   {
     id: 249,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Get your revenge against a Dark Wizard",
     description: "Get your revenge against a Dark Wizard, south of Varrock.",
     requirements: "N/A",
@@ -2514,7 +2514,7 @@ const tasks = [
   {
     id: 250,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Have Elsie tell you a story",
     description: "Have Elsie tell you a story in Varrock.",
     requirements: "A cup of tea",
@@ -2525,7 +2525,7 @@ const tasks = [
   {
     id: 251,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Have Ned make you some rope",
     description:
       "Have Ned make you some rope using a ball of wool in Draynor Village.",
@@ -2537,7 +2537,7 @@ const tasks = [
   {
     id: 252,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Insult Aggie the Witch",
     description: "Insult Aggie the Witch in Draynor Village.",
     requirements: "N/A",
@@ -2548,7 +2548,7 @@ const tasks = [
   {
     id: 253,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Milk a cow",
     description: "Milk a cow in Lumbridge.",
     requirements: "N/A",
@@ -2559,7 +2559,7 @@ const tasks = [
   {
     id: 254,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Pet a Stray Dog in Varrock",
     description: "Pet a Stray Dog in Varrock.",
     requirements: "N/A",
@@ -2570,7 +2570,7 @@ const tasks = [
   {
     id: 255,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Pet the Museum Camp dog",
     description: "Pet the dog in the Museum Camp on Fossil Island.",
     requirements: "N/A",
@@ -2581,7 +2581,7 @@ const tasks = [
   {
     id: 256,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Pickpocket a H.A.M. Member",
     description: "Pickpocket any H.A.M. member at their hideout.",
     requirements: "15 Thieving",
@@ -2592,7 +2592,7 @@ const tasks = [
   {
     id: 257,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Receive a Slayer Task From Vannaka",
     description: "Receive a Slayer Task from Vannaka in Edgeville Dungeon.",
     requirements: "N/A",
@@ -2603,7 +2603,7 @@ const tasks = [
   {
     id: 258,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Slash a web in varrock sewers",
     description: "Slash a web in Varrock sewers.",
     requirements: "N/A",
@@ -2614,7 +2614,7 @@ const tasks = [
   {
     id: 259,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Steal From the Varrock Tea Stall",
     description: "Steal from the Tea Stall in Varrock.",
     requirements: "5 Thieving",
@@ -2625,7 +2625,7 @@ const tasks = [
   {
     id: 260,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Taste a Dorgeshuun Delicacy",
     description: "Taste a Dorgeshuun Delicacy.",
     requirements: "N/A",
@@ -2636,7 +2636,7 @@ const tasks = [
   {
     id: 261,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Travel to Fossil Island",
     description: "Take the Museum Barge to Fossil Island.",
     requirements: "N/A",
@@ -2647,7 +2647,7 @@ const tasks = [
   {
     id: 262,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Use a Fairy Ring",
     description: "Use any Fairy Ring.",
     requirements: "N/A",
@@ -2658,7 +2658,7 @@ const tasks = [
   {
     id: 263,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Use the Range in Lumbridge Castle",
     description: "Use the Range in Lumbridge Castle to cook some food.",
     requirements: "Completion of   Cook's Assistant",
@@ -2669,7 +2669,7 @@ const tasks = [
   {
     id: 264,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete an Easy Temple Trek",
     description: "Complete an easy Temple Trek.",
     requirements: "N/A",
@@ -2680,7 +2680,7 @@ const tasks = [
   {
     id: 265,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Craft a Snelm",
     description: "Craft any Snelm.",
     requirements: "15 Crafting",
@@ -2691,7 +2691,7 @@ const tasks = [
   {
     id: 266,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat a Ghast",
     description: "Defeat a Ghast in Mort Myre.",
     requirements: "N/A",
@@ -2702,7 +2702,7 @@ const tasks = [
   {
     id: 267,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat a Werewolf in Morytania",
     description: "Defeat a Werewolf in Morytania.",
     requirements: "N/A",
@@ -2713,7 +2713,7 @@ const tasks = [
   {
     id: 268,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat One of Fenkenstrain's Experiments",
     description:
       "Defeat one of Fenkenstrain's Experiments in the Experiment Cave.",
@@ -2725,7 +2725,7 @@ const tasks = [
   {
     id: 269,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Open a Bronze Chest",
     description: "Open a Bronze Chest from Shades of Mort'ton.",
     requirements: "5 FiremakingCompletion of   Shades of Mort'ton",
@@ -2736,7 +2736,7 @@ const tasks = [
   {
     id: 270,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Receive a Slayer Task From Mazchna",
     description: "Receive a Slayer Task from Mazchna in Canifis.",
     requirements: "20 Combat level",
@@ -2747,7 +2747,7 @@ const tasks = [
   {
     id: 271,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Visit Harmony Island",
     description: "Visit Harmony Island.",
     requirements: "N/A",
@@ -2758,7 +2758,7 @@ const tasks = [
   {
     id: 272,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Visit Mos Le'Harmless",
     description: "Visit Mos Le'Harmless.",
     requirements: "N/A",
@@ -2769,7 +2769,7 @@ const tasks = [
   {
     id: 273,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Visit Port Phasmatys",
     description: "Visit Port Phasmatys.",
     requirements: "N/A",
@@ -2780,7 +2780,7 @@ const tasks = [
   {
     id: 274,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Charter a Ship From Prifddinas to Port Tyras",
     description: "Take a Charter Ship from Prifddinas to Port Tyras.",
     requirements: "N/A",
@@ -2791,7 +2791,7 @@ const tasks = [
   {
     id: 275,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Cook a Rabbit in Tirannwn",
     description: "Cook a Rabbit anywhere within Tirannwn.",
     requirements: "N/A",
@@ -2802,7 +2802,7 @@ const tasks = [
   {
     id: 276,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Cross a Trap in Isafdar",
     description: "Successfully cross any kind of trap in Isafdar.",
     requirements: "N/A",
@@ -2813,7 +2813,7 @@ const tasks = [
   {
     id: 277,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat a Moss Giant in Tirannwn",
     description: "Defeat a Moss Giant in Tirannwn.",
     requirements: "N/A",
@@ -2824,7 +2824,7 @@ const tasks = [
   {
     id: 278,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat a Waterfiend in Tirannwn",
     description: "Defeat a Waterfiend in Tirannwn.",
     requirements: "N/A",
@@ -2835,7 +2835,7 @@ const tasks = [
   {
     id: 279,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Harvest Some Sweetcorn in Prifddinas",
     description: "Harvest some Sweetcorn from the Prifddinas Allotment patch.",
     requirements: "20 Farming",
@@ -2846,7 +2846,7 @@ const tasks = [
   {
     id: 280,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Talk to Ilfeen in Tirannwn",
     description: "Talk to Ilfeen in Tirannwn.",
     requirements: "N/A",
@@ -2857,7 +2857,7 @@ const tasks = [
   {
     id: 281,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Use Broken Handz's telescope",
     description: "Use Broken Hand'z telescope to spy on somene.",
     requirements: "N/A",
@@ -2868,7 +2868,7 @@ const tasks = [
   {
     id: 282,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Use the Bank in Lletya",
     description: "Use the Bank in Lletya.",
     requirements: "N/A",
@@ -2879,7 +2879,7 @@ const tasks = [
   {
     id: 283,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat a Chaos Dwarf in the Wilderness",
     description: "Defeat a Chaos Dwarf in the Wilderness.",
     requirements: "N/A",
@@ -2890,7 +2890,7 @@ const tasks = [
   {
     id: 284,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat a Fire Giant in the Wilderness",
     description: "Defeat a Fire Giant in the Wilderness.",
     requirements: "N/A",
@@ -2901,7 +2901,7 @@ const tasks = [
   {
     id: 285,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Enter the Wilderness God Wars Dungeon",
     description: "Enter the Wilderness God Wars Dungeon.",
     requirements: "N/A",
@@ -2912,7 +2912,7 @@ const tasks = [
   {
     id: 286,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Enter the Wilderness Resource Area",
     description: "Enter the Wilderness Resource Area.",
     requirements: "N/A",
@@ -2923,7 +2923,7 @@ const tasks = [
   {
     id: 287,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a team cape",
     description: "Equip a team cape.",
     requirements: "N/A",
@@ -2934,7 +2934,7 @@ const tasks = [
   {
     id: 288,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Order a Drink at The Old Nite",
     description: "Order a drink at The Old Nite.",
     requirements: "N/A",
@@ -2945,7 +2945,7 @@ const tasks = [
   {
     id: 289,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Pray at the Southern Chaos Temple",
     description: "Pray at the altar in the Southern Chaos Temple.",
     requirements: "N/A",
@@ -2956,7 +2956,7 @@ const tasks = [
   {
     id: 290,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Pray at the Western Chaos Temple",
     description: "Pray at the altar in the Western Chaos Temple.",
     requirements: "N/A",
@@ -2967,7 +2967,7 @@ const tasks = [
   {
     id: 291,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Use a Lever to Teleport to Edgeville",
     description: "Use the lever near the Mage Arena to teleport to Edgeville.",
     requirements: "Completion of the   Easy Wilderness Diary",
@@ -2978,7 +2978,7 @@ const tasks = [
   {
     id: 292,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Use the Bank at the Mage Arena",
     description: "Use the Bank at the Mage Arena.",
     requirements: "N/A",
@@ -2989,7 +2989,7 @@ const tasks = [
   {
     id: 293,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Visit Ferox Enclave",
     description: "Visit Ferox Enclave.",
     requirements: "N/A",
@@ -3000,7 +3000,7 @@ const tasks = [
   {
     id: 294,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "1 Combat Achievement",
     description: "Complete 1 Combat Achievement",
     requirements: "N/A",
@@ -3011,7 +3011,7 @@ const tasks = [
   {
     id: 295,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "1 Elite Clue Scroll",
     description: "Open a Reward casket for completing an elite clue scroll.",
     requirements: "N/A",
@@ -3022,7 +3022,7 @@ const tasks = [
   {
     id: 296,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "1 Hard Clue Scroll",
     description: "Open a Reward casket for completing a hard clue scroll.",
     requirements: "N/A",
@@ -3033,7 +3033,7 @@ const tasks = [
   {
     id: 297,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "10 Combat Achievements",
     description: "Complete 10 Combat Achievements",
     requirements: "N/A",
@@ -3044,7 +3044,7 @@ const tasks = [
   {
     id: 298,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "100 Superior Slayer Encounters",
     description: "Defeat 100 superior foes while on a Slayer Task.",
     requirements:
@@ -3056,7 +3056,7 @@ const tasks = [
   {
     id: 299,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "15 Collection log slots",
     description: "Obtain 15 unique Collection Log slots.",
     requirements: "N/A",
@@ -3067,7 +3067,7 @@ const tasks = [
   {
     id: 300,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "150 Easy Clue Scrolls",
     description: "Open 150 Reward caskets for completing easy clue scrolls.",
     requirements: "N/A",
@@ -3078,7 +3078,7 @@ const tasks = [
   {
     id: 301,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "150 Medium Clue Scrolls",
     description: "Open 150 Reward caskets for completing medium clue scrolls.",
     requirements: "N/A",
@@ -3089,7 +3089,7 @@ const tasks = [
   {
     id: 302,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "25 Hard Clue Scrolls",
     description: "Open 25 Reward caskets for completing hard clue scrolls.",
     requirements: "N/A",
@@ -3100,7 +3100,7 @@ const tasks = [
   {
     id: 303,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "25 Medium Clue Scrolls",
     description: "Open 25 Reward caskets for completing medium clue scrolls.",
     requirements: "N/A",
@@ -3111,7 +3111,7 @@ const tasks = [
   {
     id: 304,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "25 Superior Slayer Encounters",
     description: "Defeat 25 superior foes while on a Slayer Task.",
     requirements:
@@ -3123,7 +3123,7 @@ const tasks = [
   {
     id: 305,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "30 Collection log slots",
     description: "Obtain 30 unique Collection Log slots.",
     requirements: "N/A",
@@ -3134,7 +3134,7 @@ const tasks = [
   {
     id: 306,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "5 Collection log slots",
     description: "Obtain 5 unique Collection Log slots.",
     requirements: "N/A",
@@ -3145,7 +3145,7 @@ const tasks = [
   {
     id: 307,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "75 Easy Clue Scrolls",
     description: "Open 75 Reward caskets for completing easy clue scrolls.",
     requirements: "N/A",
@@ -3156,7 +3156,7 @@ const tasks = [
   {
     id: 308,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "75 Medium Clue Scrolls",
     description: "Open 75 Reward caskets for completing medium clue scrolls.",
     requirements: "N/A",
@@ -3167,7 +3167,7 @@ const tasks = [
   {
     id: 309,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "75 Superior Slayer Encounters",
     description: "Defeat 75 superior foes while on a Slayer Task.",
     requirements:
@@ -3179,7 +3179,7 @@ const tasks = [
   {
     id: 310,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 30",
     description: "Reach level 30 in any skill.",
     requirements: "N/A",
@@ -3190,7 +3190,7 @@ const tasks = [
   {
     id: 311,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 40",
     description: "Reach level 40 in any skill.",
     requirements: "N/A",
@@ -3201,7 +3201,7 @@ const tasks = [
   {
     id: 312,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 50",
     description: "Reach level 50 in any skill.",
     requirements: "N/A",
@@ -3212,7 +3212,7 @@ const tasks = [
   {
     id: 313,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Activate Smite",
     description: "Activate Smite in your Prayer book.",
     requirements: "52 Prayer",
@@ -3223,7 +3223,7 @@ const tasks = [
   {
     id: 314,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Build a Mahogany Portal",
     description:
       "Build a Mahogany Portal in a Portal Chamber in your Player Owned House.",
@@ -3235,7 +3235,7 @@ const tasks = [
   {
     id: 315,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Build a Waka Canoe",
     description: "Build a Waka Canoe.",
     requirements: "57 Woodcutting",
@@ -3246,7 +3246,7 @@ const tasks = [
   {
     id: 316,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Build an Oak Larder",
     description: "Build an Oak Larder in a Kitchen in your Player Owned House.",
     requirements: "33 Construction",
@@ -3257,7 +3257,7 @@ const tasks = [
   {
     id: 317,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Burn 100 Willow Logs",
     description: "Burn 100 Willow Logs.",
     requirements: "30 Firemaking",
@@ -3268,7 +3268,7 @@ const tasks = [
   {
     id: 318,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Bury Some Wyvern or Dragon Bones",
     description: "Bury either some Wyvern Bones or some Dragon Bones.",
     requirements: "N/A",
@@ -3279,7 +3279,7 @@ const tasks = [
   {
     id: 319,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cast a Blast Spell",
     description: "Cast any blast spell.",
     requirements: "41 Magic",
@@ -3290,7 +3290,7 @@ const tasks = [
   {
     id: 320,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cast High Level Alchemy",
     description: "Cast the High Level Alchemy spell.",
     requirements: "55 Magic",
@@ -3301,7 +3301,7 @@ const tasks = [
   {
     id: 321,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch 100 Lobsters",
     description: "Catch 100 Raw Lobsters whilst Fishing.",
     requirements: "40 Fishing",
@@ -3312,7 +3312,7 @@ const tasks = [
   {
     id: 322,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch 50 Salmon",
     description: "Catch 50 Raw Salmon whilst Fishing.",
     requirements: "30 Fishing",
@@ -3323,7 +3323,7 @@ const tasks = [
   {
     id: 323,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch 50 Swordfish",
     description: "Catch 50 Raw Swordfish whilst Fishing.",
     requirements: "50 Fishing",
@@ -3334,7 +3334,7 @@ const tasks = [
   {
     id: 324,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch a Swamp Lizard or Salamander",
     description: "Catch either a Swamp Lizard or any kind of Salamander.",
     requirements:
@@ -3346,7 +3346,7 @@ const tasks = [
   {
     id: 325,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Check a grown Fruit Tree",
     description: "Check the health of any Fruit Tree you've grown.",
     requirements: "27 Farming",
@@ -3357,7 +3357,7 @@ const tasks = [
   {
     id: 326,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Chop 100 Willow Logs",
     description: "Chop 100 Willow Logs from Willow Trees.",
     requirements: "30 Woodcutting",
@@ -3368,7 +3368,7 @@ const tasks = [
   {
     id: 327,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Chop Some Logs With a Rune Axe",
     description: "Chop any kind of logs using a Rune Axe.",
     requirements: "41 Woodcutting",
@@ -3379,7 +3379,7 @@ const tasks = [
   {
     id: 328,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Chop some Rising Roots",
     description: "Chop some Rising Roots spawned via Forestry.",
     requirements: "N/A",
@@ -3390,7 +3390,7 @@ const tasks = [
   {
     id: 329,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Clean a Grimy Avantoe",
     description: "Clean a Grimy Avantoe.",
     requirements: "48 Herblore",
@@ -3401,7 +3401,7 @@ const tasks = [
   {
     id: 330,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 50 Laps of a Rooftop Agility Course",
     description: "Complete 50 laps of any Rooftop Agility Course.",
     requirements: "N/A",
@@ -3412,7 +3412,7 @@ const tasks = [
   {
     id: 331,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 50 Mahogany homes contracts",
     description: "Complete 50 Mahogany homes contracts.",
     requirements: "Asgarnia✓ to start contracts",
@@ -3423,7 +3423,7 @@ const tasks = [
   {
     id: 332,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete a Mahogany homes adept contract",
     description: "Complete a Mahogany homes adept contract.",
     requirements: "50 Construction Asgarnia✓ to start contracts",
@@ -3434,7 +3434,7 @@ const tasks = [
   {
     id: 333,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete a Mahogany homes beginner contract",
     description: "Complete a   Mahogany homes beginner contract.",
     requirements: "Asgarnia✓ to start contracts",
@@ -3445,7 +3445,7 @@ const tasks = [
   {
     id: 334,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete a Mahogany homes novice contract",
     description: "Complete a Mahogany homes novice contract.",
     requirements: "20 Construction Asgarnia✓ to start contracts",
@@ -3456,7 +3456,7 @@ const tasks = [
   {
     id: 335,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete the Easy Western Provinces Diary",
     description:
       "Complete all of the easy tasks in the   Western Provinces Achievement Diary.",
@@ -3469,7 +3469,7 @@ const tasks = [
   {
     id: 336,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete the Flowering Bush event",
     description: "Complete the Flowering Bush event spawned via Forestry.",
     requirements:
@@ -3481,7 +3481,7 @@ const tasks = [
   {
     id: 337,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete the Medium Western Provinces Diary",
     description:
       "Complete all of the medium tasks in the   Western Provinces Achievement Diary.",
@@ -3494,7 +3494,7 @@ const tasks = [
   {
     id: 338,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete the Pheasant Forestry Event",
     description: "Complete the Pheasant event spawned via Forestry.",
     requirements: "N/A",
@@ -3505,7 +3505,7 @@ const tasks = [
   {
     id: 339,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete the Ritual Forestry Event",
     description: "Complete the Ritual event spawned via Forestry.",
     requirements: "N/A",
@@ -3516,7 +3516,7 @@ const tasks = [
   {
     id: 340,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete the Struggling Sapling event",
     description: "Complete the Struggling Sapling event spawned via Forestry.",
     requirements: "N/A",
@@ -3527,7 +3527,7 @@ const tasks = [
   {
     id: 341,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cook 100 Lobsters",
     description: "Cook 100 Raw Lobsters.",
     requirements: "40 Cooking",
@@ -3538,7 +3538,7 @@ const tasks = [
   {
     id: 342,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft 100 Unpowered Orbs",
     description: "Craft 100 Unpowered Orbs.",
     requirements: "46 Crafting",
@@ -3549,7 +3549,7 @@ const tasks = [
   {
     id: 343,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft 200 Essence Into Runes",
     description:
       "Use Runecrafting Altars to craft 200 essence into runes of any type.",
@@ -3561,7 +3561,7 @@ const tasks = [
   {
     id: 344,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft 4 Runes With 1 Essence",
     description:
       "Use a Runecrafting Altar to craft 4 of any type of rune using a single essence.",
@@ -3573,7 +3573,7 @@ const tasks = [
   {
     id: 345,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft a Ruby Amulet",
     description: "Craft a Ruby Amulet.",
     requirements: "50 Crafting",
@@ -3584,7 +3584,7 @@ const tasks = [
   {
     id: 346,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft an Emerald Ring",
     description: "Craft an Emerald Ring.",
     requirements: "27 Crafting",
@@ -3595,7 +3595,7 @@ const tasks = [
   {
     id: 347,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft Any Combination Rune",
     description:
       "Use a Runecrafting Altar to craft any type of combination rune.",
@@ -3607,7 +3607,7 @@ const tasks = [
   {
     id: 348,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Create a green d'hide shield",
     description: "Create a green d'hide shield.",
     requirements: "62 Crafting",
@@ -3618,7 +3618,7 @@ const tasks = [
   {
     id: 349,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Create a Guthix Rest Tea",
     description: "Create a Guthix Rest Tea.",
     requirements:
@@ -3630,7 +3630,7 @@ const tasks = [
   {
     id: 350,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Create a Mithril Grapple",
     description: "Create a Mithril Grapple.",
     requirements: "59 Fletching,  59 Smithing",
@@ -3641,7 +3641,7 @@ const tasks = [
   {
     id: 351,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat a Lesser Demon",
     description: "Defeat a Lesser Demon.",
     requirements: "N/A",
@@ -3652,7 +3652,7 @@ const tasks = [
   {
     id: 352,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat a Superior Slayer Creature",
     description: "Defeat any Superior Slayer Creature.",
     requirements:
@@ -3664,7 +3664,7 @@ const tasks = [
   {
     id: 353,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat an Adult Chromatic Dragon",
     description:
       "Defeat either an adult Green Dragon, Blue Dragon, Red Dragon or Black Dragon.",
@@ -3676,7 +3676,7 @@ const tasks = [
   {
     id: 354,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a frog mask",
     description: "Equip a frog mask.",
     requirements: "N/A",
@@ -3687,7 +3687,7 @@ const tasks = [
   {
     id: 355,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Adamant Set",
     description:
       "Equip an Adamant Platebody, a Adamant Full Helm and either some Adamant Platelegs or an Adamant Plateskirt.",
@@ -3699,7 +3699,7 @@ const tasks = [
   {
     id: 356,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Blue Dragonhide Set",
     description:
       "Equip a Blue Dragonhide Body, some Blue Dragonhide Chaps and some Blue Dragonhide Vambraces.",
@@ -3711,7 +3711,7 @@ const tasks = [
   {
     id: 357,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Green Dragonhide Set",
     description:
       "Equip a Green Dragonhide Body, some Green Dragonhide Chaps and some Green Dragonhide Vambraces.",
@@ -3723,7 +3723,7 @@ const tasks = [
   {
     id: 358,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Red Dragonhide Set",
     description:
       "Equip a Red Dragonhide Body, some Red Dragonhide Chaps and some Red Dragonhide Vambraces.",
@@ -3735,7 +3735,7 @@ const tasks = [
   {
     id: 359,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Rune Set",
     description:
       "Equip a Rune Platebody, a Rune Full Helm and either some Rune Platelegs or a Rune Plateskirt.",
@@ -3747,7 +3747,7 @@ const tasks = [
   {
     id: 360,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Granite Shield",
     description: "Equip a Granite Shield.",
     requirements:
@@ -3759,7 +3759,7 @@ const tasks = [
   {
     id: 361,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Harpie Bug Lantern",
     description: "Equip a Harpie Bug Lantern.",
     requirements: "33 Firemaking,  33 Slayer",
@@ -3770,7 +3770,7 @@ const tasks = [
   {
     id: 362,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Lava Battlestaff",
     description: "Equip a Lava Battlestaff.",
     requirements: "30 Attack,  30 Magic",
@@ -3781,7 +3781,7 @@ const tasks = [
   {
     id: 363,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Leaf-Bladed Sword",
     description: "Equip a Leaf-Bladed Sword.",
     requirements: "50 Attack,  55 SlayerRequires  Fremennik✓ or  Tirannwn✓",
@@ -3792,7 +3792,7 @@ const tasks = [
   {
     id: 364,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Piece of a Mystic Set",
     description: "Equip any piece of any Mystic robe set.",
     requirements: "40 Magic,  20 Defence",
@@ -3803,7 +3803,7 @@ const tasks = [
   {
     id: 365,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Rune Weapon",
     description: "Equip any Rune weapon.",
     requirements: "40 Attack",
@@ -3814,7 +3814,7 @@ const tasks = [
   {
     id: 366,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Trimmed Amulet",
     description: "Equip a Trimmed Amulet.",
     requirements: "N/A",
@@ -3825,7 +3825,7 @@ const tasks = [
   {
     id: 367,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Wizard Robe and Hat",
     description: "Equip any wizard robe along with any wizard hat.",
     requirements: "N/A",
@@ -3836,7 +3836,7 @@ const tasks = [
   {
     id: 368,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Yew Shortbow",
     description: "Equip a Yew Shortbow.",
     requirements: "40 Ranged",
@@ -3847,7 +3847,7 @@ const tasks = [
   {
     id: 369,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip an Adamant Weapon",
     description: "Equip any Adamant weapon.",
     requirements: "30 Attack",
@@ -3858,7 +3858,7 @@ const tasks = [
   {
     id: 370,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip an Elemental Battlestaff or Mystic Staff",
     description:
       "Equip either an elemental battlestaff or an elemental mystic staff.",
@@ -3870,7 +3870,7 @@ const tasks = [
   {
     id: 371,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip full Graahk, Larupia or Kyatt",
     description: "Equip a full set of Graahk, Larupia or Kyatt attire.",
     requirements:
@@ -3882,7 +3882,7 @@ const tasks = [
   {
     id: 372,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Ferment 100 Jugs of Wine",
     description: "Successfully ferment 100 Jugs of Wine.",
     requirements: "35 Cooking",
@@ -3893,7 +3893,7 @@ const tasks = [
   {
     id: 373,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 3 Elite Clue Collection Log Slots",
     description:
       "Fill 3 slots in the Elite Clue section of the Collection Log.",
@@ -3905,7 +3905,7 @@ const tasks = [
   {
     id: 374,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 3 Hard Clue Collection Log Slots",
     description: "Fill 3 slots in the Hard Clue section of the Collection Log.",
     requirements: "N/A",
@@ -3916,7 +3916,7 @@ const tasks = [
   {
     id: 375,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 5 Beginner Clue Collection Log Slots",
     description:
       "Fill 5 slots in the Beginner Clue section of the Collection Log.",
@@ -3928,7 +3928,7 @@ const tasks = [
   {
     id: 376,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 5 Easy Clue Collection Log Slots",
     description: "Fill 5 slots in the Easy Clue section of the Collection Log.",
     requirements: "N/A",
@@ -3939,7 +3939,7 @@ const tasks = [
   {
     id: 377,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 5 Medium Clue Collection Log Slots",
     description:
       "Fill 5 slots in the Medium Clue section of the Collection Log.",
@@ -3951,7 +3951,7 @@ const tasks = [
   {
     id: 378,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill a Bucket With Supercompost",
     description: "Fill a Bucket with Supercompost from a Compost Bin.",
     requirements:
@@ -3963,7 +3963,7 @@ const tasks = [
   {
     id: 379,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill a Large Pouch",
     description: "Fill a Large Pouch with Essence.",
     requirements: "50 Runecraft",
@@ -3974,7 +3974,7 @@ const tasks = [
   {
     id: 380,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill a Medium S.T.A.S.H. Unit",
     description:
       "Build a Medium S.T.A.S.H. unit and fill it with the relevant items.",
@@ -3986,7 +3986,7 @@ const tasks = [
   {
     id: 381,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch 100 Yew shortbows",
     description: "Fletch 100 Yew shortbows.",
     requirements: "65 Fletching",
@@ -3997,7 +3997,7 @@ const tasks = [
   {
     id: 382,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch a Willow Shortbow",
     description: "Fletch a Willow Shortbow.",
     requirements:
@@ -4009,7 +4009,7 @@ const tasks = [
   {
     id: 383,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch some Broad Arrows or Bolts",
     description: "Fletch either some Broad Arrows or some Broad Bolts.",
     requirements:
@@ -4021,7 +4021,7 @@ const tasks = [
   {
     id: 384,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fully deplete a Blood Essence",
     description: "Fully deplete a Blood Essence.",
     requirements:
@@ -4033,7 +4033,7 @@ const tasks = [
   {
     id: 385,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 10 Unique Items From Beginner Clues",
     description:
       "Gain 10 unique items from Beginner Clue Scroll Reward Caskets.",
@@ -4045,7 +4045,7 @@ const tasks = [
   {
     id: 386,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 10 Unique Items From Easy Clues",
     description: "Gain 10 unique items from Easy Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -4056,7 +4056,7 @@ const tasks = [
   {
     id: 387,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 10 Unique Items From Medium Clues",
     description: "Gain 10 unique items from Medium Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -4067,7 +4067,7 @@ const tasks = [
   {
     id: 388,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 5 Unique Items From Hard Clues",
     description: "Gain 5 unique items from Hard Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -4078,7 +4078,7 @@ const tasks = [
   {
     id: 389,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain a Unique Item From a Hard Clue",
     description: "Gain a unique item from a Hard Clue Scroll Reward Casket.",
     requirements: "N/A",
@@ -4089,7 +4089,7 @@ const tasks = [
   {
     id: 390,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain a Unique Item From a Medium Clue",
     description: "Gain a unique item from a Medium Clue Scroll Reward Casket.",
     requirements: "N/A",
@@ -4100,7 +4100,7 @@ const tasks = [
   {
     id: 391,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Harvest an Irit Leaf",
     description: "Harvest an Irit Leaf from any Herb patch.",
     requirements:
@@ -4112,7 +4112,7 @@ const tasks = [
   {
     id: 392,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Kill 6 cows in 10 seconds",
     description: "Kill 6 cows in 10 seconds.",
     requirements: "N/A",
@@ -4123,7 +4123,7 @@ const tasks = [
   {
     id: 393,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Kill three chickens in 6 seconds.",
     description: "Kill three chickens in 6 seconds.",
     requirements: "N/A",
@@ -4134,7 +4134,7 @@ const tasks = [
   {
     id: 394,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Light a Bullseye Lantern",
     description: "Light a Bullseye Lantern.",
     requirements:
@@ -4146,7 +4146,7 @@ const tasks = [
   {
     id: 395,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Make 30 Prayer Potions",
     description: "Make 30 Prayer Potions.",
     requirements: "38 Herblore",
@@ -4157,7 +4157,7 @@ const tasks = [
   {
     id: 396,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Make a 4 dose potion",
     description: "Make any 4 dose potion using an Amulet of Chemistry.",
     requirements:
@@ -4169,7 +4169,7 @@ const tasks = [
   {
     id: 397,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Make a Pineapple Pizza",
     description: "Make a Pineapple Pizza.",
     requirements: "65 Cooking",
@@ -4180,7 +4180,7 @@ const tasks = [
   {
     id: 398,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Mine 50 Iron Ore",
     description: "Mine 50 Iron Ore.",
     requirements: "15 Mining",
@@ -4191,7 +4191,7 @@ const tasks = [
   {
     id: 399,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Mine some Ore With a Rune Pickaxe",
     description: "Mine any ore using a Rune Pickaxe.",
     requirements: "41 Mining",
@@ -4202,7 +4202,7 @@ const tasks = [
   {
     id: 400,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 800 Coins From Coin Pouches At Once",
     description: "Open a stack of Coin Pouches and obtain at least 800 Coins.",
     requirements:
@@ -4214,7 +4214,7 @@ const tasks = [
   {
     id: 401,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain a Clue Geode While Mining",
     description: "Obtain any kind of clue geode whilst Mining a rock.",
     requirements: "N/A",
@@ -4225,7 +4225,7 @@ const tasks = [
   {
     id: 402,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Perform a Special Attack",
     description: "Perform any special attack.",
     requirements: "N/A",
@@ -4236,7 +4236,7 @@ const tasks = [
   {
     id: 403,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Pickpocket a Guard",
     description: "Pickpocket a Guard.",
     requirements: "40 Thieving",
@@ -4247,7 +4247,7 @@ const tasks = [
   {
     id: 404,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Pickpocket a Master Farmer",
     description: "Successfully pickpocket from a Master farmer.",
     requirements: "38 Thieving",
@@ -4258,7 +4258,7 @@ const tasks = [
   {
     id: 405,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Pickpocket a Ranarr Seed",
     description: "Pickpocket a Ranarr Seed from a Master Farmer.",
     requirements: "38 Thieving",
@@ -4269,7 +4269,7 @@ const tasks = [
   {
     id: 406,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach a Prayer Bonus of 15",
     description: "Equip enough item to reach a Prayer bonus of 15 or more.",
     requirements: "N/A",
@@ -4280,7 +4280,7 @@ const tasks = [
   {
     id: 407,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 30",
     description: "Reach level 30 in every skill.",
     requirements: "N/A",
@@ -4291,7 +4291,7 @@ const tasks = [
   {
     id: 408,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 40",
     description: "Reach level 40 in every skill.",
     requirements: "N/A",
@@ -4302,7 +4302,7 @@ const tasks = [
   {
     id: 409,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 50",
     description: "Reach level 50 in every skill.",
     requirements: "N/A",
@@ -4313,7 +4313,7 @@ const tasks = [
   {
     id: 410,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Combat Level 50",
     description: "Reach Combat Level 50.",
     requirements: "N/A",
@@ -4324,7 +4324,7 @@ const tasks = [
   {
     id: 411,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Combat Level 75",
     description: "Reach Combat Level 75.",
     requirements: "N/A",
@@ -4335,7 +4335,7 @@ const tasks = [
   {
     id: 412,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 1000",
     description: "Reach a Total Level of 1000.",
     requirements: "N/A",
@@ -4346,7 +4346,7 @@ const tasks = [
   {
     id: 413,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 1250",
     description: "Reach a Total Level of 1250.",
     requirements: "N/A",
@@ -4357,7 +4357,7 @@ const tasks = [
   {
     id: 414,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 750",
     description: "Reach a Total Level of 750.",
     requirements: "N/A",
@@ -4368,7 +4368,7 @@ const tasks = [
   {
     id: 415,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Read a prayer book near a lectern",
     description: "Read a Prayer book near a lectern.",
     requirements: "N/A",
@@ -4379,7 +4379,7 @@ const tasks = [
   {
     id: 416,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Slay 250 Creatures",
     description: "Slay 250 creatures whilst on a Slayer Task.",
     requirements: "N/A",
@@ -4390,7 +4390,7 @@ const tasks = [
   {
     id: 417,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smelt a Steel Bar",
     description: "Use a Furnace to smelt a Steel Bar.",
     requirements: "30 Smithing",
@@ -4401,7 +4401,7 @@ const tasks = [
   {
     id: 418,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smith 10 Steel bolts (unf)",
     description: "Use an Anvil to smith 10 Steel bolts (unf).",
     requirements: "33 Smithing",
@@ -4412,7 +4412,7 @@ const tasks = [
   {
     id: 419,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smith a Steel Platebody",
     description: "Use an Anvil to smith a Steel Platebody.",
     requirements: "48 Smithing",
@@ -4423,7 +4423,7 @@ const tasks = [
   {
     id: 420,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Teleport Using Law Runes",
     description: "Cast any teleport spell that uses Law Runes.",
     requirements:
@@ -4435,7 +4435,7 @@ const tasks = [
   {
     id: 421,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Use the Protect from Melee Prayer",
     description: "Use the Protect from Melee Prayer.",
     requirements: "43 Prayer",
@@ -4446,7 +4446,7 @@ const tasks = [
   {
     id: 422,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Charge an Amulet of Glory in the Heroes' Guild",
     description:
       "Charge an Amulet of Glory at the Fountain of Heroes in the Heroes' Guild.",
@@ -4459,7 +4459,7 @@ const tasks = [
   {
     id: 423,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete a Game of Intermediate Pest Control",
     description: "Complete a game of Intermediate   Pest Control or higher.",
     requirements: "70 Combat level",
@@ -4470,7 +4470,7 @@ const tasks = [
   {
     id: 424,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete A Porcine of Interest",
     description: "Complete the   A Porcine of Interest quest.",
     requirements: "N/A",
@@ -4481,7 +4481,7 @@ const tasks = [
   {
     id: 425,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete Below Ice Mountain",
     description: "Complete   Below Ice Mountain quest.",
     requirements: "N/A",
@@ -4492,7 +4492,7 @@ const tasks = [
   {
     id: 426,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete Death to the Dorgeshuun",
     description: "Complete the   Death to the Dorgeshuun quest.",
     requirements: "23 Agility,  23 Thieving",
@@ -4503,7 +4503,7 @@ const tasks = [
   {
     id: 427,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete the Easy Falador Diary",
     description:
       "Complete all of the easy tasks in the   Falador Achievement Diary.",
@@ -4515,7 +4515,7 @@ const tasks = [
   {
     id: 428,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete the Falador Agility Course",
     description: "Complete a lap of the Falador Rooftop Agility Course.",
     requirements: "50 Agility",
@@ -4526,7 +4526,7 @@ const tasks = [
   {
     id: 429,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete The Lost Tribe",
     description: "Complete   The Lost Tribe quest.",
     requirements:
@@ -4538,7 +4538,7 @@ const tasks = [
   {
     id: 430,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete the Medium Falador Diary",
     description:
       "Complete all of the medium tasks in the   Falador Achievement Diary.",
@@ -4550,7 +4550,7 @@ const tasks = [
   {
     id: 431,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Craft a Body Rune",
     description: "Craft a Body Rune from Essence at the Body Altar.",
     requirements: "20 Runecraft",
@@ -4561,7 +4561,7 @@ const tasks = [
   {
     id: 432,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Craft a Chaos Rune using a Chaos Core",
     description: "Craft a Chaos Rune using a Chaos Core.",
     requirements: "35 Runecraft",
@@ -4572,7 +4572,7 @@ const tasks = [
   {
     id: 433,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat 30 Black Dragons in Asgarnia",
     description: "Defeat 30 Black Dragons in Asgarnia.",
     requirements: "N/A",
@@ -4583,7 +4583,7 @@ const tasks = [
   {
     id: 434,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat a Skeletal Wyvern",
     description: "Defeat a Skeletal Wyvern in the Asgarnian Ice Dungeon.",
     requirements: "72 Slayer",
@@ -4594,7 +4594,7 @@ const tasks = [
   {
     id: 435,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Some Animated Rune Armour",
     description: "Defeat Some Animated Rune Armour in the Warriors' Guild.",
     requirements:
@@ -4606,7 +4606,7 @@ const tasks = [
   {
     id: 436,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat the Giant Mole 150 Times",
     description: "Defeat the Giant Mole beneath Falador 150 times.",
     requirements: "N/A",
@@ -4617,7 +4617,7 @@ const tasks = [
   {
     id: 437,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat the Giant Mole 50 Times",
     description: "Defeat the Giant Mole beneath Falador 50 times.",
     requirements: "N/A",
@@ -4628,7 +4628,7 @@ const tasks = [
   {
     id: 438,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat the Giant Mole",
     description: "Defeat the Giant Mole beneath Falador.",
     requirements: "N/A",
@@ -4639,7 +4639,7 @@ const tasks = [
   {
     id: 439,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Enter the Crafting Guild",
     description: "Enter the Crafting Guild.",
     requirements: "40 Crafting",
@@ -4650,7 +4650,7 @@ const tasks = [
   {
     id: 440,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Enter the Warriors' Guild",
     description: "Enter the Warriors' Guild.",
     requirements:
@@ -4662,7 +4662,7 @@ const tasks = [
   {
     id: 441,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Dorgeshuun Crossbow",
     description: "Equip a Dorgeshuun Crossbow.",
     requirements: "28 RangedCompletion of   The Lost Tribe",
@@ -4673,7 +4673,7 @@ const tasks = [
   {
     id: 442,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip Amy's Saw",
     description: "Obtain and Equip Amy's Saw from   Mahogany Homes.",
     requirements: "N/A",
@@ -4684,7 +4684,7 @@ const tasks = [
   {
     id: 443,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip Some Granite Legs",
     description: "Equip some Granite Legs.",
     requirements: "50 Defence,  50 Strength,  72 Slayer",
@@ -4695,7 +4695,7 @@ const tasks = [
   {
     id: 444,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Harvest Any Herb at the Troll Stronghold",
     description: "Harvest any herb you've grown at the Troll Stronghold.",
     requirements: "9 Farming",
@@ -4706,7 +4706,7 @@ const tasks = [
   {
     id: 445,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Make 20 Stamina Potions",
     description: "Make 20 Stamina Potions.",
     requirements: "77 Herblore",
@@ -4717,7 +4717,7 @@ const tasks = [
   {
     id: 446,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Make 50 Ancient Brews",
     description: "Make 50 Ancient Brews.",
     requirements: "85 HerbloreCompletion of   The Frozen Door",
@@ -4728,7 +4728,7 @@ const tasks = [
   {
     id: 447,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Obtain 20 Golden Nuggets",
     description:
       "Obtain 20 Golden Nuggets from the Motherlode Mine beneath Falador.",
@@ -4740,7 +4740,7 @@ const tasks = [
   {
     id: 448,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Obtain the Plank Sack",
     description: "Obtain the Plank Sack from   Mahogany Homes.",
     requirements: "N/A",
@@ -4751,7 +4751,7 @@ const tasks = [
   {
     id: 449,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Open the Crystal Chest",
     description: "Open the Crystal Chest in Taverley.",
     requirements: "N/A",
@@ -4762,7 +4762,7 @@ const tasks = [
   {
     id: 450,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Pickpocket a Bullseye Lantern From a Cave Goblin",
     description: "Pickpocket a Bullseye Lantern from a Cave Goblin.",
     requirements: "36 ThievingCompletion of   Death to the Dorgeshuun",
@@ -4773,7 +4773,7 @@ const tasks = [
   {
     id: 451,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Turn in 100 Mole Claws to Wyson the Gardener",
     description: "Turn in 100 Mole Claws to Wyson the Gardener in Falador.",
     requirements: "N/A",
@@ -4784,7 +4784,7 @@ const tasks = [
   {
     id: 452,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "50 Tempoross Kills",
     description: "Help the Spirit Anglers subdue the Tempoross 50 times.",
     requirements: "35 Fishing",
@@ -4795,7 +4795,7 @@ const tasks = [
   {
     id: 453,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Cast Bones to Peaches",
     description: "Cast the Bones to Peaches spell.",
     requirements: "60 MagicUnlocked the spell at   Mage Training Arena",
@@ -4806,7 +4806,7 @@ const tasks = [
   {
     id: 454,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Cast Ice Rush",
     description: "Cast the Ice Rush spell.",
     requirements: "58 Magic",
@@ -4817,7 +4817,7 @@ const tasks = [
   {
     id: 455,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Catch 30 Orange Salamanders",
     description: "Catch 30 Orange Salamanders at Uzer.",
     requirements: "47 Hunter",
@@ -4828,7 +4828,7 @@ const tasks = [
   {
     id: 456,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Check a grown Cactus",
     description: "Check the health of a Cactus you've grown in Al Kharid.",
     requirements: "55 Farming",
@@ -4839,7 +4839,7 @@ const tasks = [
   {
     id: 457,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete Shadow of the Storm",
     description: "Complete the   Shadow of the Storm quest.",
     requirements: "30 CraftingCompletion of   The Golem,   Demon Slayer",
@@ -4850,7 +4850,7 @@ const tasks = [
   {
     id: 458,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete Sleeping Giants",
     description: "Complete   Sleeping Giants quest.",
     requirements: "15 Smithing",
@@ -4861,7 +4861,7 @@ const tasks = [
   {
     id: 459,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete Spirits of the Elid",
     description: "Complete the   Spirits of the Elid quest.",
     requirements: "33 Magic,  37 Ranged,  37 Mining,  37 Thieving",
@@ -4872,7 +4872,7 @@ const tasks = [
   {
     id: 460,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete the Easy Desert Diary",
     description:
       "Complete all of the easy tasks in the   Desert Achievement Diary.",
@@ -4884,7 +4884,7 @@ const tasks = [
   {
     id: 461,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete the Medium Desert Diary",
     description:
       "Complete all of the medium tasks in the   Desert Achievement Diary.",
@@ -4896,7 +4896,7 @@ const tasks = [
   {
     id: 462,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Craft a Lava Rune at the Fire Altar",
     description: "Craft a Lava Rune at the Fire Altar.",
     requirements: "23 Runecraft",
@@ -4907,7 +4907,7 @@ const tasks = [
   {
     id: 463,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Create the Divine Rune pouch",
     description: "Create the Divine Rune pouch.",
     requirements: "75 CraftingCompletion of   Beneath Cursed Sands",
@@ -4918,7 +4918,7 @@ const tasks = [
   {
     id: 464,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat a Crocodile",
     description: "Defeat a Crocodile in the Kharidian Desert.",
     requirements: "N/A",
@@ -4929,7 +4929,7 @@ const tasks = [
   {
     id: 465,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat a Dust Devil in the Kharidian Desert",
     description: "Defeat a Dust Devil in the Kharidian Desert.",
     requirements: "65 Slayer",
@@ -4940,7 +4940,7 @@ const tasks = [
   {
     id: 466,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat a Kalphite Guardian",
     description: "Defeat a Kalphite Guardian in the Kharidian Desert.",
     requirements: "N/A",
@@ -4951,7 +4951,7 @@ const tasks = [
   {
     id: 467,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat a Scarab Mage",
     description: "Defeat a Scarab Mage.",
     requirements: "Partial completion of   Contact!",
@@ -4962,7 +4962,7 @@ const tasks = [
   {
     id: 468,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip the Amulet of the eye under the Portal",
     description:
       "Obtain and Equip the Amulet of the eye from Guardians of the Rift whilst underneath the portal in the Desert.",
@@ -4974,7 +4974,7 @@ const tasks = [
   {
     id: 469,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip the Colossal Blade",
     description: "Obtain and Equip the Colossal Blade from Giant's Foundry.",
     requirements: "15 Smithing,  60 AttackCompletion of   Sleeping Giants",
@@ -4985,7 +4985,7 @@ const tasks = [
   {
     id: 470,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip the Ring of the elements",
     description:
       "Obtain and Equip the Ring of the elements from Guardians of the Rift.",
@@ -4997,7 +4997,7 @@ const tasks = [
   {
     id: 471,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip the Tome of Water",
     description: "Obtain and Equip the Tome of Water from Tempoross.",
     requirements: "35 Fishing,  50 Magic",
@@ -5008,7 +5008,7 @@ const tasks = [
   {
     id: 472,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Giants' Foundry 100 quality sword",
     description:
       "Hand in a sword with at least 100 quality in Giants' Foundry.",
@@ -5020,7 +5020,7 @@ const tasks = [
   {
     id: 473,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Giants' Foundry 25 hand-ins",
     description: "Hand in 25 successful swords to Kovac.",
     requirements: "15 Smithing",
@@ -5031,7 +5031,7 @@ const tasks = [
   {
     id: 474,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Giants' Foundry 50 quality sword",
     description: "Hand in a sword with at least 50 quality in Giants' Foundry.",
     requirements: "15 SmithingCompletion of   Sleeping Giants",
@@ -5042,7 +5042,7 @@ const tasks = [
   {
     id: 475,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Guardians of the Rift 1 Rift closed",
     description: "Close the rift in the temple of the eye.",
     requirements: "10 Runecraft",
@@ -5053,7 +5053,7 @@ const tasks = [
   {
     id: 476,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Kill a Kalphite with the Keris Partisan",
     description: "Kill a Kalphite with the Keris Partisan.",
     requirements: "65 AttackCompletion of   Beneath Cursed Sands",
@@ -5064,7 +5064,7 @@ const tasks = [
   {
     id: 477,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Make a Combat Potion",
     description: "Make a Combat Potion.",
     requirements: "36 Herblore",
@@ -5075,7 +5075,7 @@ const tasks = [
   {
     id: 478,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Mine 30 Chunks of Granite",
     description: "Mine 30 chunks of Granite at the Kharidian Desert Quarry.",
     requirements: "45 Mining",
@@ -5086,7 +5086,7 @@ const tasks = [
   {
     id: 479,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Move Your House to Pollnivneach",
     description: "Move your Player Owned House to Pollnivneach.",
     requirements: "20 Construction",
@@ -5097,7 +5097,7 @@ const tasks = [
   {
     id: 480,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Obtain the Big Harpoonfish",
     description: "Obtain the Big Harpoonfish from Tempoross.",
     requirements: "35 Fishing",
@@ -5108,7 +5108,7 @@ const tasks = [
   {
     id: 481,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Pick a Autumn Sq'irk",
     description: "Pick a Autumn Sq'irk in the Sorceress's Garden.",
     requirements: "45 ThievingCompletion of   Prince Ali Rescue",
@@ -5119,7 +5119,7 @@ const tasks = [
   {
     id: 482,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Pick a Spring Sq'irk",
     description: "Pick a Spring Sq'irk in the Sorceress's Garden.",
     requirements: "25 ThievingCompletion of   Prince Ali Rescue",
@@ -5130,7 +5130,7 @@ const tasks = [
   {
     id: 483,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Pickpocket a Bandit in the Bandit Camp",
     description: "Pickpocket a Bandit in the Kharidian Desert's Bandit Camp.",
     requirements: "53 Thieving",
@@ -5141,7 +5141,7 @@ const tasks = [
   {
     id: 484,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Pray at the Elidinis Statuette",
     description: "Pray at the Elidinis Statuette in Nardah.",
     requirements: "Completion of Spirits of the Elid",
@@ -5152,7 +5152,7 @@ const tasks = [
   {
     id: 485,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 4 of Pyramid Plunder",
     description:
       "Search the Golden Chest in Room 4 of Pyramid Plunder in Sophanem.",
@@ -5165,7 +5165,7 @@ const tasks = [
   {
     id: 486,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 5 of Pyramid Plunder",
     description:
       "Search the Golden Chest in Room 5 of Pyramid Plunder in Sophanem.",
@@ -5178,7 +5178,7 @@ const tasks = [
   {
     id: 487,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 6 of Pyramid Plunder",
     description:
       "Search the Golden Chest in Room 6 of Pyramid Plunder in Sophanem.",
@@ -5191,7 +5191,7 @@ const tasks = [
   {
     id: 488,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Smith 1,000 Mithril Dart Tips",
     description: "Use an Anvil to smith 1,000 Mithril Dart Tips.",
     requirements: "54 Smithing",
@@ -5202,7 +5202,7 @@ const tasks = [
   {
     id: 489,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Turn in 10 Spring Sq'irkjuices to Osman",
     description:
       "Turn in 10 Spring Sq'irkjuices to Osman in Al Kharid in one go.",
@@ -5214,7 +5214,7 @@ const tasks = [
   {
     id: 490,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Turn in a Pyramid Top to Simon Templeton",
     description:
       "Turn in a Pyramid Top to Simon Templeton at the Agility Pyramid.",
@@ -5226,7 +5226,7 @@ const tasks = [
   {
     id: 491,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Cast Moonclan Teleport",
     description: "Cast the Moonclan Teleport spell.",
     requirements: "69 Magic",
@@ -5237,7 +5237,7 @@ const tasks = [
   {
     id: 492,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Catch a Snowy Knight",
     description: "Catch a Snowy Knight.",
     requirements: "35 Hunter",
@@ -5248,7 +5248,7 @@ const tasks = [
   {
     id: 493,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Complete Olaf's Quest",
     description: "Complete   Olaf's Quest.",
     requirements: "40 Firemaking,  50 Woodcutting",
@@ -5259,7 +5259,7 @@ const tasks = [
   {
     id: 494,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Complete Royal Trouble",
     description: "Complete the   Royal Trouble quest.",
     requirements: "40 Agility,  40 SlayerCompletion of   Throne of Miscellania",
@@ -5270,7 +5270,7 @@ const tasks = [
   {
     id: 495,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Complete the Easy Fremennik Diary",
     description:
       "Complete all of the easy tasks in the   Fremennik Achievement Diary.",
@@ -5282,7 +5282,7 @@ const tasks = [
   {
     id: 496,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Complete the Medium Fremennik Diary",
     description:
       "Complete all of the medium tasks in the   Fremennik Achievement Diary.",
@@ -5294,7 +5294,7 @@ const tasks = [
   {
     id: 497,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Complete the Penguin Agility Course",
     description: "Complete a lap of the Penguin Agility Course.",
     requirements: "30 Agility",
@@ -5305,7 +5305,7 @@ const tasks = [
   {
     id: 498,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Complete Throne of Miscellania",
     description: "Complete the   Throne of Miscellania quest.",
     requirements: "N/A",
@@ -5316,7 +5316,7 @@ const tasks = [
   {
     id: 499,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Craft 50 Astral Runes",
     description: "Craft 50 Astral Runes from Essence at the Astral Altar.",
     requirements: "40 Runecraft",
@@ -5327,7 +5327,7 @@ const tasks = [
   {
     id: 500,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Basilisk Knight",
     description: "Defeat a Basilisk Knight in the Jormungand's Prison.",
     requirements: "60 SlayerCompletion of   The Fremennik Exiles",
@@ -5338,7 +5338,7 @@ const tasks = [
   {
     id: 501,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Dagannoth in the Fremennik Province",
     description: "Defeat a Dagannoth in the Fremennik Province.",
     requirements: "N/A",
@@ -5349,7 +5349,7 @@ const tasks = [
   {
     id: 502,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Jelly in the Fremennik Province",
     description: "Defeat a Jelly in the Fremennik Province.",
     requirements: "52 Slayer",
@@ -5360,7 +5360,7 @@ const tasks = [
   {
     id: 503,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Kurask in the Fremennik Province",
     description: "Defeat a Kurask in the Fremennik Province.",
     requirements: "70 Slayer",
@@ -5371,7 +5371,7 @@ const tasks = [
   {
     id: 504,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Turoth in the Fremennik Province.",
     description: "Defeat a Turoth in the Fremennik Province.",
     requirements: "55 Slayer",
@@ -5382,7 +5382,7 @@ const tasks = [
   {
     id: 505,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Brine Sabre",
     description: "Equip a Brine Sabre.",
     requirements: "40 Attack,  47 Slayer",
@@ -5393,7 +5393,7 @@ const tasks = [
   {
     id: 506,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a full set of Yakhide Armour",
     description: "Equip a full set of Yakhide Armour.",
     requirements: "46 Crafting,  20 Defence",
@@ -5404,7 +5404,7 @@ const tasks = [
   {
     id: 507,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Helm of Neitiznot",
     description: "Equip a Helm of Neitiznot.",
     requirements: "55 Defence",
@@ -5415,7 +5415,7 @@ const tasks = [
   {
     id: 508,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Kill 8 penguins within 5 seconds",
     description: "Kill 8 penguins within 5 seconds.",
     requirements: "N/A",
@@ -5426,7 +5426,7 @@ const tasks = [
   {
     id: 509,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Move Your House to Rellekka",
     description: "Move your Player Owned House to Rellekka.",
     requirements: "30 Construction",
@@ -5437,7 +5437,7 @@ const tasks = [
   {
     id: 510,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Reach the lighthouse via stepping stones",
     description: "Reach the lighthouse via stepping stones.",
     requirements: "N/A",
@@ -5448,7 +5448,7 @@ const tasks = [
   {
     id: 511,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Unlock Free Use of the Blast Furnace",
     description:
       "Unlock free use of the Keldagrim Blast Furnace by speaking with the Foreman.",
@@ -5460,7 +5460,7 @@ const tasks = [
   {
     id: 512,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Use Some Icy Basalt to Teleport to Weiss",
     description: "Use some Icy Basalt to teleport to Weiss.",
     requirements: "72 Mining",
@@ -5471,7 +5471,7 @@ const tasks = [
   {
     id: 513,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Catch a Monkfish",
     description: "Catch a Monkfish at the Piscatoris Fishing Colony.",
     requirements: "62 Fishing",
@@ -5482,7 +5482,7 @@ const tasks = [
   {
     id: 514,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Catch a Red Salamander",
     description: "Catch a Red Salamander outside the Ourania Altar.",
     requirements: "59 Hunter",
@@ -5493,7 +5493,7 @@ const tasks = [
   {
     id: 515,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Check a grown Papaya Tree in the Gnome Stronghold",
     description:
       "Check the health of a Papaya Tree you've grown in the Tree Gnome Stronghold.",
@@ -5505,7 +5505,7 @@ const tasks = [
   {
     id: 516,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete Elemental Workshop I",
     description: "Complete the   Elemental Workshop I quest.",
     requirements:
@@ -5517,7 +5517,7 @@ const tasks = [
   {
     id: 517,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete Elemental Workshop II",
     description: "Complete the   Elemental Workshop II quest.",
     requirements: "20 Magic,  30 Smithing",
@@ -5528,7 +5528,7 @@ const tasks = [
   {
     id: 518,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Barbarian Outpost Agility Course",
     description: "Complete a lap of the Barbarian Outpost Agility Course.",
     requirements: "35 Agility",
@@ -5539,7 +5539,7 @@ const tasks = [
   {
     id: 519,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Easy Ardougne Diary",
     description:
       "Complete all of the easy tasks in the   Ardougne Achievement Diary.",
@@ -5551,7 +5551,7 @@ const tasks = [
   {
     id: 520,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Easy Kandarin Diary",
     description:
       "Complete all of the easy tasks in the   Kandarin Achievement Diary.",
@@ -5563,7 +5563,7 @@ const tasks = [
   {
     id: 521,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Medium Ardougne Diary",
     description:
       "Complete all of the medium tasks in the   Ardougne Achievement Diary.",
@@ -5575,7 +5575,7 @@ const tasks = [
   {
     id: 522,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Medium Kandarin Diary",
     description:
       "Complete all of the medium tasks in the   Kandarin Achievement Diary.",
@@ -5587,7 +5587,7 @@ const tasks = [
   {
     id: 523,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Observatory Quest",
     description: "Complete the   Observatory Quest.",
     requirements: "N/A",
@@ -5598,7 +5598,7 @@ const tasks = [
   {
     id: 524,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete Tower of Life",
     description: "Complete the   Tower of Life quest.",
     requirements: "10 Construction",
@@ -5609,7 +5609,7 @@ const tasks = [
   {
     id: 525,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat a Mithril Dragon",
     description: "Defeat a Mithril Dragon in the Ancient Cavern.",
     requirements: "N/A",
@@ -5620,7 +5620,7 @@ const tasks = [
   {
     id: 526,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat a Tortoise With Riders in Kandarin",
     description: "Defeat a Tortoise with riders in Kandarin.",
     requirements: "N/A",
@@ -5631,7 +5631,7 @@ const tasks = [
   {
     id: 527,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat the Penance Queen",
     description: "Defeat the Penance Queen in Barbarian Assault.",
     requirements: "N/A",
@@ -5642,7 +5642,7 @@ const tasks = [
   {
     id: 528,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat the Thermonuclear Smoke Devil",
     description:
       "Defeat the Thermonuclear Smoke Devil in the Smoke Devil Dungeon.",
@@ -5654,7 +5654,7 @@ const tasks = [
   {
     id: 529,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Enter the Fishing Guild",
     description: "Enter the Fishing Guild.",
     requirements: "68 Fishing",
@@ -5665,7 +5665,7 @@ const tasks = [
   {
     id: 530,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Enter the Ranging Guild",
     description: "Enter the Ranging Guild.",
     requirements: "40 Ranged",
@@ -5676,7 +5676,7 @@ const tasks = [
   {
     id: 531,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Enter the Wizards' Guild",
     description: "Enter the Wizards' Guild in Yanille.",
     requirements: "66 Magic",
@@ -5687,7 +5687,7 @@ const tasks = [
   {
     id: 532,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Dragon Scimitar",
     description: "Equip a Dragon Scimitar.",
     requirements: "60 Attack",
@@ -5698,7 +5698,7 @@ const tasks = [
   {
     id: 533,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Monkey Backpack",
     description: "Equip a Monkey Backpack.",
     requirements: "N/A",
@@ -5709,7 +5709,7 @@ const tasks = [
   {
     id: 534,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Spottier Cape",
     description: "Equip a Spottier Cape.",
     requirements: "69 Hunter",
@@ -5720,7 +5720,7 @@ const tasks = [
   {
     id: 535,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip an Iban's Staff (u)",
     description: "Equip an Iban's Staff (u).",
     requirements: "50 Magic,  50 Attack",
@@ -5731,7 +5731,7 @@ const tasks = [
   {
     id: 536,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip an Ogre Forester Chompy Hat",
     description: "Equip an Ogre Forester Chompy Hat.",
     requirements:
@@ -5743,7 +5743,7 @@ const tasks = [
   {
     id: 537,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Kill a Swordchick",
     description: "Kill a Swordchick underneath the Tower of Life.",
     requirements: "Completion of   Tower of Life",
@@ -5754,7 +5754,7 @@ const tasks = [
   {
     id: 538,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Move Your House to Yanille",
     description: "Move your Player Owned House to Yanille.",
     requirements: "50 Construction",
@@ -5765,7 +5765,7 @@ const tasks = [
   {
     id: 539,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Pickpocket a Knight of Ardougne 50 Times",
     description: "Pickpocket a Knight of Ardougne 50 times.",
     requirements: "55 Thieving",
@@ -5776,7 +5776,7 @@ const tasks = [
   {
     id: 540,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Score a Goal in Gnomeball",
     description: "Score a Goal in Gnomeball.",
     requirements: "N/A",
@@ -5787,7 +5787,7 @@ const tasks = [
   {
     id: 541,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Sell 20 Iron Sheets",
     description: "Sell 20 Iron Sheets to Franklin Caranos.",
     requirements: "45 Smithing",
@@ -5798,7 +5798,7 @@ const tasks = [
   {
     id: 542,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Set Up a Dwarf Cannon",
     description: "Set Up a Dwarf Cannon.",
     requirements: "Completion of   Dwarf Cannon",
@@ -5809,7 +5809,7 @@ const tasks = [
   {
     id: 543,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Spawn a Skeletal Mage",
     description: "Use bone seeds to spawn a Skeletal Mage.",
     requirements: "Asgarnia✓ for Malignius Mortifer",
@@ -5820,7 +5820,7 @@ const tasks = [
   {
     id: 544,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Trade in a cat for death runes",
     description: "Trade in a cat for death runes in Ardougne.",
     requirements:
@@ -5832,7 +5832,7 @@ const tasks = [
   {
     id: 545,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Trap a Spined Larupia in the Feldip Hills",
     description: "Trap a Spined Larupia in the Feldip Hills.",
     requirements: "31 Hunter",
@@ -5843,7 +5843,7 @@ const tasks = [
   {
     id: 546,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Use the Chivalry Prayer",
     description: "Use the Chivalry Prayer.",
     requirements: "60 Prayer,  65 DefenceCompletion of   Knight Waves",
@@ -5854,7 +5854,7 @@ const tasks = [
   {
     id: 547,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Win a Game of Castle Wars",
     description: "Win a game of Castle Wars.",
     requirements: "N/A",
@@ -5865,7 +5865,7 @@ const tasks = [
   {
     id: 548,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Buy a Snapdragon From Pirate Jackie the Fruit",
     description: "Buy a Snapdragon From Pirate Jackie the Fruit in Brimhaven.",
     requirements: "N/A",
@@ -5876,7 +5876,7 @@ const tasks = [
   {
     id: 549,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Catch 50 Karambwan",
     description: "Catch 50 Karambwan on Karamja.",
     requirements: "65 FishingCompletion of   Tai Bwo Wannai Trio",
@@ -5887,7 +5887,7 @@ const tasks = [
   {
     id: 550,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Catch a Salmon on Karamja",
     description: "Catch a Salmon on Karamja.",
     requirements: "30 Fishing",
@@ -5898,7 +5898,7 @@ const tasks = [
   {
     id: 551,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Easy Karamja Diary",
     description:
       "Complete all of the easy tasks in the   Karamja Achievement Diary.",
@@ -5910,7 +5910,7 @@ const tasks = [
   {
     id: 552,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Medium Karamja Diary",
     description:
       "Complete all of the medium tasks in the   Karamja Achievement Diary.",
@@ -5922,7 +5922,7 @@ const tasks = [
   {
     id: 553,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Craft 50 Nature Runes",
     description: "Craft 50 Nature Runes from Essence at the Nature Altar.",
     requirements: "44 Runecraft",
@@ -5933,7 +5933,7 @@ const tasks = [
   {
     id: 554,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Defeat a Steel Dragon on Karamja",
     description: "Defeat a Steel Dragon on Karamja.",
     requirements: "N/A",
@@ -5944,7 +5944,7 @@ const tasks = [
   {
     id: 555,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Enter the Tai Bwo Wannai Hardwood Grove",
     description: "Enter the Hardwood Grove in Tai Bwo Wannai.",
     requirements: "N/A",
@@ -5955,7 +5955,7 @@ const tasks = [
   {
     id: 556,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip a Full Tai Bwo Wannai Villager Set",
     description: "Equip a full set of Tai Bwo Wannai villager clothing.",
     requirements: "N/A",
@@ -5966,7 +5966,7 @@ const tasks = [
   {
     id: 557,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip a Matching Tribal Mask and Broodoo Shield",
     description: "Equip a matching Tribal Mask and Broodoo Shield.",
     requirements: "35 Crafting,  25 Defence,  25 Magic",
@@ -5977,7 +5977,7 @@ const tasks = [
   {
     id: 558,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Fill a Crate With Bananas",
     description: "Fill a crate with Bananas for Luthas at Musa Point.",
     requirements: "N/A",
@@ -5988,7 +5988,7 @@ const tasks = [
   {
     id: 559,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Mine 5 gem rocks in a row without failing",
     description: "Mine 5 gem rocks in a row without failing in Shilo Village.",
     requirements: "40 Mining",
@@ -5999,7 +5999,7 @@ const tasks = [
   {
     id: 560,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "250 Lizardmen Shaman Kills",
     description: "Help the Shayzien House by killing 250 Lizardmen shamans.",
     requirements: "100%   Shayzien favour",
@@ -6010,7 +6010,7 @@ const tasks = [
   {
     id: 561,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "50 Sarachnis Kills",
     description: "Kill Sarachnis in the Forthos Dungeon 50 times.",
     requirements: "N/A",
@@ -6021,7 +6021,7 @@ const tasks = [
   {
     id: 562,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "50 Wintertodt Kills",
     description: "Help the Pyromancers subdue the Wintertodt 50 times.",
     requirements: "50 Firemaking",
@@ -6032,7 +6032,7 @@ const tasks = [
   {
     id: 563,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Cast Kourend Castle Teleport",
     description:
       "Cast the spell Kourend Castle Teleport after unlocking it by reading transportation incantations.",
@@ -6044,7 +6044,7 @@ const tasks = [
   {
     id: 564,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Cast Resurrect Crops",
     description: "Cast the spell Resurrect Crops from the Arceuus spellbook.",
     requirements: "78 Magic60%   Arceuus favour",
@@ -6055,7 +6055,7 @@ const tasks = [
   {
     id: 565,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Chop a Magic Log at the Forsaken Tower",
     description: "Chop a log from the Magic trees around the Forsaken Tower.",
     requirements: "75 Woodcutting",
@@ -6066,7 +6066,7 @@ const tasks = [
   {
     id: 566,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete Getting Ahead",
     description: "Complete   Getting Ahead quest.",
     requirements: "30 Crafting,  26 Construction",
@@ -6077,7 +6077,7 @@ const tasks = [
   {
     id: 567,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Defeat a Drake",
     description: "Defeat a Drake in the Mount Karuulm Slayer Dungeon.",
     requirements: "84 Slayer",
@@ -6088,7 +6088,7 @@ const tasks = [
   {
     id: 568,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Enter the Farming Guild's Mid Tier",
     description:
       "Enter the mid tier of the Farming Guild in the Kebos Lowlands.",
@@ -6100,7 +6100,7 @@ const tasks = [
   {
     id: 569,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Enter the Woodcutting Guild",
     description: "Enter the Woodcutting Guild in Hosidius.",
     requirements: "60 Woodcutting75%   Hosidius favour",
@@ -6111,7 +6111,7 @@ const tasks = [
   {
     id: 570,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip Tier 5 Shayzien Armour",
     description: "Equip a full set of tier 5 Shayzien armour.",
     requirements: "20 Defence100%   Shayzien favour",
@@ -6122,7 +6122,7 @@ const tasks = [
   {
     id: 571,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip Xeric's Talisman",
     description: "Obtain and equip Xeric's talisman.",
     requirements: "N/A",
@@ -6133,7 +6133,7 @@ const tasks = [
   {
     id: 572,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Friend of House Arceuus",
     description: "Achieve 100% favour with the Arceuus House.",
     requirements: "N/A",
@@ -6144,7 +6144,7 @@ const tasks = [
   {
     id: 573,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Friend of House Hosidius",
     description: "Achieve 100% favour with the Hosidius House.",
     requirements: "N/A",
@@ -6155,7 +6155,7 @@ const tasks = [
   {
     id: 574,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Friend of House Piscarilius",
     description: "Achieve 100% favour with the Piscarilius House.",
     requirements: "30 Crafting",
@@ -6166,7 +6166,7 @@ const tasks = [
   {
     id: 575,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Friend of House Shayzien",
     description: "Achieve 100% favour with the Shayzien House.",
     requirements: "N/A",
@@ -6177,7 +6177,7 @@ const tasks = [
   {
     id: 576,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Headbang with Ket'Sal K'uk",
     description: "Headbang with Ket'Sal K'uk.",
     requirements: "N/A",
@@ -6188,7 +6188,7 @@ const tasks = [
   {
     id: 577,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Inferior Demonbane Demon Kill",
     description: "Kill a demon using the Inferior Demonbane spell.",
     requirements: "44 Magic60% Arceuus favour",
@@ -6199,7 +6199,7 @@ const tasks = [
   {
     id: 578,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Kill a creature in Mount Quidamortem",
     description:
       "Enter Mount Quidamortem and kill a creature without wearing boots for protection.",
@@ -6211,7 +6211,7 @@ const tasks = [
   {
     id: 579,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Kourend and Kebos Easy Diary Tasks",
     description:
       "Complete all tasks in the easy tier of the   Kourend and Kebos achievement diary.",
@@ -6224,7 +6224,7 @@ const tasks = [
   {
     id: 580,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Kourend and Kebos Medium Diary Tasks",
     description:
       "Complete all tasks in the medium tier of the   Kourend and Kebos achievement diary.",
@@ -6237,7 +6237,7 @@ const tasks = [
   {
     id: 581,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Obtain Adamantite Ore at the Blast Mine",
     description:
       "Obtain a piece of Adamantite ore while taking part in the Blast Mine.",
@@ -6249,7 +6249,7 @@ const tasks = [
   {
     id: 582,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Open 30 Grubby Chests",
     description: "Open the grubby chest in the Forthos Dungeon 30 times.",
     requirements: "57 Thieving",
@@ -6260,7 +6260,7 @@ const tasks = [
   {
     id: 583,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Plant 100 Golovanova Seeds",
     description: "Plant 100 Golovanova seeds in the Tithe Farm minigame.",
     requirements: "34 Farming100%   Hosidius favour",
@@ -6271,7 +6271,7 @@ const tasks = [
   {
     id: 584,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Purchase a Seed Box",
     description: "Purchase a Seed box from the Tithe Farm minigame.",
     requirements: "34 Farming",
@@ -6282,7 +6282,7 @@ const tasks = [
   {
     id: 585,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Smelt a mithril bar in a volcanic fissure",
     description: "Smelt a Mithril bar in a volcanic fissure.",
     requirements: "50 Smithing",
@@ -6293,7 +6293,7 @@ const tasks = [
   {
     id: 586,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Steal 15 Artefacts",
     description: "Steal 10 artefacts for Captain Khaled in Piscarilius.",
     requirements: "49 Thieving75%   Piscarilius favour",
@@ -6304,7 +6304,7 @@ const tasks = [
   {
     id: 587,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Steal 30 Artefacts",
     description: "Steal 30 artefacts for Captain Khaled in Piscarilius.",
     requirements: "49 Thieving75%   Piscarilius favour",
@@ -6315,7 +6315,7 @@ const tasks = [
   {
     id: 588,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Teleport to Xeric's Honour",
     description: "Teleport to Xeric's Honour using Xeric's talisman.",
     requirements: "Completion of   Chambers of Xeric",
@@ -6326,7 +6326,7 @@ const tasks = [
   {
     id: 589,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Turn in 25 Library Books",
     description: "Find and turn in 25 books in the Arceuus Library.",
     requirements: "N/A",
@@ -6337,7 +6337,7 @@ const tasks = [
   {
     id: 590,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Turn in 50 Library Books",
     description: "Find and turn in 50 books in the Arceuus Library.",
     requirements: "N/A",
@@ -6348,7 +6348,7 @@ const tasks = [
   {
     id: 591,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Catch 50 Implings in Puro-Puro",
     description: "Catch 50 Implings in Puro-Puro.",
     requirements: "17 Hunter",
@@ -6359,7 +6359,7 @@ const tasks = [
   {
     id: 592,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Chop a Sulliuscep Cap",
     description: "Chop a Sulliuscep Cap on Fossil Island.",
     requirements: "65 Woodcutting",
@@ -6370,7 +6370,7 @@ const tasks = [
   {
     id: 593,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete 10 Laps of the Draynor Agility Course",
     description: "Complete 10 laps of the Draynor Rooftop Agility Course.",
     requirements: "N/A",
@@ -6381,7 +6381,7 @@ const tasks = [
   {
     id: 594,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete 10 Laps of the Varrock Agility Course",
     description: "Complete 10 laps of the Varrock Rooftop Agility Course.",
     requirements: "30 Agility",
@@ -6392,7 +6392,7 @@ const tasks = [
   {
     id: 595,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete a Soul's Bane",
     description: "Complete the   A Soul's Bane quest.",
     requirements: "N/A",
@@ -6403,7 +6403,7 @@ const tasks = [
   {
     id: 596,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete a task for the Wise Old Man",
     description: "Complete a task for the Wise Old Man in Draynor.",
     requirements: "N/A",
@@ -6414,7 +6414,7 @@ const tasks = [
   {
     id: 597,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete a Volcanic Mine Game",
     description: "Complete a Volcanic Mine game on Fossil Island.",
     requirements: "50 Mining150 Kudos",
@@ -6425,7 +6425,7 @@ const tasks = [
   {
     id: 598,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete Demon Slayer",
     description: "Complete the   Demon Slayer quest.",
     requirements: "N/A",
@@ -6436,7 +6436,7 @@ const tasks = [
   {
     id: 599,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete Rune Mysteries",
     description: "Complete the   Rune Mysteries quest.",
     requirements: "N/A",
@@ -6447,7 +6447,7 @@ const tasks = [
   {
     id: 600,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Easy Lumbridge & Draynor Diary",
     description:
       "Complete all of the easy tasks in the   Lumbridge & Draynor Achievement Diary.",
@@ -6460,7 +6460,7 @@ const tasks = [
   {
     id: 601,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Easy Varrock Diary",
     description:
       "Complete all of the easy tasks in the   Varrock Achievement Diary.",
@@ -6472,7 +6472,7 @@ const tasks = [
   {
     id: 602,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Medium Lumbridge & Draynor Diary",
     description:
       "Complete all of the medium tasks in the   Lumbridge & Draynor Achievement Diary.",
@@ -6485,7 +6485,7 @@ const tasks = [
   {
     id: 603,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Medium Varrock Diary",
     description:
       "Complete all of the medium tasks in the   Varrock Achievement Diary.",
@@ -6497,7 +6497,7 @@ const tasks = [
   {
     id: 604,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Craft 50 Cosmic Runes",
     description:
       "Craft 50 Cosmic Runes from Essence at the Cosmic Altar from Essence.",
@@ -6509,7 +6509,7 @@ const tasks = [
   {
     id: 605,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat a Fossil Island Wyvern",
     description: "Defeat any type of Wyvern on Fossil Island.",
     requirements: "66 Slayer",
@@ -6520,7 +6520,7 @@ const tasks = [
   {
     id: 606,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat a Wall Beast",
     description: "Defeat a Wall Beast in the Lumbridge Swamp Caves.",
     requirements: "35 Slayer",
@@ -6531,7 +6531,7 @@ const tasks = [
   {
     id: 607,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat an Ancient Wyvern",
     description: "Defeat an Ancient Wyvern on Fossil Island.",
     requirements: "82 Slayer",
@@ -6542,7 +6542,7 @@ const tasks = [
   {
     id: 608,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat Bryophyta",
     description: "Defeat Bryophyta in Varrock Sewers.",
     requirements: "N/A",
@@ -6553,7 +6553,7 @@ const tasks = [
   {
     id: 609,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat Obor",
     description: "Defeat Obor in Edgeville Dungeon.",
     requirements: "N/A",
@@ -6564,7 +6564,7 @@ const tasks = [
   {
     id: 610,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Dismantle 20 Filled Bird Houses",
     description: "Dismantle 20 filled Bird Houses on Fossil Island.",
     requirements: "5 Hunter,  5 Crafting",
@@ -6575,7 +6575,7 @@ const tasks = [
   {
     id: 611,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Drink From the Tears of Guthix",
     description: "Drink from the Tears of Guthix in the Lumbridge Swamp Caves.",
     requirements: "N/A",
@@ -6586,7 +6586,7 @@ const tasks = [
   {
     id: 612,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Enter the Cooks' Guild",
     description: "Enter the Cooks' Guild west of Varrock.",
     requirements: "32 Cooking",
@@ -6597,7 +6597,7 @@ const tasks = [
   {
     id: 613,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip Some Mithril Gloves",
     description: "Equip a pair of Mithril Gloves.",
     requirements:
@@ -6609,7 +6609,7 @@ const tasks = [
   {
     id: 614,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip the Forestry Basket",
     description: "Obtain and Equip the Forestry Basket.",
     requirements: "N/A",
@@ -6620,7 +6620,7 @@ const tasks = [
   {
     id: 615,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Have the wise Old Man get angry with you.",
     description: "Have the Wise Old Man get angry with you in Draynor Village.",
     requirements: "Desert✓ or  Fremennik✓",
@@ -6631,7 +6631,7 @@ const tasks = [
   {
     id: 616,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Obtain a pufferfish from Drift Net Fishing",
     description: "Obtain a pufferfish from Drift Net Fishing.",
     requirements: "44 Hunter,  47 Fishing",
@@ -6642,7 +6642,7 @@ const tasks = [
   {
     id: 617,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Open the Dark Chest",
     description: "Open the Dark Chest.",
     requirements: "28 Thieving",
@@ -6653,7 +6653,7 @@ const tasks = [
   {
     id: 618,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Pan for an Uncut Jade",
     description: "Pan for an Uncut Jade.",
     requirements: "N/A",
@@ -6664,7 +6664,7 @@ const tasks = [
   {
     id: 619,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Set up a Yew Bird House",
     description: "Set up a Yew Bird House on Fossil Island.",
     requirements: "59 Hunter,  60 Crafting",
@@ -6675,7 +6675,7 @@ const tasks = [
   {
     id: 620,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Use a Digsite Pendant to Teleport to Fossil Island",
     description: "Use a Digsite Pendant to teleport to Fossil Island.",
     requirements: "N/A",
@@ -6686,7 +6686,7 @@ const tasks = [
   {
     id: 621,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Use Enriched Bones on the Strange Machine",
     description: "Use Enriched Bones on the Strange Machine on Fossil Island.",
     requirements: "N/A",
@@ -6697,7 +6697,7 @@ const tasks = [
   {
     id: 622,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Win a Game of Soul Wars",
     description: "Win a game of Soul Wars.",
     requirements: "40 Combat level,  40 Skills",
@@ -6708,7 +6708,7 @@ const tasks = [
   {
     id: 623,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Achieve 100% Shades of Mort'Ton Sanctity",
     description:
       "Achieve 100% Sanctity during the Shades of Mort'ton minigame.",
@@ -6720,7 +6720,7 @@ const tasks = [
   {
     id: 624,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Assemble a Slayer Helm",
     description: "Assemble a Slayer Helm.",
     requirements:
@@ -6732,7 +6732,7 @@ const tasks = [
   {
     id: 625,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Burn 20 Pyre Logs",
     description: "Burn 20 Pyre Logs.",
     requirements: "5 FiremakingCompletion of   Shades of Mort'ton",
@@ -6743,7 +6743,7 @@ const tasks = [
   {
     id: 626,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Catch a Swamp Lizard in Morytania",
     description: "Catch a Swamp Lizard in Morytania.",
     requirements: "29 Hunter",
@@ -6754,7 +6754,7 @@ const tasks = [
   {
     id: 627,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete a Medium Temple Trek",
     description: "Complete a medium   Temple Trek.",
     requirements: "N/A",
@@ -6765,7 +6765,7 @@ const tasks = [
   {
     id: 628,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete A Taste of Hope",
     description: "Complete the   A Taste of Hope quest.",
     requirements:
@@ -6777,7 +6777,7 @@ const tasks = [
   {
     id: 629,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete Ghosts Ahoy",
     description: "Complete the   Ghosts Ahoy quest.",
     requirements: "25 Agility,  20 Cooking",
@@ -6788,7 +6788,7 @@ const tasks = [
   {
     id: 630,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete Haunted Mine",
     description: "Complete the   Haunted Mine quest.",
     requirements: "35 Crafting",
@@ -6799,7 +6799,7 @@ const tasks = [
   {
     id: 631,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Canifis Agility Course",
     description: "Complete a lap of the Canifis Rooftop Agility Course.",
     requirements: "40 Agility",
@@ -6810,7 +6810,7 @@ const tasks = [
   {
     id: 632,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Easy Morytania Diary",
     description:
       "Complete all of the easy tasks in the   Morytania Achievement Diary.",
@@ -6822,7 +6822,7 @@ const tasks = [
   {
     id: 633,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Medium Morytania Diary",
     description:
       "Complete all of the medium tasks in the   Morytania Achievement Diary.",
@@ -6834,7 +6834,7 @@ const tasks = [
   {
     id: 634,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Werewolf Agility Course",
     description: "Complete a lap of the Werewolf Agility Course.",
     requirements: "60 Agility",
@@ -6845,7 +6845,7 @@ const tasks = [
   {
     id: 635,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Convert 2,000 Daeyalt Shards Into Essence",
     description:
       "Convert 2,000 Daeyalt Shards into Daeyalt Essence in Darkmeyer in one go.",
@@ -6857,7 +6857,7 @@ const tasks = [
   {
     id: 636,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Craft a Rune Using Daeyalt Essence",
     description: "Craft any rune using Daeyalt Essence.",
     requirements: "60 MiningCompletion of   Sins of the Father",
@@ -6868,7 +6868,7 @@ const tasks = [
   {
     id: 637,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat a Fiyr Shade",
     description: "Defeat a Fiyr Shade.",
     requirements: "65 FiremakingCompletion of   Shades of Mort'ton",
@@ -6879,7 +6879,7 @@ const tasks = [
   {
     id: 638,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat a Gargoyle in Morytania",
     description: "Defeat a Gargoyle in Morytania.",
     requirements: "75 Slayer",
@@ -6890,7 +6890,7 @@ const tasks = [
   {
     id: 639,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat a Vyrewatch Sentinel",
     description: "Defeat a Vyrewatch Sentinel in Darkmeyer.",
     requirements: "Completion of   Sins of the Father",
@@ -6901,7 +6901,7 @@ const tasks = [
   {
     id: 640,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat an Abyssal Demon in Morytania",
     description: "Defeat an Abyssal Demon in Morytania.",
     requirements: "85 Slayer",
@@ -6912,7 +6912,7 @@ const tasks = [
   {
     id: 641,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Piece of any Barrows Armour Set",
     description: "Equip any piece of any Barrows armour set.",
     requirements: "70 Defence,  70 Attack, or  70 Ranged",
@@ -6923,7 +6923,7 @@ const tasks = [
   {
     id: 642,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Salve Amulet (e)",
     description: "Equip a Salve Amulet (e).",
     requirements: "Completion of   Lair of Tarn Razorlor",
@@ -6934,7 +6934,7 @@ const tasks = [
   {
     id: 643,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Feed a ghast some sweets",
     description: "Feed a ghast some sweets.",
     requirements: "N/A",
@@ -6945,7 +6945,7 @@ const tasks = [
   {
     id: 644,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Floor 1 of the Hallowed Sepulchre",
     description: "Complete floor 1 of the Hallowed Sepulchre in Darkmeyer.",
     requirements: "52 AgilityCompletion of   Sins of the Father",
@@ -6956,7 +6956,7 @@ const tasks = [
   {
     id: 645,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Floor 2 of the Hallowed Sepulchre",
     description: "Complete floor 2 of the Hallowed Sepulchre in Darkmeyer.",
     requirements: "62 AgilityCompletion of   Sins of the Father",
@@ -6967,7 +6967,7 @@ const tasks = [
   {
     id: 646,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Have the Taxidermist stuff something for you",
     description: "Have the Taxidermist stuff something for you in Canifis.",
     requirements:
@@ -6979,7 +6979,7 @@ const tasks = [
   {
     id: 647,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Loot a Barrows Chest",
     description: "Loot a Barrows Chest once.",
     requirements: "N/A",
@@ -6990,7 +6990,7 @@ const tasks = [
   {
     id: 648,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Open a Black Chest",
     description: "Open a Black Chest from Shades of Mort'ton.",
     requirements: "35 FiremakingCompletion of   Shades of Mort'ton",
@@ -7001,7 +7001,7 @@ const tasks = [
   {
     id: 649,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Pet Frank",
     description: "Pet Darkmeyer's goodest boy.",
     requirements: "Partial completion of   Sins of the Father",
@@ -7012,7 +7012,7 @@ const tasks = [
   {
     id: 650,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Telegrab a Bloody bracer",
     description: "Telegrab a Bloody bracer in Slepe.",
     requirements: "33 Magic",
@@ -7023,7 +7023,7 @@ const tasks = [
   {
     id: 651,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Check a grown Papaya Tree in Lletya",
     description: "Check the health of a Papaya Tree you've grown in Lletya.",
     requirements: "57 Farming",
@@ -7034,7 +7034,7 @@ const tasks = [
   {
     id: 652,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Craft 50 Death Runes",
     description: "Craft 50 Death Runes from Essence at the Death Altar.",
     requirements: "65 Runecraft",
@@ -7045,7 +7045,7 @@ const tasks = [
   {
     id: 653,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat a Bloodveld in Tirannwn",
     description: "Defeat a Bloodveld in Tirannwn.",
     requirements: "50 Slayer",
@@ -7056,7 +7056,7 @@ const tasks = [
   {
     id: 654,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat a Kurask in Tirannwn",
     description: "Defeat a Kurask in Tirannwn.",
     requirements: "70 Slayer",
@@ -7067,7 +7067,7 @@ const tasks = [
   {
     id: 655,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat an Elf in Tirannwn",
     description: "Defeat an Elf in Tirannwn.",
     requirements: "N/A",
@@ -7078,7 +7078,7 @@ const tasks = [
   {
     id: 656,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Kill a Black Dragon in Tirannwn",
     description: "Kill a Black Dragon in Tirannwn.",
     requirements: "N/A",
@@ -7089,7 +7089,7 @@ const tasks = [
   {
     id: 657,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Move Your House to Prifddinas",
     description: "Move your Player Owned House to Prifddinas.",
     requirements: "70 Construction",
@@ -7100,7 +7100,7 @@ const tasks = [
   {
     id: 658,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Ring all of the Prifddinas bells",
     description: "Ring all of the Prifddinas bells.",
     requirements: "N/A",
@@ -7111,7 +7111,7 @@ const tasks = [
   {
     id: 659,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Use an Elven Teleport Crystal",
     description: "Use an Elven Teleport Crystal.",
     requirements: "N/A",
@@ -7122,7 +7122,7 @@ const tasks = [
   {
     id: 660,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Bury Some Lava Dragon Bones",
     description: "Bury some Lava Dragon Bones.",
     requirements: "N/A",
@@ -7133,7 +7133,7 @@ const tasks = [
   {
     id: 661,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Cast Claws of Guthix",
     description: "Cast the Claws of Guthix spell outside of the Mage Arena.",
     requirements: "60 MagicCompleted   Mage Arena I",
@@ -7144,7 +7144,7 @@ const tasks = [
   {
     id: 662,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Cast Flames of Zamorak",
     description: "Cast the Flames of Zamorak spell outside of the Mage Arena.",
     requirements: "60 MagicCompleted   Mage Arena I",
@@ -7155,7 +7155,7 @@ const tasks = [
   {
     id: 663,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Cast Saradomin Strike",
     description: "Cast the Saradomin Strike spell outside of the Mage Arena.",
     requirements: "60 MagicCompleted   Mage Arena I",
@@ -7166,7 +7166,7 @@ const tasks = [
   {
     id: 664,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Catch a Black Chinchompa",
     description: "Catch a Black Chinchompa in the Wilderness.",
     requirements: "73 Hunter",
@@ -7177,7 +7177,7 @@ const tasks = [
   {
     id: 665,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Catch a Black Salamander",
     description: "Catch a Black Salamander in the Wilderness.",
     requirements: "67 Hunter",
@@ -7188,7 +7188,7 @@ const tasks = [
   {
     id: 666,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Complete the Easy Wilderness Diary",
     description:
       "Complete all of the easy tasks in the   Wilderness Achievement Diary.",
@@ -7200,7 +7200,7 @@ const tasks = [
   {
     id: 667,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Complete the Medium Wilderness Diary",
     description:
       "Complete all of the medium tasks in the   Wilderness Achievement Diary.",
@@ -7212,7 +7212,7 @@ const tasks = [
   {
     id: 668,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Complete the Wilderness Agility Course",
     description: "Complete a lap of the Wilderness Agility Course.",
     requirements: "52 Agility",
@@ -7223,7 +7223,7 @@ const tasks = [
   {
     id: 669,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat a Green Dragon in the Wilderness",
     description: "Defeat a Green Dragon in the Wilderness.",
     requirements: "N/A",
@@ -7234,7 +7234,7 @@ const tasks = [
   {
     id: 670,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat a Lava Dragon in the Wilderness",
     description: "Defeat a Lava Dragon in the Wilderness.",
     requirements: "N/A",
@@ -7245,7 +7245,7 @@ const tasks = [
   {
     id: 671,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat the Chaos Fanatic",
     description: "Defeat the Chaos Fanatic in the Wilderness.",
     requirements: "N/A",
@@ -7256,7 +7256,7 @@ const tasks = [
   {
     id: 672,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat the Crazy Archaeologist",
     description: "Defeat the Crazy Archaeologist in the Wilderness.",
     requirements: "N/A",
@@ -7267,7 +7267,7 @@ const tasks = [
   {
     id: 673,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Destroy the one ring to rule them all",
     description: "Destroy the one ring to rule them all.",
     requirements: "Use a gold ring on the Wilderness Volcano",
@@ -7278,7 +7278,7 @@ const tasks = [
   {
     id: 674,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Enter the Deep Wilderness Dungeon",
     description: "Enter the Deep Wilderness Dungeon.",
     requirements: "N/A",
@@ -7289,7 +7289,7 @@ const tasks = [
   {
     id: 675,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Bracelet of Ethereum",
     description: "Equip a Bracelet of Ethereum.",
     requirements: "N/A",
@@ -7300,7 +7300,7 @@ const tasks = [
   {
     id: 676,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Fedora",
     description: "Equip a Fedora.",
     requirements: "N/A",
@@ -7311,7 +7311,7 @@ const tasks = [
   {
     id: 677,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a God Cape",
     description:
       "Equip either a Saradomin Cape, a Guthix Cape or a Zamorak Cape.",
@@ -7323,7 +7323,7 @@ const tasks = [
   {
     id: 678,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Obtain an Ecumenical Key",
     description:
       "Obtain an Ecumenical Key as a drop in the Wilderness God Wars Dungeon.",
@@ -7335,7 +7335,7 @@ const tasks = [
   {
     id: 679,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Open 1 Muddy Chest",
     description: "Open 1 Muddy Chest.",
     requirements: "N/A",
@@ -7346,7 +7346,7 @@ const tasks = [
   {
     id: 680,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Open 15 Larran's Chests",
     description:
       "Open 15 of either Larran's Small Chest or Larran's Big Chest.",
@@ -7358,7 +7358,7 @@ const tasks = [
   {
     id: 681,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Open a Looting Bag",
     description: "Open a Looting Bag.",
     requirements: "N/A",
@@ -7369,7 +7369,7 @@ const tasks = [
   {
     id: 682,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Open One of Larran's Chests",
     description: "Open either Larran's Small Chest or Larran's Big Chest.",
     requirements: "N/A",
@@ -7380,7 +7380,7 @@ const tasks = [
   {
     id: 683,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Sacrifice Some Bones at the Chaos Temple",
     description: "Sacrifice some Bones at the Western Chaos Temple altar.",
     requirements: "N/A",
@@ -7391,7 +7391,7 @@ const tasks = [
   {
     id: 684,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Use the Abyss",
     description: "Use the Abyss to access a Runecrafting Altar.",
     requirements: "N/A",
@@ -7402,7 +7402,7 @@ const tasks = [
   {
     id: 685,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "1 Master Clue Scroll",
     description: "Open a Reward casket for completing a master clue scroll.",
     requirements: "N/A",
@@ -7413,7 +7413,7 @@ const tasks = [
   {
     id: 686,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "100 Collection log slots",
     description: "Obtain 100 unique Collection Log slots.",
     requirements: "N/A",
@@ -7424,7 +7424,7 @@ const tasks = [
   {
     id: 687,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "100 Combat Achievement Points",
     description: "Obtain 100 Combat Achievement Points.",
     requirements: "N/A",
@@ -7435,7 +7435,7 @@ const tasks = [
   {
     id: 688,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "150 Elite Clue Scrolls",
     description: "Open 150 Reward caskets for completing elite clue scrolls.",
     requirements: "N/A",
@@ -7446,7 +7446,7 @@ const tasks = [
   {
     id: 689,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "150 Hard Clue Scrolls",
     description: "Open 150 Reward caskets for completing hard clue scrolls.",
     requirements: "N/A",
@@ -7457,7 +7457,7 @@ const tasks = [
   {
     id: 690,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "25 Combat Achievement Points",
     description: "Obtain 25 Combat Achievement Points.",
     requirements: "N/A",
@@ -7468,7 +7468,7 @@ const tasks = [
   {
     id: 691,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "25 Combat Achievements",
     description: "Complete 25 Combat Achievements",
     requirements: "N/A",
@@ -7479,7 +7479,7 @@ const tasks = [
   {
     id: 692,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "25 Elite Clue Scrolls",
     description: "Open 25 Reward caskets for completing elite clue scrolls.",
     requirements: "N/A",
@@ -7490,7 +7490,7 @@ const tasks = [
   {
     id: 693,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "25 Master Clue Scrolls",
     description: "Open 25 Reward caskets for completing master clue scrolls.",
     requirements: "N/A",
@@ -7501,7 +7501,7 @@ const tasks = [
   {
     id: 694,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "50 Collection log slots",
     description: "Obtain 50 unique Collection Log slots.",
     requirements: "N/A",
@@ -7512,7 +7512,7 @@ const tasks = [
   {
     id: 695,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "50 Combat Achievement Points",
     description: "Obtain 50 Combat Achievement Points.",
     requirements: "N/A",
@@ -7523,7 +7523,7 @@ const tasks = [
   {
     id: 696,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "50 Combat Achievements",
     description: "Complete 50 Combat Achievements",
     requirements: "N/A",
@@ -7534,7 +7534,7 @@ const tasks = [
   {
     id: 697,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "75 Elite Clue Scrolls",
     description: "Open 75 Reward caskets for completing elite clue scrolls.",
     requirements: "N/A",
@@ -7545,7 +7545,7 @@ const tasks = [
   {
     id: 698,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "75 Hard Clue Scrolls",
     description: "Open 75 Reward caskets for completing hard clue scrolls.",
     requirements: "N/A",
@@ -7556,7 +7556,7 @@ const tasks = [
   {
     id: 699,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 60",
     description: "Reach level 60 in any skill.",
     requirements: "N/A",
@@ -7567,7 +7567,7 @@ const tasks = [
   {
     id: 700,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 70",
     description: "Reach level 70 in any skill.",
     requirements: "N/A",
@@ -7578,7 +7578,7 @@ const tasks = [
   {
     id: 701,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 80",
     description: "Reach level 80 in any skill.",
     requirements: "N/A",
@@ -7589,7 +7589,7 @@ const tasks = [
   {
     id: 702,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Build a Marble Lectern",
     description: "Build a Marble Lectern.",
     requirements: "77 Construction Fremennik✓ for access to the Stonemason",
@@ -7600,7 +7600,7 @@ const tasks = [
   {
     id: 703,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Build an Achievement Gallery",
     description: "Build an Achievement Gallery in your Player Owned House.",
     requirements: "80 Construction",
@@ -7611,7 +7611,7 @@ const tasks = [
   {
     id: 704,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Burn 100 Yew Logs",
     description: "Burn 100 Yew Logs.",
     requirements: "60 Firemaking",
@@ -7622,7 +7622,7 @@ const tasks = [
   {
     id: 705,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Burn Some Magic Logs",
     description: "Burn some Magic Logs.",
     requirements: "75 Firemaking",
@@ -7633,7 +7633,7 @@ const tasks = [
   {
     id: 706,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cast a Surge Spell",
     description: "Cast any surge spell.",
     requirements:
@@ -7645,7 +7645,7 @@ const tasks = [
   {
     id: 707,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cast a Wave Spell",
     description: "Cast any wave spell.",
     requirements: "62 Magic",
@@ -7656,7 +7656,7 @@ const tasks = [
   {
     id: 708,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch 100 Shark",
     description: "Catch 100 Raw Shark whilst Fishing.",
     requirements: "76 Fishing",
@@ -7667,7 +7667,7 @@ const tasks = [
   {
     id: 709,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch a Dragon Impling",
     description: "Catch a Dragon Impling.",
     requirements: "83 Hunter",
@@ -7678,7 +7678,7 @@ const tasks = [
   {
     id: 710,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Check a grown Palm Tree",
     description: "Check the health of a Palm Tree you've grown.",
     requirements: "68 Farming",
@@ -7689,7 +7689,7 @@ const tasks = [
   {
     id: 711,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Chop 75 Magic Logs",
     description: "Chop 75 Magic Logs from Magic Trees.",
     requirements: "75 Woodcutting Kandarin✓,  Kourend✓,  Tirannwn✓,  Desert✓",
@@ -7700,7 +7700,7 @@ const tasks = [
   {
     id: 712,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Clean 100 Grimy Dwarf Weed",
     description: "Clean 100 Grimy Dwarf Weed.",
     requirements: "70 Herblore",
@@ -7711,7 +7711,7 @@ const tasks = [
   {
     id: 713,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 1 Speed Task",
     description: "Complete a Combat Achievement Speed task.",
     requirements: "N/A",
@@ -7722,7 +7722,7 @@ const tasks = [
   {
     id: 714,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 100 Mahogany homes contracts",
     description: "Complete 100 Mahogany homes contracts.",
     requirements: "Asgarnia✓ to start contracts",
@@ -7733,7 +7733,7 @@ const tasks = [
   {
     id: 715,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 100 Slayer Tasks",
     description: "Complete 100 Slayer Tasks.",
     requirements: "N/A",
@@ -7744,7 +7744,7 @@ const tasks = [
   {
     id: 716,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 200 Mahogany homes contracts",
     description: "Complete 200 Mahogany homes contracts.",
     requirements: "Asgarnia✓ to start contracts",
@@ -7755,7 +7755,7 @@ const tasks = [
   {
     id: 717,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 250 Laps of a Rooftop Agility Course",
     description: "Complete 250 laps of any Rooftop Agility Course.",
     requirements: "N/A",
@@ -7766,7 +7766,7 @@ const tasks = [
   {
     id: 718,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 5 Speed Tasks",
     description: "Complete 5 Combat Achievement Speed tasks.",
     requirements: "N/A",
@@ -7777,7 +7777,7 @@ const tasks = [
   {
     id: 719,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 50 Slayer Tasks",
     description: "Complete 50 Slayer Tasks.",
     requirements: "N/A",
@@ -7788,7 +7788,7 @@ const tasks = [
   {
     id: 720,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete a Mahogany homes expert contract",
     description: "Complete a Mahogany homes expert contract.",
     requirements: "70 Construction Asgarnia✓ to start contracts",
@@ -7799,7 +7799,7 @@ const tasks = [
   {
     id: 721,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete the Hard Western Provinces Diary",
     description:
       "Complete all of the hard tasks in the   Western Provinces Achievement Diary.",
@@ -7812,7 +7812,7 @@ const tasks = [
   {
     id: 722,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cook 100 pies.",
     description: "Cook 100 pies.",
     requirements: "10 Cooking",
@@ -7823,7 +7823,7 @@ const tasks = [
   {
     id: 723,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cook 100 Sharks",
     description: "Cook 100 Raw Sharks.",
     requirements: "80 Cooking",
@@ -7834,7 +7834,7 @@ const tasks = [
   {
     id: 724,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Cook 20 Redberry Pies.",
     description: "Cook 20 Redberry Pies.",
     requirements: "10 Cooking",
@@ -7845,7 +7845,7 @@ const tasks = [
   {
     id: 725,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft 2500 Essence Into Runes",
     description:
       "Use Runecrafting Altars to craft 2500 essence into runes of any type.",
@@ -7857,7 +7857,7 @@ const tasks = [
   {
     id: 726,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft 30 Blue Dragonhide Bodies",
     description: "Craft 30 Blue Dragonhide Bodies.",
     requirements: "71 Crafting",
@@ -7868,7 +7868,7 @@ const tasks = [
   {
     id: 727,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft a Dragonstone Amulet",
     description: "Craft a Dragonstone Amulet.",
     requirements: "80 Crafting",
@@ -7879,7 +7879,7 @@ const tasks = [
   {
     id: 728,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Create a black d'hide shield",
     description: "Create a black d'hide shield.",
     requirements:
@@ -7891,7 +7891,7 @@ const tasks = [
   {
     id: 729,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat 10 Superior Slayer Creatures",
     description: "Defeat 10 Superior Slayer Creatures.",
     requirements:
@@ -7903,7 +7903,7 @@ const tasks = [
   {
     id: 730,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat 20 Superior Slayer Creatures",
     description: "Defeat 20 Superior Slayer Creatures.",
     requirements:
@@ -7915,7 +7915,7 @@ const tasks = [
   {
     id: 731,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat a Slayer Boss",
     description: "Defeat any Slayer Boss.",
     requirements: "85 Slayer, or  75 Slayer in the  Morytania✓",
@@ -7926,7 +7926,7 @@ const tasks = [
   {
     id: 732,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Dig Up Some Magic Roots",
     description: "Dig up some Magic Roots from a Magic Tree you've grown.",
     requirements: "75 Farming",
@@ -7937,7 +7937,7 @@ const tasks = [
   {
     id: 733,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Combination Battlestaff or Mystic Staff",
     description:
       "Equip either a Combination Battlestaff or a Combination Mystic Staff.",
@@ -7949,7 +7949,7 @@ const tasks = [
   {
     id: 734,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Dragon Weapon",
     description: "Equip any Dragon weapon.",
     requirements: "60 Attack",
@@ -7960,7 +7960,7 @@ const tasks = [
   {
     id: 735,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Black Dragonhide Set",
     description:
       "Equip a Black Dragonhide Body, some Black Dragonhide Chaps and some Black Dragonhide Vambraces.",
@@ -7972,7 +7972,7 @@ const tasks = [
   {
     id: 736,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Gilded or Trimmed Wizard Set",
     description:
       "Equip either a full set of Gilded wizard robes or a full set of Trimmed wizard robes.",
@@ -7984,7 +7984,7 @@ const tasks = [
   {
     id: 737,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Gilded Set",
     description:
       "Equip either a full set of Gilded Rune Armour or a full set of Gilded Dragonhide Armour.",
@@ -7996,7 +7996,7 @@ const tasks = [
   {
     id: 738,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full God Dragonhide Set",
     description:
       "Equip a Blessed Coif, Body and Chaps with all pieces aligned to the same god.",
@@ -8008,7 +8008,7 @@ const tasks = [
   {
     id: 739,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full God Rune Set",
     description:
       "Equip a full set of God Rune Armour with all pieces aligned to the same god.",
@@ -8020,7 +8020,7 @@ const tasks = [
   {
     id: 740,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Vestment Set",
     description:
       "Equip a full set of Vestment robes with all pieces aligned to the same god.",
@@ -8032,7 +8032,7 @@ const tasks = [
   {
     id: 741,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Magic Shortbow",
     description: "Equip a Magic Shortbow.",
     requirements: "50 Ranged",
@@ -8043,7 +8043,7 @@ const tasks = [
   {
     id: 742,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Mist Battlestaff",
     description: "Obtain and equip a Mist battlestaff.",
     requirements:
@@ -8055,7 +8055,7 @@ const tasks = [
   {
     id: 743,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Rune Crossbow",
     description: "Equip a Rune Crossbow.",
     requirements: "61 Ranged",
@@ -8066,7 +8066,7 @@ const tasks = [
   {
     id: 744,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a two-handed Axe.",
     description: "Obtain and Equip a two-handed woodcutting axe from Forestry.",
     requirements: "N/A",
@@ -8077,7 +8077,7 @@ const tasks = [
   {
     id: 745,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip an Ornament Kit Item",
     description: "Equip any item that has an Ornament Kit attached to it.",
     requirements: "N/A",
@@ -8088,7 +8088,7 @@ const tasks = [
   {
     id: 746,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip Some Ranger Boots",
     description: "Equip a pair of Ranger Boots.",
     requirements: "40 Ranged",
@@ -8099,7 +8099,7 @@ const tasks = [
   {
     id: 747,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 10 Beginner Clue Collection Log Slots",
     description:
       "Fill 10 slots in the Beginner Clue section of the Collection Log.",
@@ -8111,7 +8111,7 @@ const tasks = [
   {
     id: 748,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 10 Elite Clue Collection Log Slots",
     description:
       "Fill 10 slots in the Elite Clue section of the Collection Log.",
@@ -8123,7 +8123,7 @@ const tasks = [
   {
     id: 749,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 15 Hard Clue Collection Log Slots",
     description:
       "Fill 15 slots in the Hard Clue section of the Collection Log.",
@@ -8135,7 +8135,7 @@ const tasks = [
   {
     id: 750,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 20 Easy Clue Collection Log Slots",
     description:
       "Fill 20 slots in the Easy Clue section of the Collection Log.",
@@ -8147,7 +8147,7 @@ const tasks = [
   {
     id: 751,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 20 Medium Clue Collection Log Slots",
     description:
       "Fill 20 slots in the Medium Clue section of the Collection Log.",
@@ -8159,7 +8159,7 @@ const tasks = [
   {
     id: 752,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 5 Master Clue Collection Log Slots",
     description:
       "Fill 5 slots in the Master Clue section of the Collection Log.",
@@ -8171,7 +8171,7 @@ const tasks = [
   {
     id: 753,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill a Giant Pouch",
     description: "Fill a Giant Pouch with Essence.",
     requirements: "75 Runecraft",
@@ -8182,7 +8182,7 @@ const tasks = [
   {
     id: 754,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill a Hard S.T.A.S.H. Unit",
     description:
       "Build a Hard S.T.A.S.H. unit and fill it with the relevant items.",
@@ -8194,7 +8194,7 @@ const tasks = [
   {
     id: 755,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch 200 Magic Longbow (u)",
     description: "Fletch 200 Magic Longbow (u).",
     requirements: "85 Fletching",
@@ -8205,7 +8205,7 @@ const tasks = [
   {
     id: 756,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch a Magic Shield",
     description: "Fletch a Magic Shield.",
     requirements: "87 Fletching",
@@ -8216,7 +8216,7 @@ const tasks = [
   {
     id: 757,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch a Magic Shortbow",
     description: "Fletch a Magic Shortbow.",
     requirements:
@@ -8228,7 +8228,7 @@ const tasks = [
   {
     id: 758,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch a Rune Crossbow",
     description: "Fletch a Rune Crossbow.",
     requirements: "69 Fletching",
@@ -8239,7 +8239,7 @@ const tasks = [
   {
     id: 759,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 10 Unique Items From Elite Clues",
     description: "Gain 10 unique items from Elite Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -8250,7 +8250,7 @@ const tasks = [
   {
     id: 760,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 10 Unique Items From Master Clues",
     description: "Gain 10 unique items from Master Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -8261,7 +8261,7 @@ const tasks = [
   {
     id: 761,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 20 Unique Items From Hard Clues",
     description: "Gain 20 unique items from Hard Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -8272,7 +8272,7 @@ const tasks = [
   {
     id: 762,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 25 Unique Items From Medium Clues",
     description: "Gain 25 unique items from Medium Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -8283,7 +8283,7 @@ const tasks = [
   {
     id: 763,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 35 Unique Items From Beginner Clues",
     description:
       "Gain 35 unique items from Beginner Clue Scroll Reward Caskets.",
@@ -8295,7 +8295,7 @@ const tasks = [
   {
     id: 764,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 35 Unique Items From Easy Clues",
     description: "Gain 35 unique items from Easy Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -8306,7 +8306,7 @@ const tasks = [
   {
     id: 765,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain a Unique Item From a Master Clue",
     description: "Gain a unique item from a Master Clue Scroll Reward Casket.",
     requirements: "N/A",
@@ -8317,7 +8317,7 @@ const tasks = [
   {
     id: 766,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain a Unique Item From an Elite Clue",
     description: "Gain a unique item from an Elite Clue Scroll Reward Casket.",
     requirements: "N/A",
@@ -8328,7 +8328,7 @@ const tasks = [
   {
     id: 767,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Make 20 Ranging Potions",
     description: "Make 20 Ranging Potions.",
     requirements: "72 Herblore",
@@ -8339,7 +8339,7 @@ const tasks = [
   {
     id: 768,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Make a Saradomin Brew",
     description: "Make a Saradomin Brew.",
     requirements: "81 Herblore",
@@ -8350,7 +8350,7 @@ const tasks = [
   {
     id: 769,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Mine 50 Adamantite Ore",
     description: "Mine 50 Adamantite Ore.",
     requirements: "70 Mining",
@@ -8361,7 +8361,7 @@ const tasks = [
   {
     id: 770,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Mine a shooting star",
     description: "Mine a shooting star.",
     requirements: "10 Mining",
@@ -8372,7 +8372,7 @@ const tasks = [
   {
     id: 771,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain a Magic seed from a birds nest",
     description: "Obtain a Magic seed from a birds nest.",
     requirements: "N/A",
@@ -8383,7 +8383,7 @@ const tasks = [
   {
     id: 772,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach a Prayer Bonus of 30",
     description: "Equip enough items to reach a Prayer Bonus of 30 or more.",
     requirements: "N/A",
@@ -8394,7 +8394,7 @@ const tasks = [
   {
     id: 773,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 60",
     description: "Reach level 60 in every skill.",
     requirements: "N/A",
@@ -8405,7 +8405,7 @@ const tasks = [
   {
     id: 774,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 70",
     description: "Reach level 70 in every skill.",
     requirements: "N/A",
@@ -8416,7 +8416,7 @@ const tasks = [
   {
     id: 775,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Combat Level 100",
     description: "Reach Combat Level 100.",
     requirements: "N/A",
@@ -8427,7 +8427,7 @@ const tasks = [
   {
     id: 776,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Combat Level 110",
     description: "Reach Combat Level 110.",
     requirements: "N/A",
@@ -8438,7 +8438,7 @@ const tasks = [
   {
     id: 777,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 1500",
     description: "Reach a Total Level of 1500.",
     requirements: "N/A",
@@ -8449,7 +8449,7 @@ const tasks = [
   {
     id: 778,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 1750",
     description: "Reach a Total Level of 1750.",
     requirements: "N/A",
@@ -8460,7 +8460,7 @@ const tasks = [
   {
     id: 779,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Restore 75 Prayer Points at an Altar",
     description: "Restore 75 or more Prayer Points at any altar.",
     requirements: "75 Prayer",
@@ -8471,7 +8471,7 @@ const tasks = [
   {
     id: 780,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smelt a Runite Bar",
     description: "Use a Furnace to smelt a Runite Bar.",
     requirements: "85 Smithing",
@@ -8482,7 +8482,7 @@ const tasks = [
   {
     id: 781,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smith a Rune Item",
     description: "Smith a Runite Item.",
     requirements: "85 Smithing",
@@ -8493,7 +8493,7 @@ const tasks = [
   {
     id: 782,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Steal From a Gem Stall",
     description: "Steal from a Gem Stall.",
     requirements:
@@ -8505,7 +8505,7 @@ const tasks = [
   {
     id: 783,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete a Game of Veteran Pest Control",
     description: "Complete a game of Veteran   Pest Control.",
     requirements: "100 Combat level",
@@ -8516,7 +8516,7 @@ const tasks = [
   {
     id: 784,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete Land of the Goblins",
     description: "Complete   Land of the Goblins quest.",
     requirements:
@@ -8528,7 +8528,7 @@ const tasks = [
   {
     id: 785,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete the Hard Falador Diary",
     description:
       "Complete all of the hard tasks in the   Falador Achievement Diary.",
@@ -8540,7 +8540,7 @@ const tasks = [
   {
     id: 786,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Craft 50 Law Runes",
     description: "Craft 50 Law Runes from Essence at the Law Altar.",
     requirements: "54 Runecraft",
@@ -8551,7 +8551,7 @@ const tasks = [
   {
     id: 787,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Any God Wars Dungeon Boss 100 Times",
     description: "Defeat any one of the God Wars Dungeon bosses 100 times",
     requirements: "70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength",
@@ -8562,7 +8562,7 @@ const tasks = [
   {
     id: 788,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Any God Wars Dungeon Boss 250 Times",
     description: "Defeat any one of the God Wars Dungeon bosses 250 times",
     requirements: "70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength",
@@ -8573,7 +8573,7 @@ const tasks = [
   {
     id: 789,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Cerberus 150 times",
     description: "Defeat Cerberus 150 times.",
     requirements: "91 Slayer",
@@ -8584,7 +8584,7 @@ const tasks = [
   {
     id: 790,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Cerberus 50 times",
     description: "Defeat Cerberus 50 times.",
     requirements: "91 Slayer",
@@ -8595,7 +8595,7 @@ const tasks = [
   {
     id: 791,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Cerberus",
     description: "Defeat Cerberus in the Taverley Dungeon.",
     requirements: "91 Slayer",
@@ -8606,7 +8606,7 @@ const tasks = [
   {
     id: 792,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Commander Zilyana",
     description: "Defeat Commander Zilyana in the God Wars Dungeon.",
     requirements: "70 Agility",
@@ -8617,7 +8617,7 @@ const tasks = [
   {
     id: 793,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat General Graardor",
     description: "Defeat General Graardor in the God Wars Dungeon.",
     requirements: "70 Strength",
@@ -8628,7 +8628,7 @@ const tasks = [
   {
     id: 794,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat K'ril Tsutsaroth",
     description: "Defeat K'ril Tsutsaroth in the God Wars Dungeon.",
     requirements: "70 Hitpoints",
@@ -8639,7 +8639,7 @@ const tasks = [
   {
     id: 795,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Kree'arra",
     description: "Defeat Kree'arra in the God Wars Dungeon.",
     requirements: "70 Ranged",
@@ -8650,7 +8650,7 @@ const tasks = [
   {
     id: 796,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Nex 150 Times",
     description: "Defeat Nex in the God Wars Dungeon 150 times.",
     requirements: "Completion of   The Frozen Door",
@@ -8661,7 +8661,7 @@ const tasks = [
   {
     id: 797,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Nex 50 Times",
     description: "Defeat Nex in the God Wars Dungeon 50 times.",
     requirements: "Completion of   The Frozen Door",
@@ -8672,7 +8672,7 @@ const tasks = [
   {
     id: 798,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Nex",
     description: "Defeat Nex in the God Wars Dungeon.",
     requirements: "Completion of   The Frozen Door",
@@ -8683,7 +8683,7 @@ const tasks = [
   {
     id: 799,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat the Giant Mole 300 Times",
     description: "Defeat the Giant Mole beneath Falador 300 times.",
     requirements: "N/A",
@@ -8694,7 +8694,7 @@ const tasks = [
   {
     id: 800,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Whisperer 150 times",
     description: "Defeat Whisperer 150 times.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -8705,7 +8705,7 @@ const tasks = [
   {
     id: 801,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Whisperer 50 times",
     description: "Defeat Whisperer 50 times.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -8716,7 +8716,7 @@ const tasks = [
   {
     id: 802,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Whisperer",
     description: "Defeat Whisperer.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -8727,7 +8727,7 @@ const tasks = [
   {
     id: 803,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Dragon Defender",
     description: "Equip a Dragon Defender.",
     requirements: "60 DefenceAccess to the   Warriors' Guild",
@@ -8738,7 +8738,7 @@ const tasks = [
   {
     id: 804,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Full Prospector Outfit",
     description: "Equip a full set of Prospector gear.",
     requirements: "30 Mining",
@@ -8749,7 +8749,7 @@ const tasks = [
   {
     id: 805,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Full Rogue Outfit",
     description: "Equip a full set of Rogue gear.",
     requirements: "50 Thieving,  50 Agility",
@@ -8760,7 +8760,7 @@ const tasks = [
   {
     id: 806,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Full Void Knight Set",
     description: "Equip a full set of Void Knight equipment.",
     requirements:
@@ -8772,7 +8772,7 @@ const tasks = [
   {
     id: 807,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Pair of Dragon Boots",
     description: "Equip a pair of Dragon Boots.",
     requirements: "60 Defence,  83 Slayer",
@@ -8783,7 +8783,7 @@ const tasks = [
   {
     id: 808,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Piece of the Golden Prospector set",
     description:
       "Equip either a Golden prospector helmet, a Golden prospector jacket, some Golden prospector legs or Golden prospector boots.",
@@ -8795,7 +8795,7 @@ const tasks = [
   {
     id: 809,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Saradomin Sword",
     description: "Equip a Saradomin Sword.",
     requirements: "70 Attack,  70 Agility",
@@ -8806,7 +8806,7 @@ const tasks = [
   {
     id: 810,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip some Zaryte Vambraces",
     description: "Obtain and equip some Zaryte Vambraces.",
     requirements:
@@ -8818,7 +8818,7 @@ const tasks = [
   {
     id: 811,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Keep the Veteran Void Knight Above 150 Hitpoints",
     description:
       "Complete a game of Veteran   Pest Control without letting the Void Knight fall below 150 Hitpoints.",
@@ -8830,7 +8830,7 @@ const tasks = [
   {
     id: 812,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Purchase a Celestial ring",
     description: "Purchase a Celestial ring from Dusuri's Star Shop.",
     requirements: "10 Mining",
@@ -8841,7 +8841,7 @@ const tasks = [
   {
     id: 813,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Steal a Diamond in Dorgesh-Kaan",
     description: "Steal a Diamond from a chest in Dorgesh-Kaan.",
     requirements: "78 ThievingCompletion of   Death to the Dorgeshuun",
@@ -8852,7 +8852,7 @@ const tasks = [
   {
     id: 814,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "The Frozen Door",
     description: "Complete the mini-quest   'The Frozen Door'.",
     requirements: "70 Agility,  70 Hitpoints,  70 Ranged,  70 Strength",
@@ -8863,7 +8863,7 @@ const tasks = [
   {
     id: 815,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "100 Tempoross Kills",
     description: "Help the Spirit Anglers subdue the Tempoross 100 times.",
     requirements: "35 Fishing",
@@ -8874,7 +8874,7 @@ const tasks = [
   {
     id: 816,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "200 Tempoross Kills",
     description: "Help the Spirit Anglers subdue the Tempoross 200 times.",
     requirements: "35 Fishing",
@@ -8885,7 +8885,7 @@ const tasks = [
   {
     id: 817,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Cast Ice Blitz",
     description: "Cast the Ice Blitz spell.",
     requirements: "82 Magic",
@@ -8896,7 +8896,7 @@ const tasks = [
   {
     id: 818,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Cast Ice Burst",
     description: "Cast the Ice Burst spell.",
     requirements: "70 Magic",
@@ -8907,7 +8907,7 @@ const tasks = [
   {
     id: 819,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Cast Paddewwa Teleport",
     description: "Cast the Paddewwa Teleport spell.",
     requirements: "54 Magic",
@@ -8918,7 +8918,7 @@ const tasks = [
   {
     id: 820,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Check a grown Potato Cactus",
     description:
       "Check the health of a Potato Cactus you've grown in Al Kharid.",
@@ -8930,7 +8930,7 @@ const tasks = [
   {
     id: 821,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Commune a Pharoah's Sceptre to the Necropolis",
     description: "Commune a Pharoah's Sceptre to the Necropolis.",
     requirements: "21 ThievingCompletion of   Beneath Cursed Sands",
@@ -8941,7 +8941,7 @@ const tasks = [
   {
     id: 822,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete Beneath Cursed Sands",
     description: "Complete   Beneath Cursed Sands quest.",
     requirements:
@@ -8953,7 +8953,7 @@ const tasks = [
   {
     id: 823,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete the Hard Desert Diary",
     description:
       "Complete all of the hard tasks in the   Desert Achievement Diary.",
@@ -8965,7 +8965,7 @@ const tasks = [
   {
     id: 824,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete Tombs of Amascut 50 times",
     description: "Complete Tombs of Amascut on normal or Expert 50 times.",
     requirements: "Completion of   Beneath Cursed Sands",
@@ -8976,7 +8976,7 @@ const tasks = [
   {
     id: 825,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete Tombs of Amascut",
     description: "Complete   Tombs of Amascut on normal or Expert.",
     requirements: "Completion of   Beneath Cursed Sands",
@@ -8987,7 +8987,7 @@ const tasks = [
   {
     id: 826,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Create the Colossal Rune Pouch",
     description: "Create the Colossal Rune Pouch from Guardians of the Rift.",
     requirements: "85 Runecraft,  56 Crafting",
@@ -8998,7 +8998,7 @@ const tasks = [
   {
     id: 827,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat Leviathan 150 times",
     description: "Defeat Leviathan 150 times.",
     requirements: "N/A",
@@ -9009,7 +9009,7 @@ const tasks = [
   {
     id: 828,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat Leviathan 50 times",
     description: "Defeat Leviathan 50 times.",
     requirements: "N/A",
@@ -9020,7 +9020,7 @@ const tasks = [
   {
     id: 829,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat the Kalphite Queen 100 Times",
     description: "Defeat the Kalphite Queen in the Kalphite Lair 50 times.",
     requirements: "N/A",
@@ -9031,7 +9031,7 @@ const tasks = [
   {
     id: 830,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat the Kalphite Queen 250 Times",
     description: "Defeat the Kalphite Queen in the Kalphite Lair 150 times.",
     requirements: "N/A",
@@ -9042,7 +9042,7 @@ const tasks = [
   {
     id: 831,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat the Kalphite Queen",
     description: "Defeat the Kalphite Queen in the Kalphite Lair.",
     requirements: "N/A",
@@ -9053,7 +9053,7 @@ const tasks = [
   {
     id: 832,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat the Leviathan",
     description: "Defeat the Leviathan.",
     requirements: "N/A",
@@ -9064,7 +9064,7 @@ const tasks = [
   {
     id: 833,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a Dragon 2-Handed Sword",
     description: "Equip a Dragon 2-Handed Sword in the Kharidian Desert.",
     requirements: "60 Attack",
@@ -9075,7 +9075,7 @@ const tasks = [
   {
     id: 834,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a full set of the Smith's outfit",
     description:
       "Equip a full set of the Smith's outfit, purchased from the Giant's Foundry minigame.",
@@ -9087,7 +9087,7 @@ const tasks = [
   {
     id: 835,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a Mage's Book",
     description: "Equip a Mage's Book.",
     requirements: "60 Magic",
@@ -9098,7 +9098,7 @@ const tasks = [
   {
     id: 836,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a Master Wand",
     description: "Equip a Master Wand.",
     requirements: "60 Magic",
@@ -9109,7 +9109,7 @@ const tasks = [
   {
     id: 837,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip the Abyssal Lantern",
     description: "Obtain and Equip the Abyssal Lantern.",
     requirements: "10 Runecraft",
@@ -9120,7 +9120,7 @@ const tasks = [
   {
     id: 838,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip the Lightbearer",
     description: "Obtain and Equip the Lightbearer.",
     requirements: "Completion of   Beneath Cursed Sands",
@@ -9131,7 +9131,7 @@ const tasks = [
   {
     id: 839,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Giants' Foundry 100 hand-ins",
     description: "Hand in 100 successful swords to Kovac.",
     requirements: "15 Smithing",
@@ -9142,7 +9142,7 @@ const tasks = [
   {
     id: 840,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Giants' Foundry 150 quality sword",
     description:
       "Hand in a sword with at least 150 quality in Giants' Foundry.",
@@ -9154,7 +9154,7 @@ const tasks = [
   {
     id: 841,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Giants' Foundry 50 han-dins",
     description: "Hand in 50 successful swords to Kovac.",
     requirements: "15 Smithing",
@@ -9165,7 +9165,7 @@ const tasks = [
   {
     id: 842,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Guardians of the Rift 100 Rifts closed",
     description: "Close the rift in the temple of the eye 100 times.",
     requirements: "10 Runecraft",
@@ -9176,7 +9176,7 @@ const tasks = [
   {
     id: 843,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Guardians of the Rift 50 Rifts closed",
     description: "Close the rift in the temple of the eye 50 times.",
     requirements: "10 Runecraft",
@@ -9187,7 +9187,7 @@ const tasks = [
   {
     id: 844,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Have Zahur Make 1,000 Unfinished Potions",
     description: "Have Zahur make 1,000 Unfinished Potions.",
     requirements:
@@ -9199,7 +9199,7 @@ const tasks = [
   {
     id: 845,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Make 20 Magic Potions",
     description: "Make 20 Magic Potions.",
     requirements: "76 Herblore",
@@ -9210,7 +9210,7 @@ const tasks = [
   {
     id: 846,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Make 50 Menaphite Remedies",
     description: "Make 50 Menaphite Remedies.",
     requirements: "88 HerbloreCompletion of   Beneath Cursed Sands",
@@ -9221,7 +9221,7 @@ const tasks = [
   {
     id: 847,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Obtain the Fish Barrel",
     description: "Obtain the Fish Barrel from Tempoross.",
     requirements: "35 Fishing",
@@ -9232,7 +9232,7 @@ const tasks = [
   {
     id: 848,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Pick a Summer Sq'irk",
     description: "Pick a Summer Sq'irk in the Sorceress's Garden.",
     requirements: "65 ThievingCompletion of   Prince Ali Rescue",
@@ -9243,7 +9243,7 @@ const tasks = [
   {
     id: 849,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Pickpocket a Menaphite Thug 50 Times",
     description: "Knock out and then pickpocket a Menaphite Thug 50 times.",
     requirements: "65 Thieving",
@@ -9254,7 +9254,7 @@ const tasks = [
   {
     id: 850,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 7 of Pyramid Plunder",
     description:
       "Search the Golden Chest in Room 7 of Pyramid Plunder in Sophanem.",
@@ -9267,7 +9267,7 @@ const tasks = [
   {
     id: 851,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 8 of Pyramid Plunder 25 Times",
     description:
       "Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 25 times.",
@@ -9280,7 +9280,7 @@ const tasks = [
   {
     id: 852,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 8 of Pyramid Plunder",
     description:
       "Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem.",
@@ -9293,7 +9293,7 @@ const tasks = [
   {
     id: 853,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Smith 1,000 Adamant Dart Tips",
     description: "Use an Anvil to smith 1,000 Adamant Dart Tips.",
     requirements: "74 Smithing",
@@ -9304,7 +9304,7 @@ const tasks = [
   {
     id: 854,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Turn in 25 Autumn Sq'irkjuices to Osman",
     description:
       "Turn in 25 Autumn Sq'irkjuices to Osman in Al Kharid in one go.",
@@ -9316,7 +9316,7 @@ const tasks = [
   {
     id: 855,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Build a Gilded Altar",
     description: "Build a Gilded Altar in a Chapel in your Player Owned House.",
     requirements: "75 Construction",
@@ -9327,7 +9327,7 @@ const tasks = [
   {
     id: 856,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Cast Fertile Soil",
     description: "Cast the Fertile Soil spell.",
     requirements: "83 Magic",
@@ -9338,7 +9338,7 @@ const tasks = [
   {
     id: 857,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Collect Miscellania Resources at Full Approval",
     description:
       "Collect some resources on Miscellania with an approval rating of 100%.",
@@ -9350,7 +9350,7 @@ const tasks = [
   {
     id: 858,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Complete the Hard Fremennik Diary",
     description:
       "Complete all of the hard tasks in the   Fremennik Achievement Diary.",
@@ -9362,7 +9362,7 @@ const tasks = [
   {
     id: 859,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Complete the Rellekka Agility Course",
     description: "Complete a lap of the Rellekka Rooftop Agility Course.",
     requirements: "80 Agility",
@@ -9373,7 +9373,7 @@ const tasks = [
   {
     id: 860,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat a Rune Dragon",
     description: "Defeat a Rune Dragon in the Lithkren Vault.",
     requirements: "N/A",
@@ -9384,7 +9384,7 @@ const tasks = [
   {
     id: 861,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Duke Sucellus 150 times",
     description: "Defeat Duke Sucellus 150 times.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -9395,7 +9395,7 @@ const tasks = [
   {
     id: 862,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Duke Sucellus 50 times",
     description: "Defeat Duke Sucellus 50 times.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -9406,7 +9406,7 @@ const tasks = [
   {
     id: 863,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Duke Sucellus",
     description: "Defeat Duke Sucellus.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -9417,7 +9417,7 @@ const tasks = [
   {
     id: 864,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Each Dagannoth King 150 Times",
     description:
       "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 150 times.",
@@ -9429,7 +9429,7 @@ const tasks = [
   {
     id: 865,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Each Dagannoth King 50 Times",
     description:
       "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 50 times.",
@@ -9441,7 +9441,7 @@ const tasks = [
   {
     id: 866,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Phantom Muspah 150 times",
     description: "Defeat Phantom Muspah 150 times.",
     requirements: "N/A",
@@ -9452,7 +9452,7 @@ const tasks = [
   {
     id: 867,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Phantom Muspah 50 times",
     description: "Defeat Phantom Muspah 50 times.",
     requirements: "N/A",
@@ -9463,7 +9463,7 @@ const tasks = [
   {
     id: 868,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Phantom Muspah",
     description: "Defeat Phantom Muspah.",
     requirements: "N/A",
@@ -9474,7 +9474,7 @@ const tasks = [
   {
     id: 869,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat the Dagannoth Kings Without Leaving",
     description:
       "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon without leaving their area.",
@@ -9486,7 +9486,7 @@ const tasks = [
   {
     id: 870,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Vorkath 150 Times",
     description: "Defeat Vorkath on Ungael 150 times.",
     requirements: "N/A",
@@ -9497,7 +9497,7 @@ const tasks = [
   {
     id: 871,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Vorkath 50 Times",
     description: "Defeat Vorkath on Ungael 50 times.",
     requirements: "N/A",
@@ -9508,7 +9508,7 @@ const tasks = [
   {
     id: 872,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Vorkath",
     description: "Defeat Vorkath on Ungael.",
     requirements: "N/A",
@@ -9519,7 +9519,7 @@ const tasks = [
   {
     id: 873,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Berserker Ring",
     description: "Equip a Berserker Ring.",
     requirements: "N/A",
@@ -9530,7 +9530,7 @@ const tasks = [
   {
     id: 874,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Full Rockshell Armour Set",
     description: "Equip a full set of Rockshell armour.",
     requirements: "40 Defence",
@@ -9541,7 +9541,7 @@ const tasks = [
   {
     id: 875,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Full Skeletal Armour Set",
     description: "Equip a full set of Skeletal armour.",
     requirements: "40 Defence,  40 Magic",
@@ -9552,7 +9552,7 @@ const tasks = [
   {
     id: 876,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Full Spined Armour Set",
     description: "Equip a full set of Spined armour.",
     requirements: "40 Defence,  40 Ranged",
@@ -9563,7 +9563,7 @@ const tasks = [
   {
     id: 877,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Leaf-Bladed Battleaxe",
     description: "Equip a Leaf-Bladed Battleaxe in The Fremennik Provinces.",
     requirements: "65 Attack,  55 Slayer",
@@ -9574,7 +9574,7 @@ const tasks = [
   {
     id: 878,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Mud Battlestaff",
     description: "Equip a Mud Battlestaff.",
     requirements: "30 Magic,  30 Attack",
@@ -9585,7 +9585,7 @@ const tasks = [
   {
     id: 879,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Seer's Ring",
     description: "Equip a Seer's Ring.",
     requirements: "N/A",
@@ -9596,7 +9596,7 @@ const tasks = [
   {
     id: 880,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Seercull",
     description: "Equip a Seercull.",
     requirements: "50 Ranged",
@@ -9607,7 +9607,7 @@ const tasks = [
   {
     id: 881,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Warrior Ring",
     description: "Equip a Warrior Ring.",
     requirements: "N/A",
@@ -9618,7 +9618,7 @@ const tasks = [
   {
     id: 882,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip an Archer's Ring",
     description: "Equip an Archer's Ring.",
     requirements: "N/A",
@@ -9629,7 +9629,7 @@ const tasks = [
   {
     id: 883,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip an Ava's Assembler",
     description: "Equip an Ava's Assembler.",
     requirements: "70 Ranged",
@@ -9640,7 +9640,7 @@ const tasks = [
   {
     id: 884,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip the Ancient Sceptre",
     description: "Obtain and Equip the Ancient Sceptre.",
     requirements: "70 Magic,  50 Attack,  60 Strength",
@@ -9651,7 +9651,7 @@ const tasks = [
   {
     id: 885,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Harvest a Snapdragon in Weiss",
     description: "Harvest a Snapdragon you've grown in Weiss.",
     requirements: "62 Farming",
@@ -9662,7 +9662,7 @@ const tasks = [
   {
     id: 886,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Trap a Sabre-toothed Kyatt",
     description: "Trap a Sabre-toothed Kyatt.",
     requirements: "55 Hunter",
@@ -9673,7 +9673,7 @@ const tasks = [
   {
     id: 887,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Use the Special Attack of a Dragon Axe",
     description: "Use the special attack of a Dragon Axe.",
     requirements: "60 Attack",
@@ -9684,7 +9684,7 @@ const tasks = [
   {
     id: 888,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Use Your Portal Nexus to Teleport to Weiss",
     description:
       "Use a Portal Nexus in your Player Owned House to teleport to Weiss.",
@@ -9696,7 +9696,7 @@ const tasks = [
   {
     id: 889,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete Path of Glouphrie",
     description: "Complete the   Path of Glouphrie quest.",
     requirements:
@@ -9708,7 +9708,7 @@ const tasks = [
   {
     id: 890,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Hard Ardougne Diary",
     description:
       "Complete all of the hard tasks in the   Ardougne Achievement Diary.",
@@ -9720,7 +9720,7 @@ const tasks = [
   {
     id: 891,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Hard Kandarin Diary",
     description:
       "Complete all of the hard tasks in the   Kandarin Achievement Diary.",
@@ -9732,7 +9732,7 @@ const tasks = [
   {
     id: 892,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Seers' Village Agility Course",
     description: "Complete a lap of the Seers' Village Rooftop Agility Course.",
     requirements: "60 Agility",
@@ -9743,7 +9743,7 @@ const tasks = [
   {
     id: 893,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat 150 Demonic Gorillas",
     description: "Defeat 150 Demonic Gorillas in the Crash Site Cavern.",
     requirements: "N/A",
@@ -9754,7 +9754,7 @@ const tasks = [
   {
     id: 894,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat a Cave Kraken",
     description: "Defeat a Cave Kraken in Kraken Cove.",
     requirements: "87 Slayer",
@@ -9765,7 +9765,7 @@ const tasks = [
   {
     id: 895,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat a Demonic Gorilla",
     description: "Defeat a Demonic Gorilla in the Crash Site Cavern.",
     requirements: "N/A",
@@ -9776,7 +9776,7 @@ const tasks = [
   {
     id: 896,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat a Smoke Devil",
     description: "Defeat a Smoke Devil in the Smoke Devil Dungeon.",
     requirements: "93 Slayer",
@@ -9787,7 +9787,7 @@ const tasks = [
   {
     id: 897,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat the Kraken Boss 150 Times",
     description: "Defeat the Kraken boss in Kraken Cove 150 times.",
     requirements: "87 Slayer",
@@ -9798,7 +9798,7 @@ const tasks = [
   {
     id: 898,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat the Kraken Boss 50 Times",
     description: "Defeat the Kraken boss in Kraken Cove 50 times.",
     requirements: "87 Slayer",
@@ -9809,7 +9809,7 @@ const tasks = [
   {
     id: 899,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Enter the Myths' Guild",
     description: "Enter the Myths' Guild.",
     requirements: "Fremennik✓ for completion of   Dragon Slayer II",
@@ -9820,7 +9820,7 @@ const tasks = [
   {
     id: 900,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Fighter Torso",
     description: "Equip a Fighter Torso.",
     requirements: "40 Defence",
@@ -9831,7 +9831,7 @@ const tasks = [
   {
     id: 901,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Full Angler's Outfit",
     description: "Equip a full set of Angler gear.",
     requirements: "34 Fishing",
@@ -9842,7 +9842,7 @@ const tasks = [
   {
     id: 902,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Karamja Monkey Backpack",
     description: "Equip a Karamja Monkey Backpack.",
     requirements: "48 Agility",
@@ -9853,7 +9853,7 @@ const tasks = [
   {
     id: 903,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Trident of the Seas",
     description: "Equip a Trident of the Seas.",
     requirements: "75 Magic,  87 Slayer",
@@ -9864,7 +9864,7 @@ const tasks = [
   {
     id: 904,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Warped Sceptre",
     description: "Obtain and Equip a Warped Sceptre.",
     requirements: "62 Magic,  56 SlayerCompletion of   The Path of Glouphrie",
@@ -9875,7 +9875,7 @@ const tasks = [
   {
     id: 905,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip an Ogre Expert Chompy Hat",
     description: "Equip an Ogre Expert Chompy Hat.",
     requirements:
@@ -9887,7 +9887,7 @@ const tasks = [
   {
     id: 906,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Feed Longramble",
     description: "Deliver some Tangled Toads Legs to Longramble.",
     requirements: "40 Cooking",
@@ -9898,7 +9898,7 @@ const tasks = [
   {
     id: 907,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Fletch 100 Maple Longbow (u) in Kandarin",
     description: "Fletch 100 Maple Longbow (u) in Kandarin.",
     requirements: "55 Fletching",
@@ -9909,7 +9909,7 @@ const tasks = [
   {
     id: 908,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Kill a Frogeel",
     description: "Kill a Frogeel underneath the Tower of Life.",
     requirements: "Completion of   Tower of Life",
@@ -9920,7 +9920,7 @@ const tasks = [
   {
     id: 909,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Kill a Jubster",
     description: "Kill a Jubster underneath the Tower of Life.",
     requirements:
@@ -9932,7 +9932,7 @@ const tasks = [
   {
     id: 910,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Pickpocket a Hero",
     description: "Pickpocket any Hero.",
     requirements: "80 Thieving",
@@ -9943,7 +9943,7 @@ const tasks = [
   {
     id: 911,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Reach Level 5 in Any Barbarian Assault Role",
     description: "Reach level 5 in any Barbarian Assault Role.",
     requirements: "N/A",
@@ -9954,7 +9954,7 @@ const tasks = [
   {
     id: 912,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Use the Piety Prayer",
     description: "Use the Piety Prayer.",
     requirements: "70 Prayer,  70 DefenceCompletion of   Knight Waves",
@@ -9965,7 +9965,7 @@ const tasks = [
   {
     id: 913,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Check a grown Calquat Tree",
     description: "Check the health of a Calquat Tree you've grown on Karamja.",
     requirements: "72 Farming",
@@ -9976,7 +9976,7 @@ const tasks = [
   {
     id: 914,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Hard Karamja Diary",
     description:
       "Complete all of the hard tasks in the   Karamja Achievement Diary.",
@@ -9988,7 +9988,7 @@ const tasks = [
   {
     id: 915,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete Tzhaar-Ket-Raks first challenge",
     description: "Complete Tzhaar-Ket-Raks first challenge.",
     requirements: "Completion of   TzHaar Fight Cave",
@@ -9999,7 +9999,7 @@ const tasks = [
   {
     id: 916,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete Tzhaar-Ket-Raks second challenge",
     description: "Complete Tzhaar-Ket-Raks second challenge.",
     requirements: "Completion of   TzHaar Fight Cave",
@@ -10010,7 +10010,7 @@ const tasks = [
   {
     id: 917,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Cook 20 Karambwans in a row",
     description: "Cook 20 Karambwans in a row without burning them.",
     requirements: "30 CookingCompletion of   Tai Bwo Wannai Trio",
@@ -10021,7 +10021,7 @@ const tasks = [
   {
     id: 918,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip a Full Obsidian Armour Set",
     description: "Equip a full set of Obsidian armour.",
     requirements: "60 DefenceCompletion of   TzHaar Fight Cave",
@@ -10032,7 +10032,7 @@ const tasks = [
   {
     id: 919,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip a Red Topaz Machete",
     description: "Equip a Red Topaz Machete.",
     requirements: "N/A",
@@ -10043,7 +10043,7 @@ const tasks = [
   {
     id: 920,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip a Toktz-Ket-Xil",
     description: "Equip a Toktz-Ket-Xil.",
     requirements: "60 Defence",
@@ -10054,7 +10054,7 @@ const tasks = [
   {
     id: 921,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip a Toktz-Xil-Ak",
     description: "Equip a Toktz-Xil-Ak.",
     requirements: "60 Attack",
@@ -10065,7 +10065,7 @@ const tasks = [
   {
     id: 922,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip a Toktz-Xil-Ek",
     description: "Equip a Toktz-Xil-Ek.",
     requirements: "60 Attack",
@@ -10076,7 +10076,7 @@ const tasks = [
   {
     id: 923,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip a TzHaar-Ket-Om",
     description: "Equip a TzHaar-Ket-Om.",
     requirements: "60 Strength",
@@ -10087,7 +10087,7 @@ const tasks = [
   {
     id: 924,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip an Obsidian Cape",
     description: "Equip an Obsidian Cape.",
     requirements: "N/A",
@@ -10098,7 +10098,7 @@ const tasks = [
   {
     id: 925,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip Some Dragon Platelegs or a Dragon Plateskirt",
     description: "Equip either some Dragon Platelegs or a Dragon Plateskirt.",
     requirements: "60 Defence",
@@ -10109,7 +10109,7 @@ const tasks = [
   {
     id: 926,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Find a Gout Tuber",
     description: "Find a Gout Tuber in Tai Bwo Wannai.",
     requirements: "35 Woodcutting",
@@ -10120,7 +10120,7 @@ const tasks = [
   {
     id: 927,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Receive 30 Agility Arena Tickets With No Mistakes",
     description:
       "Receive 30 Agility Arena Tickets without missing any pillars.",
@@ -10132,7 +10132,7 @@ const tasks = [
   {
     id: 928,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Survive a Hit From TzTok-Jad Without Prayer",
     description:
       "Survive a Magic or Ranged hit from TzTok-Jad in the TzHaar Fight Cave without using a protection Prayer.",
@@ -10144,7 +10144,7 @@ const tasks = [
   {
     id: 929,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Take a Shortcut Across the Shilo Village River",
     description: "Take a shortcut across the Shilo Village river.",
     requirements: "77 Agility",
@@ -10155,7 +10155,7 @@ const tasks = [
   {
     id: 930,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "1 Alchemical Hydra Kill",
     description: "Kill the Alchemical Hydra in Mount Karuulm.",
     requirements: "95 Slayer",
@@ -10166,7 +10166,7 @@ const tasks = [
   {
     id: 931,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "1 Chambers of Xeric",
     description: "Complete the Chambers of Xeric.",
     requirements: "N/A",
@@ -10177,7 +10177,7 @@ const tasks = [
   {
     id: 932,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "1 Mimic Kill",
     description: "Kill the Mimic as part of a Treasure Trail.",
     requirements: "N/A",
@@ -10188,7 +10188,7 @@ const tasks = [
   {
     id: 933,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "1 Skotizo Kill",
     description: "Kill Skotizo beneath the Catacombs of Kourend.",
     requirements: "N/A",
@@ -10199,7 +10199,7 @@ const tasks = [
   {
     id: 934,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "10 Skotizo Kills",
     description: "Kill Skotizo beneath the Catacombs of Kourend 10 times.",
     requirements: "N/A",
@@ -10210,7 +10210,7 @@ const tasks = [
   {
     id: 935,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "100 Wintertodt Kills",
     description: "Help the Pyromancers subdue the Wintertodt 100 times.",
     requirements: "50 Firemaking",
@@ -10221,7 +10221,7 @@ const tasks = [
   {
     id: 936,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "150 Alchemical Hydra Kills",
     description: "Kill the Alchemical Hydra in Mount Karuulm 150 times.",
     requirements: "95 Slayer",
@@ -10232,7 +10232,7 @@ const tasks = [
   {
     id: 937,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "150 Chambers of Xeric",
     description:
       "Complete the Chambers of Xeric Normal or Challenge Mode 150 times.",
@@ -10244,7 +10244,7 @@ const tasks = [
   {
     id: 938,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "150 Sarachnis Kills",
     description: "Kill Sarachnis in the Forthos Dungeon 150 times.",
     requirements: "N/A",
@@ -10255,7 +10255,7 @@ const tasks = [
   {
     id: 939,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "200 Wintertodt Kills",
     description: "Help the Pyromancers subdue the Wintertodt 200 times.",
     requirements: "50 Firemaking",
@@ -10266,7 +10266,7 @@ const tasks = [
   {
     id: 940,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "25 Skotizo Kills",
     description: "Kill Skotizo beneath the Catacombs of Kourend 25 times.",
     requirements: "N/A",
@@ -10277,7 +10277,7 @@ const tasks = [
   {
     id: 941,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "300 Sarachnis Kills",
     description: "Kill Sarachnis in the Forthos Dungeon 300 times.",
     requirements: "N/A",
@@ -10288,7 +10288,7 @@ const tasks = [
   {
     id: 942,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "5 Mimic Kills",
     description: "Kill the Mimic as part of a Treasure Trail 5 times.",
     requirements: "N/A",
@@ -10299,7 +10299,7 @@ const tasks = [
   {
     id: 943,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "50 Alchemical Hydra Kills",
     description: "Kill the Alchemical Hydra in Mount Karuulm 50 times.",
     requirements: "95 Slayer",
@@ -10310,7 +10310,7 @@ const tasks = [
   {
     id: 944,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "50 Chambers of Xeric",
     description:
       "Complete the Chambers of Xeric Normal or Challenge Mode 50 times.",
@@ -10322,7 +10322,7 @@ const tasks = [
   {
     id: 945,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "750 Lizardmen Shaman Kills",
     description: "Help the Shayzien House by killing 750 Lizardmen shamans.",
     requirements: "100%   Shayzien favour",
@@ -10333,7 +10333,7 @@ const tasks = [
   {
     id: 946,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Activate an Arcane or Dexterous Prayer Scroll",
     description: "Activate an Arcane or Dexterous Prayer scroll.",
     requirements: "N/A",
@@ -10344,7 +10344,7 @@ const tasks = [
   {
     id: 947,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Cast Full Sinister Offering",
     description:
       "Offer 3 bones from your inventory at the same time using the Sinister Offering spell.",
@@ -10357,7 +10357,7 @@ const tasks = [
   {
     id: 948,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Chop 200 Redwood Logs",
     description: "Chop 200 Redwood Logs from Redwood Trees.",
     requirements: "90 Woodcutting60%   Hosidius favour",
@@ -10368,7 +10368,7 @@ const tasks = [
   {
     id: 949,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete 150 Farming Contracts",
     description:
       "Complete 150 Farming Contracts for Guildmaster Jane in the Farming Guild.",
@@ -10380,7 +10380,7 @@ const tasks = [
   {
     id: 950,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete 50 Farming Contracts",
     description:
       "Complete 50 Farming Contracts for Guildmaster Jane in the Farming Guild.",
@@ -10392,7 +10392,7 @@ const tasks = [
   {
     id: 951,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Defeat a Hydra",
     description: "Defeat a regular Hydra in the Mount Karuulm Slayer Dungeon.",
     requirements: "95 Slayer",
@@ -10403,7 +10403,7 @@ const tasks = [
   {
     id: 952,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Defeat Vardorvis 150 times",
     description: "Defeat Vardorvis 150 times.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -10414,7 +10414,7 @@ const tasks = [
   {
     id: 953,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Defeat Vardorvis 50 times",
     description: "Defeat Vardorvis 50 times.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -10425,7 +10425,7 @@ const tasks = [
   {
     id: 954,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Defeat Vardorvis",
     description: "Defeat Vardorvis.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -10436,7 +10436,7 @@ const tasks = [
   {
     id: 955,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Enter the Farming Guild's High Tier",
     description:
       "Enter the high tier of the Farming Guild in the Kebos Lowlands.",
@@ -10448,7 +10448,7 @@ const tasks = [
   {
     id: 956,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Brimstone Ring",
     description: "Obtain and equip a Brimstone ring.",
     requirements: "95 Slayer",
@@ -10459,7 +10459,7 @@ const tasks = [
   {
     id: 957,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Dust Battlestaff",
     description: "Obtain and equip a Dust battlestaff.",
     requirements:
@@ -10471,7 +10471,7 @@ const tasks = [
   {
     id: 958,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Pearl Barbarian Rod",
     description:
       "Equip a Pearl barbarian rod, purchased from Alry on Molch Island.",
@@ -10483,7 +10483,7 @@ const tasks = [
   {
     id: 959,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Pearl Fishing Rod",
     description:
       "Equip a Pearl fishing rod, purchased from Alry on Molch Island.",
@@ -10495,7 +10495,7 @@ const tasks = [
   {
     id: 960,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Sarachnis Cudgel",
     description: "Equip a Sarachnis Cudgel.",
     requirements: "65 Attack",
@@ -10506,7 +10506,7 @@ const tasks = [
   {
     id: 961,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip Boots of Brimstone",
     description: "Obtain and equip a pair of Boots of brimstone.",
     requirements: "84 Slayer,  70 Defence,  70 Magic,  70 Ranged",
@@ -10517,7 +10517,7 @@ const tasks = [
   {
     id: 962,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip Ferocious Gloves",
     description: "Obtain and equip a pair of Ferocious gloves.",
     requirements:
@@ -10529,7 +10529,7 @@ const tasks = [
   {
     id: 963,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip the Angler's Outfit",
     description:
       "Equip a full set of the Angler's outfit, purchased from Alry on Molch Island.",
@@ -10541,7 +10541,7 @@ const tasks = [
   {
     id: 964,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip the Farmer's Outfit",
     description:
       "Equip a full set of the Farmer's outfit, purchased from the Tithe Farm minigame.",
@@ -10553,7 +10553,7 @@ const tasks = [
   {
     id: 965,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip the Pyromancer's Garb",
     description:
       "Equip a full set of Pyromancer's garb, rewarded from the Wintertodt.",
@@ -10565,7 +10565,7 @@ const tasks = [
   {
     id: 966,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Fletch a Redwood Shield",
     description: "Fletch a Redwood Shield.",
     requirements: "92 Fletching,  90 Woodcutting60%   Hosidius favour",
@@ -10576,7 +10576,7 @@ const tasks = [
   {
     id: 967,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Friend of House Lovakengj",
     description: "Achieve 100% favour with the Lovakengj House.",
     requirements: "42 Mining",
@@ -10587,7 +10587,7 @@ const tasks = [
   {
     id: 968,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Kourend and Kebos Hard Diary Tasks",
     description:
       "Complete all tasks in the hard tier of the   Kourend and Kebos achievement diary.",
@@ -10600,7 +10600,7 @@ const tasks = [
   {
     id: 969,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Plant 100 Bologano Seeds",
     description: "Plant 100 Bologano seeds in the Tithe Farm minigame.",
     requirements: "54 Farming100%   Hosidius favour",
@@ -10611,7 +10611,7 @@ const tasks = [
   {
     id: 970,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Plant 100 Logavano Seeds",
     description: "Plant 100 Logavano seeds in the Tithe Farm minigame.",
     requirements: "74 Farming100%   Hosidius favour",
@@ -10622,7 +10622,7 @@ const tasks = [
   {
     id: 971,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Plant an Anima Seed",
     description: "Plant an Anima Seed in the Farming Guild.",
     requirements: "76 Farming",
@@ -10633,7 +10633,7 @@ const tasks = [
   {
     id: 972,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Catch 200 Implings in Puro-Puro",
     description: "Catch 200 Implings in Puro-Puro.",
     requirements: "17 Hunter",
@@ -10644,7 +10644,7 @@ const tasks = [
   {
     id: 973,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Catch a Herbiboar 50 Times",
     description: "Catch a Herbiboar on Fossil Island 50 times.",
     requirements: "80 Hunter,  31 Herblore",
@@ -10655,7 +10655,7 @@ const tasks = [
   {
     id: 974,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Check a grown Magic Tree in Lumbridge",
     description: "Check the health of a Magic Tree you've grown in Lumbridge.",
     requirements: "75 Farming",
@@ -10666,7 +10666,7 @@ const tasks = [
   {
     id: 975,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Check a grown Mahogany Tree",
     description:
       "Check the health of a Mahogany Tree you've grown on Fossil Island.",
@@ -10678,7 +10678,7 @@ const tasks = [
   {
     id: 976,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Hard Lumbridge & Draynor Diary",
     description:
       "Complete all of the hard tasks in the   Lumbridge & Draynor Achievement Diary.",
@@ -10691,7 +10691,7 @@ const tasks = [
   {
     id: 977,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Hard Varrock Diary",
     description:
       "Complete all of the hard tasks in the   Varrock Achievement Diary.",
@@ -10703,7 +10703,7 @@ const tasks = [
   {
     id: 978,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat the Abyssal Sire",
     description: "Defeat the Abyssal Sire in the Abyssal Nexus.",
     requirements: "85 Slayer",
@@ -10714,7 +10714,7 @@ const tasks = [
   {
     id: 979,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip a Hill Giant Club",
     description: "Equip a Hill Giant Club.",
     requirements: "40 Attack",
@@ -10725,7 +10725,7 @@ const tasks = [
   {
     id: 980,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip Bryophyta's Staff",
     description: "Equip Bryophyta's Staff.",
     requirements: "30 Magic,  30 Attack,  62 Crafting",
@@ -10736,7 +10736,7 @@ const tasks = [
   {
     id: 981,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Offer an Unsired to the Font of Consumption",
     description:
       "Offer an Unsired to the Font of Consumption in the Abyssal Nexus.",
@@ -10748,7 +10748,7 @@ const tasks = [
   {
     id: 982,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Purchase an Ectoplasmator",
     description: "Purchase an Ectoplasmator from Nomad on the Isle of Souls.",
     requirements: "40 Combat level,  40 Skills",
@@ -10759,7 +10759,7 @@ const tasks = [
   {
     id: 983,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Set up a Magic Bird House",
     description: "Set up a Magic Bird House on Fossil Island.",
     requirements: "74 Hunter,  75 Crafting",
@@ -10770,7 +10770,7 @@ const tasks = [
   {
     id: 984,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Take the Advanced Shortcut to the Cosmic Altar",
     description:
       "Use the Advanced Narrow Walkway Agility Shortcut near the Cosmic Altar.",
@@ -10782,7 +10782,7 @@ const tasks = [
   {
     id: 985,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Try and feed a stray dog something exotic",
     description: "Try and feed a stray dog some exotic bones.",
     requirements: "Shaikahan bones or marinated j' bones",
@@ -10793,7 +10793,7 @@ const tasks = [
   {
     id: 986,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Burn 20 Blisterwood Logs",
     description: "Burn 20 Blisterwood Logs.",
     requirements:
@@ -10805,7 +10805,7 @@ const tasks = [
   {
     id: 987,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete a Hard Temple Trek",
     description: "Complete a hard   Temple Trek.",
     requirements: "N/A",
@@ -10816,7 +10816,7 @@ const tasks = [
   {
     id: 988,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete Sins of the Father",
     description: "Complete the   Sins of the Father quest.",
     requirements:
@@ -10828,7 +10828,7 @@ const tasks = [
   {
     id: 989,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Hard Morytania Diary",
     description:
       "Complete all of the hard tasks in the   Morytania Achievement Diary.",
@@ -10840,7 +10840,7 @@ const tasks = [
   {
     id: 990,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Theatre of Blood With No Deaths",
     description:
       "Complete the Theatre of Blood on Normal or Hard Mode without any party member dying.",
@@ -10852,7 +10852,7 @@ const tasks = [
   {
     id: 991,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Create the long rope shortcut in Darkmeyer",
     description: "Create the long rope agility shortcut in Darkmeyer.",
     requirements: "Completion of   Sins of the Father",
@@ -10863,7 +10863,7 @@ const tasks = [
   {
     id: 992,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat a Urium Shade",
     description: "Defeat a Urium Shade.",
     requirements: "80 FiremakingCompletion of   Shades of Mort'ton",
@@ -10874,7 +10874,7 @@ const tasks = [
   {
     id: 993,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat Phosani's Nightmare",
     description: "Defeat Phosani's Nightmare in the Sisterhood Sanctuary.",
     requirements: "N/A",
@@ -10885,7 +10885,7 @@ const tasks = [
   {
     id: 994,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat the Grotesque Guardians 150 Times",
     description:
       "Defeat the Grotesque Guardians at the Slayer Tower 150 times.",
@@ -10897,7 +10897,7 @@ const tasks = [
   {
     id: 995,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat the Grotesque Guardians 50 Times",
     description: "Defeat the Grotesque Guardians at the Slayer Tower 50 times.",
     requirements: "75 Slayer",
@@ -10908,7 +10908,7 @@ const tasks = [
   {
     id: 996,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat the Grotesque Guardians",
     description: "Defeat the Grotesque Guardians at the Slayer Tower.",
     requirements: "75 Slayer",
@@ -10919,7 +10919,7 @@ const tasks = [
   {
     id: 997,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat The Nightmare 50 times",
     description:
       "Defeat The Nightmare or Phosani's Nightmare 50 times combined.",
@@ -10931,7 +10931,7 @@ const tasks = [
   {
     id: 998,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat The Nightmare",
     description: "Defeat The Nightmare in the Sisterhood Sanctuary.",
     requirements: "N/A",
@@ -10942,7 +10942,7 @@ const tasks = [
   {
     id: 999,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Full set of Swampbark armour",
     description:
       "Equip a Swampbark helm, a Swampbark body, some Swampbark legs, some Swampbark gauntlets and Swampbark boots.",
@@ -10955,7 +10955,7 @@ const tasks = [
   {
     id: 1000,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Full Set of Zealot's Robes",
     description:
       "Equip a Zealot's Helm, a Zealot's Robe Top, a Zealot's Robe Bottom and a Zealot's Boots.",
@@ -10967,7 +10967,7 @@ const tasks = [
   {
     id: 1001,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Granite Hammer or Granite Ring",
     description: "Equip either a Granite Hammer or a Granite Ring.",
     requirements: "75 Slayer,  50 Strength, either  50 Attack or  50 Defence",
@@ -10978,7 +10978,7 @@ const tasks = [
   {
     id: 1002,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Piece of Zealot's Robes",
     description:
       "Equip either a Zealot's helm, a Zealot's robe top, a Zealot's robe bottom or a Zealot's boots.",
@@ -10990,7 +10990,7 @@ const tasks = [
   {
     id: 1003,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip any Full Barrows Armour Set",
     description: "Equip a full set of any Barrows armour + weapon.",
     requirements: "70 Defence, one of  70 Attack or  70 Ranged",
@@ -11001,7 +11001,7 @@ const tasks = [
   {
     id: 1004,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip Full Ahrims Armour Set",
     description: "Equip a full set of Ahrims items.",
     requirements: "70 Magic,  70 Defence,  70 Attack",
@@ -11012,7 +11012,7 @@ const tasks = [
   {
     id: 1005,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip Full Dharoks Armour Set",
     description: "Equip a full set of Dharoks items.",
     requirements: "70 Strength,  70 Defence,  70 Attack",
@@ -11023,7 +11023,7 @@ const tasks = [
   {
     id: 1006,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip Full Guthans Armour Set",
     description: "Equip a full set of Guthans items.",
     requirements: "70 Defence,  70 Attack",
@@ -11034,7 +11034,7 @@ const tasks = [
   {
     id: 1007,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip Full Karils Armour Set",
     description: "Equip a full set of Karils items.",
     requirements: "70 Ranged,  70 Defence",
@@ -11045,7 +11045,7 @@ const tasks = [
   {
     id: 1008,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip Full Torags Armour Set",
     description: "Equip a full set of Torags items.",
     requirements: "70 Strength,  70 Defence,  70 Attack",
@@ -11056,7 +11056,7 @@ const tasks = [
   {
     id: 1009,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip Full Veracs Armour Set",
     description: "Equip a full set of Veracs items.",
     requirements: "70 Defence,  70 Attack",
@@ -11067,7 +11067,7 @@ const tasks = [
   {
     id: 1010,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Floor 3 of the Hallowed Sepulchre",
     description: "Complete floor 3 of the Hallowed Sepulchre in Darkmeyer.",
     requirements: "72 AgilityCompletion of   Sins of the Father",
@@ -11078,7 +11078,7 @@ const tasks = [
   {
     id: 1011,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Floor 4 of the Hallowed Sepulchre",
     description: "Complete floor 4 of the Hallowed Sepulchre in Darkmeyer.",
     requirements: "82 AgilityCompletion of   Sins of the Father",
@@ -11089,7 +11089,7 @@ const tasks = [
   {
     id: 1012,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Obtain Every Hallowed Tool",
     description: "Obtain all four Hallowed Tools from the Hallowed Sepulchre.",
     requirements:
@@ -11101,7 +11101,7 @@ const tasks = [
   {
     id: 1013,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Open a Gold Chest",
     description: "Open a Gold Chest from Shades of Mort'ton.",
     requirements: "80 FiremakingCompletion of   Shades of Mort'ton",
@@ -11112,7 +11112,7 @@ const tasks = [
   {
     id: 1014,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Pickpocket a Vyre 50 Times",
     description: "Pickpocket a Vyre 50 times.",
     requirements: "82 Thieving",
@@ -11123,7 +11123,7 @@ const tasks = [
   {
     id: 1015,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Purchase a Reward From the Hallowed Sepulchre",
     description: "Purchase a reward from the Hallowed Sepulchre.",
     requirements:
@@ -11135,7 +11135,7 @@ const tasks = [
   {
     id: 1016,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Unlock permanent boat travel with Andras",
     description: "Unlock permanent boat travel with Andras in Morytania.",
     requirements: "N/A",
@@ -11146,7 +11146,7 @@ const tasks = [
   {
     id: 1017,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Catch a Crystal Impling",
     description: "Catch a Crystal Impling in Prifddinas.",
     requirements: "80 Hunter",
@@ -11157,7 +11157,7 @@ const tasks = [
   {
     id: 1018,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Check a grown Crystal Tree",
     description:
       "Check the health of a Crystal Tree you've grown in Prifddinas.",
@@ -11169,7 +11169,7 @@ const tasks = [
   {
     id: 1019,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Chop 100 Teak Logs in Prifddinas",
     description: "Chop 100 Teak Logs in Prifddinas.",
     requirements: "35 Woodcutting",
@@ -11180,7 +11180,7 @@ const tasks = [
   {
     id: 1020,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Complete 50 laps of the Prifddinas Agility Course",
     description: "Complete 50 laps of the Prifddinas Agility Course.",
     requirements: "75 Agility",
@@ -11191,7 +11191,7 @@ const tasks = [
   {
     id: 1021,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Complete the Corrupted Gauntlet",
     description: "Complete the Corrupted Gauntlet in Prifddinas.",
     requirements: "N/A",
@@ -11202,7 +11202,7 @@ const tasks = [
   {
     id: 1022,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Complete the Prifddinas Agility Course in 1:10",
     description:
       "Complete a lap of the Prifddinas Agility Course in 1:10 or less.",
@@ -11214,7 +11214,7 @@ const tasks = [
   {
     id: 1023,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Complete the Prifddinas Agility Course",
     description: "Complete a lap of the Prifddinas Agility Course.",
     requirements: "75 Agility",
@@ -11225,7 +11225,7 @@ const tasks = [
   {
     id: 1024,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Craft a Piece of Crystal Armour",
     description: "Use a Singing Bowl to craft any piece of Crystal armour.",
     requirements: "70 Smithing,  70 Crafting",
@@ -11236,7 +11236,7 @@ const tasks = [
   {
     id: 1025,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Craft an Eternal Teleport Crystal",
     description: "Use a Singing Bowl to craft an Eternal Teleport Crystal.",
     requirements: "80 Smithing,  80 Crafting",
@@ -11247,7 +11247,7 @@ const tasks = [
   {
     id: 1026,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat a Dark Beast in Tirannwn",
     description: "Defeat a Dark Beast in Tirannwn.",
     requirements: "90 Slayer",
@@ -11258,7 +11258,7 @@ const tasks = [
   {
     id: 1027,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat a Nechryael in Tirannwn",
     description: "Defeat a Nechryael in Tirannwn.",
     requirements: "80 Slayer",
@@ -11269,7 +11269,7 @@ const tasks = [
   {
     id: 1028,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat Zalcano 50 Times",
     description: "Defeat Zalcano in Prifddinas 50 times.",
     requirements: "N/A",
@@ -11280,7 +11280,7 @@ const tasks = [
   {
     id: 1029,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat Zalcano",
     description: "Defeat Zalcano in Prifddinas.",
     requirements: "N/A",
@@ -11291,7 +11291,7 @@ const tasks = [
   {
     id: 1030,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat Zulrah 50 Times",
     description: "Defeat Zulrah at the Poison Waste 50 times.",
     requirements: "N/A",
@@ -11302,7 +11302,7 @@ const tasks = [
   {
     id: 1031,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat Zulrah",
     description: "Defeat Zulrah at the Poison Waste.",
     requirements: "N/A",
@@ -11313,7 +11313,7 @@ const tasks = [
   {
     id: 1032,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Crystal Bow",
     description: "Equip a Crystal Bow.",
     requirements: "50 Agility,  70 Ranged",
@@ -11324,7 +11324,7 @@ const tasks = [
   {
     id: 1033,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Crystal Halberd",
     description: "Equip a Crystal Halberd.",
     requirements: "50 Agility,  35 Strength,  70 Attack",
@@ -11335,7 +11335,7 @@ const tasks = [
   {
     id: 1034,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Crystal Shield",
     description: "Equip a Crystal Shield.",
     requirements: "50 Agility,  70 Defence",
@@ -11346,7 +11346,7 @@ const tasks = [
   {
     id: 1035,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Dark Bow in Tirannwn",
     description: "Equip a Dark Bow in Tirannwn.",
     requirements: "60 Ranged,  90 Slayer",
@@ -11357,7 +11357,7 @@ const tasks = [
   {
     id: 1036,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip any piece of Crystal Armour",
     description: "Equip either the Crystal Helmet, Body or Legs.",
     requirements: "70 DefenceCompletion of   The Gauntlet",
@@ -11368,7 +11368,7 @@ const tasks = [
   {
     id: 1037,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Find Every Memoriam Crystal",
     description:
       "Find every Memoriam Crystal in Prifddinas and add them to the Memoriam Device.",
@@ -11380,7 +11380,7 @@ const tasks = [
   {
     id: 1038,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Kill 50 Elves in Tirannwn",
     description: "Kill 50 Elves in Tirannwn.",
     requirements: "N/A",
@@ -11391,7 +11391,7 @@ const tasks = [
   {
     id: 1039,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Make 50 Teak Planks in Prifddinas",
     description: "Make 50 Teak Planks in Prifddinas.",
     requirements: "N/A",
@@ -11402,7 +11402,7 @@ const tasks = [
   {
     id: 1040,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Mine 200 Soft Clay in Tirannwn",
     description: "Mine 200 Soft Clay in Tirannwn.",
     requirements: "70 Mining",
@@ -11413,7 +11413,7 @@ const tasks = [
   {
     id: 1041,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Open the Enhanced Crystal Chest",
     description: "Open the Enhanced Crystal Chest in Prifddinas.",
     requirements: "N/A",
@@ -11424,7 +11424,7 @@ const tasks = [
   {
     id: 1042,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Pickpocket an Elf 50 Times",
     description: "Pickpocket an Elf 50 times.",
     requirements: "85 Thieving",
@@ -11435,7 +11435,7 @@ const tasks = [
   {
     id: 1043,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Receive a Dragonstone Amulet from an Impling",
     description: "Receive a Dragonstone Amulet from a Crystal Impling.",
     requirements: "80 Hunter",
@@ -11446,7 +11446,7 @@ const tasks = [
   {
     id: 1044,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Use a prayer altar to restore 90 prayer in Prifddinas",
     description:
       "Use a prayer altar to restore 90 prayer points in Prifddinas.",
@@ -11458,7 +11458,7 @@ const tasks = [
   {
     id: 1045,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Catch 100 Dark Crabs",
     description: "Catch 100 Dark Crabs in the Wilderness.",
     requirements: "85 Fishing",
@@ -11469,7 +11469,7 @@ const tasks = [
   {
     id: 1046,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Complete the Hard Wilderness Diary",
     description:
       "Complete all of the hard tasks in the   Wilderness Achievement Diary.",
@@ -11481,7 +11481,7 @@ const tasks = [
   {
     id: 1047,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Craft an Air Battlestaff in the Wilderness",
     description: "Craft an Air Battlestaff in the Wilderness.",
     requirements: "66 Crafting",
@@ -11492,7 +11492,7 @@ const tasks = [
   {
     id: 1048,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Callisto 150 times",
     description: "Defeat Callisto or Artio 150 times.",
     requirements: "N/A",
@@ -11503,7 +11503,7 @@ const tasks = [
   {
     id: 1049,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Callisto 50 times",
     description: "Defeat Callisto or Artio 50 times.",
     requirements: "N/A",
@@ -11514,7 +11514,7 @@ const tasks = [
   {
     id: 1050,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Callisto",
     description: "Defeat Callisto in the Wilderness.",
     requirements: "N/A",
@@ -11525,7 +11525,7 @@ const tasks = [
   {
     id: 1051,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Scorpia",
     description: "Defeat Scorpia in the Wilderness.",
     requirements: "N/A",
@@ -11536,7 +11536,7 @@ const tasks = [
   {
     id: 1052,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat the Chaos Elemental",
     description: "Defeat the Chaos Elemental in the Wilderness.",
     requirements: "N/A",
@@ -11547,7 +11547,7 @@ const tasks = [
   {
     id: 1053,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat the Corporeal Beast 50 Times",
     description: "Defeat the Corporeal Beast in the Wilderness 50 times.",
     requirements: "N/A",
@@ -11558,7 +11558,7 @@ const tasks = [
   {
     id: 1054,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat the Corporeal Beast",
     description: "Defeat the Corporeal Beast in the Wilderness.",
     requirements: "N/A",
@@ -11569,7 +11569,7 @@ const tasks = [
   {
     id: 1055,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat the King Black Dragon",
     description: "Defeat the King Black Dragon in the Wilderness.",
     requirements: "N/A",
@@ -11580,7 +11580,7 @@ const tasks = [
   {
     id: 1056,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Venenatis 150 times",
     description: "Defeat Venenatis or Spindel 150 times.",
     requirements: "N/A",
@@ -11591,7 +11591,7 @@ const tasks = [
   {
     id: 1057,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Venenatis 50 times",
     description: "Defeat Venenatis or Spindel 50 times.",
     requirements: "N/A",
@@ -11602,7 +11602,7 @@ const tasks = [
   {
     id: 1058,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Venenatis",
     description: "Defeat Venenatis in the Wilderness.",
     requirements: "N/A",
@@ -11613,7 +11613,7 @@ const tasks = [
   {
     id: 1059,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Vet'ion 150 times",
     description: "Defeat Vet'ion or Calvar'ion 150 times.",
     requirements: "N/A",
@@ -11624,7 +11624,7 @@ const tasks = [
   {
     id: 1060,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Vet'ion 50 times",
     description: "Defeat Vet'ion or Calvar'ion 50 times.",
     requirements: "N/A",
@@ -11635,7 +11635,7 @@ const tasks = [
   {
     id: 1061,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Vet'ion",
     description: "Defeat Vet'ion in the Wilderness.",
     requirements: "N/A",
@@ -11646,7 +11646,7 @@ const tasks = [
   {
     id: 1062,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip 100 Black Chinchompas",
     description: "Equip a stack of at least 100 Black Chinchompas.",
     requirements: "73 Hunter,  65 Ranged",
@@ -11657,7 +11657,7 @@ const tasks = [
   {
     id: 1063,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Dragon 2-Handed Sword in the Wilderness",
     description: "Equip a Dragon 2-Handed Sword in the Wilderness.",
     requirements: "60 Attack",
@@ -11668,7 +11668,7 @@ const tasks = [
   {
     id: 1064,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Dragon Pickaxe",
     description: "Equip a Dragon Pickaxe.",
     requirements: "60 Attack",
@@ -11679,7 +11679,7 @@ const tasks = [
   {
     id: 1065,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip an Enchanted Slayer Staff",
     description: "Equip an Enchanted Slayer Staff.",
     requirements: "75 Magic,  55 Slayer",
@@ -11690,7 +11690,7 @@ const tasks = [
   {
     id: 1066,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Imbue a God Cape",
     description:
       "Imbue either a Saradomin Cape, a Guthix Cape or a Zamorak Cape.",
@@ -11702,7 +11702,7 @@ const tasks = [
   {
     id: 1067,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Loot a dragonstone from the Rogues Castle",
     description: "Loot a dragonstone from the chest in Rogue's Castle.",
     requirements: "84 Thieving",
@@ -11713,7 +11713,7 @@ const tasks = [
   {
     id: 1068,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Open 10 Muddy Chests",
     description: "Open 10 Muddy Chests.",
     requirements: "N/A",
@@ -11724,7 +11724,7 @@ const tasks = [
   {
     id: 1069,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Open 50 Larran's Chests",
     description:
       "Open 50 of either Larran's Small Chest or Larran's Big Chest.",
@@ -11736,7 +11736,7 @@ const tasks = [
   {
     id: 1070,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Sacrifice Some Dragon Bones at the Chaos Temple",
     description:
       "Sacrifice some Dragon Bones at the Western Chaos Temple altar.",
@@ -11748,7 +11748,7 @@ const tasks = [
   {
     id: 1071,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "100 Combat Achievements",
     description: "Complete 100 Combat Achievements",
     requirements: "N/A",
@@ -11759,7 +11759,7 @@ const tasks = [
   {
     id: 1072,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "1000 Combat Achievement Points",
     description: "Obtain 1000 Combat Achievement Points.",
     requirements: "N/A",
@@ -11770,7 +11770,7 @@ const tasks = [
   {
     id: 1073,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "150 Combat Achievements",
     description: "Complete 150 Combat Achievements",
     requirements: "N/A",
@@ -11781,7 +11781,7 @@ const tasks = [
   {
     id: 1074,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "150 Master Clue Scrolls",
     description: "Open 150 Reward caskets for completing master clue scrolls.",
     requirements: "N/A",
@@ -11792,7 +11792,7 @@ const tasks = [
   {
     id: 1075,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "200 Collection log slots",
     description: "Obtain 200 unique Collection Log slots.",
     requirements: "N/A",
@@ -11803,7 +11803,7 @@ const tasks = [
   {
     id: 1076,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "200 Combat Achievement Points",
     description: "Obtain 200 Combat Achievement Points.",
     requirements: "N/A",
@@ -11814,7 +11814,7 @@ const tasks = [
   {
     id: 1077,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "200 Combat Achievements",
     description: "Complete 200 Combat Achievements",
     requirements: "N/A",
@@ -11825,7 +11825,7 @@ const tasks = [
   {
     id: 1078,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "250 Combat Achievements",
     description: "Complete 250 Combat Achievements",
     requirements: "N/A",
@@ -11836,7 +11836,7 @@ const tasks = [
   {
     id: 1079,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "300 Combat Achievement Points",
     description: "Obtain 300 Combat Achievement Points.",
     requirements: "N/A",
@@ -11847,7 +11847,7 @@ const tasks = [
   {
     id: 1080,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "300 Combat Achievements",
     description: "Complete 300 Combat Achievements",
     requirements: "N/A",
@@ -11858,7 +11858,7 @@ const tasks = [
   {
     id: 1081,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "350 Collection log slots",
     description: "Obtain 350 unique Collection Log slots.",
     requirements: "N/A",
@@ -11869,7 +11869,7 @@ const tasks = [
   {
     id: 1082,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "400 Combat Achievement Points",
     description: "Obtain 400 Combat Achievement Points.",
     requirements: "N/A",
@@ -11880,7 +11880,7 @@ const tasks = [
   {
     id: 1083,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "500 Collection log slots",
     description: "Obtain 500 unique Collection Log slots.",
     requirements: "N/A",
@@ -11891,7 +11891,7 @@ const tasks = [
   {
     id: 1084,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "500 Combat Achievement Points",
     description: "Obtain 500 Combat Achievement Points.",
     requirements: "N/A",
@@ -11902,7 +11902,7 @@ const tasks = [
   {
     id: 1085,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "600 Combat Achievement Points",
     description: "Obtain 600 Combat Achievement Points.",
     requirements: "N/A",
@@ -11913,7 +11913,7 @@ const tasks = [
   {
     id: 1086,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "700 Combat Achievement Points",
     description: "Obtain 700 Combat Achievement Points.",
     requirements: "N/A",
@@ -11924,7 +11924,7 @@ const tasks = [
   {
     id: 1087,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "75 Master Clue Scrolls",
     description: "Open 75 Reward caskets for completing master clue scrolls.",
     requirements: "N/A",
@@ -11935,7 +11935,7 @@ const tasks = [
   {
     id: 1088,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "800 Combat Achievement Points",
     description: "Obtain 800 Combat Achievement Points.",
     requirements: "N/A",
@@ -11946,7 +11946,7 @@ const tasks = [
   {
     id: 1089,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "900 Combat Achievement Points",
     description: "Obtain 900 Combat Achievement Points.",
     requirements: "N/A",
@@ -11957,7 +11957,7 @@ const tasks = [
   {
     id: 1090,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 90",
     description: "Reach level 90 in any skill.",
     requirements: "N/A",
@@ -11968,7 +11968,7 @@ const tasks = [
   {
     id: 1091,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Achieve Your First Level 95",
     description: "Reach level 95 in any skill.",
     requirements: "N/A",
@@ -11979,7 +11979,7 @@ const tasks = [
   {
     id: 1092,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Activate an Imbued Heart",
     description: "Obtain and activate an Imbued heart.",
     requirements:
@@ -11991,7 +11991,7 @@ const tasks = [
   {
     id: 1093,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Add a Jar to a Display Case",
     description:
       "Add a Jar to a Display Case in your Player Owned House Achievement Gallery.",
@@ -12004,7 +12004,7 @@ const tasks = [
   {
     id: 1094,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Blow 100 Light Orbs",
     description: "Blow 100 Light Orbs.",
     requirements: "87 Crafting",
@@ -12015,7 +12015,7 @@ const tasks = [
   {
     id: 1095,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Build a Spirit tree & fairy ring.",
     description: "Build a Spirit tree & fairy ring in your Player Owned House.",
     requirements: "95 Construction,  83 Farming",
@@ -12026,7 +12026,7 @@ const tasks = [
   {
     id: 1096,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Catch a Lucky Impling Bare-Handed",
     description: "Catch a Lucky Impling bare-handed.",
     requirements: "99 Hunter",
@@ -12037,7 +12037,7 @@ const tasks = [
   {
     id: 1097,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Combat Achievements Easy Tier",
     description:
       "Obtain enough points to unlock the easy tier of combat achievements",
@@ -12049,7 +12049,7 @@ const tasks = [
   {
     id: 1098,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Combat Achievements Medium Tier",
     description:
       "Obtain enough points to unlock the medium tier of combat achievements",
@@ -12061,7 +12061,7 @@ const tasks = [
   {
     id: 1099,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 10 Speed Tasks",
     description: "Complete 10 Combat Achievement Speed tasks.",
     requirements: "N/A",
@@ -12072,7 +12072,7 @@ const tasks = [
   {
     id: 1100,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 20 Speed Tasks",
     description: "Complete 20 Combat Achievement Speed tasks.",
     requirements: "N/A",
@@ -12083,7 +12083,7 @@ const tasks = [
   {
     id: 1101,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 200 Slayer Tasks",
     description: "Complete 200 Slayer Tasks.",
     requirements: "N/A",
@@ -12094,7 +12094,7 @@ const tasks = [
   {
     id: 1102,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete 30 Speed Tasks",
     description: "Complete 30 Combat Achievement Speed tasks.",
     requirements: "N/A",
@@ -12105,7 +12105,7 @@ const tasks = [
   {
     id: 1103,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Complete the Elite Western Provinces Diary",
     description:
       "Complete all of the elite tasks in the   Western Provinces Achievement Diary.",
@@ -12118,7 +12118,7 @@ const tasks = [
   {
     id: 1104,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Craft an Onyx Amulet",
     description: "Craft an Onyx Amulet.",
     requirements: "90 Crafting",
@@ -12129,7 +12129,7 @@ const tasks = [
   {
     id: 1105,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Defeat 50 Superior Slayer Creatures",
     description: "Defeat 50 Superior Slayer Creatures.",
     requirements:
@@ -12141,7 +12141,7 @@ const tasks = [
   {
     id: 1106,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Full Dragon Set",
     description:
       "Equip a Dragon Platebody, a Dragon Full Helm and either some Dragon Platelegs or a Dragon Plateskirt.",
@@ -12154,7 +12154,7 @@ const tasks = [
   {
     id: 1107,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Heavy Casket",
     description: "Equip a Heavy Casket.",
     requirements: "N/A",
@@ -12165,7 +12165,7 @@ const tasks = [
   {
     id: 1108,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a piece of Virtus",
     description: "Equip either the Virtus Mask, Robe top, or Robe Bottoms.",
     requirements:
@@ -12177,7 +12177,7 @@ const tasks = [
   {
     id: 1109,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Scroll Sack",
     description: "Equip a Scroll Sack.",
     requirements: "N/A",
@@ -12188,7 +12188,7 @@ const tasks = [
   {
     id: 1110,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip an Abyssal Whip",
     description: "Equip an Abyssal Whip.",
     requirements: "75 Attack,  85 Slayer",
@@ -12199,7 +12199,7 @@ const tasks = [
   {
     id: 1111,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip an Eternal Slayer Ring",
     description: "Craft and equip an Eternal slayer ring.",
     requirements:
@@ -12211,7 +12211,7 @@ const tasks = [
   {
     id: 1112,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip an Infernal Tool",
     description:
       "Equip either an Infernal Axe, an Infernal Pickaxe or an Infernal Harpoon.",
@@ -12224,7 +12224,7 @@ const tasks = [
   {
     id: 1113,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip the Mask of Rebirth",
     description: "Equip the Mask of Rebirth.",
     requirements:
@@ -12236,7 +12236,7 @@ const tasks = [
   {
     id: 1114,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip the Soulreaper Axe",
     description: "Obtain and Equip the Soulreaper Axe.",
     requirements: "80 Attack,  80 Strength, Desert✓",
@@ -12247,7 +12247,7 @@ const tasks = [
   {
     id: 1115,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 25 Elite Clue Collection Log Slots",
     description:
       "Fill 25 slots in the Elite Clue section of the Collection Log.",
@@ -12259,7 +12259,7 @@ const tasks = [
   {
     id: 1116,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 25 Master Clue Collection Log Slots",
     description:
       "Fill 25 slots in the Master Clue section of the Collection Log.",
@@ -12271,7 +12271,7 @@ const tasks = [
   {
     id: 1117,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 30 Hard Clue Collection Log Slots",
     description:
       "Fill 30 slots in the Hard Clue section of the Collection Log.",
@@ -12283,7 +12283,7 @@ const tasks = [
   {
     id: 1118,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 40 Medium Clue Collection Log Slots",
     description:
       "Fill 40 slots in the Medium Clue section of the Collection Log.",
@@ -12295,7 +12295,7 @@ const tasks = [
   {
     id: 1119,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill 50 Easy Clue Collection Log Slots",
     description:
       "Fill 50 slots in the Easy Clue section of the Collection Log.",
@@ -12307,7 +12307,7 @@ const tasks = [
   {
     id: 1120,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fill Every Beginner Clue Collection Log Slot",
     description:
       "Fill every slot in the Beginner Clue section of the Collection Log.",
@@ -12319,7 +12319,7 @@ const tasks = [
   {
     id: 1121,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Fletch 100 Dragon Javelins",
     description: "Fletch 100 Dragon Javelins.",
     requirements: "92 Fletching",
@@ -12330,7 +12330,7 @@ const tasks = [
   {
     id: 1122,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 25 Unique Items From Elite Clues",
     description: "Gain 25 unique items from Elite Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -12341,7 +12341,7 @@ const tasks = [
   {
     id: 1123,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 25 Unique Items From Master Clues",
     description: "Gain 25 unique items from Master Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -12352,7 +12352,7 @@ const tasks = [
   {
     id: 1124,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Gain 50 Unique Items From Hard Clues",
     description: "Gain 50 unique items from Hard Clue Scroll Reward Caskets.",
     requirements: "N/A",
@@ -12363,7 +12363,7 @@ const tasks = [
   {
     id: 1125,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Make a Super Combat Potion",
     description: "Make a Super Combat Potion.",
     requirements: "90 Herblore",
@@ -12374,7 +12374,7 @@ const tasks = [
   {
     id: 1126,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Agility XP",
     description: "Obtain 25 million experience in your Agility skill.",
     requirements: "99 Agility",
@@ -12385,7 +12385,7 @@ const tasks = [
   {
     id: 1127,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Attack XP",
     description: "Obtain 25 million experience in your Attack skill.",
     requirements: "99 Attack",
@@ -12396,7 +12396,7 @@ const tasks = [
   {
     id: 1128,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Construction XP",
     description: "Obtain 25 million experience in your Construction skill.",
     requirements: "99 Construction",
@@ -12407,7 +12407,7 @@ const tasks = [
   {
     id: 1129,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Cooking XP",
     description: "Obtain 25 million experience in your Cooking skill.",
     requirements: "99 Cooking",
@@ -12418,7 +12418,7 @@ const tasks = [
   {
     id: 1130,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Crafting XP",
     description: "Obtain 25 million experience in your Crafting skill.",
     requirements: "99 Crafting",
@@ -12429,7 +12429,7 @@ const tasks = [
   {
     id: 1131,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Defence XP",
     description: "Obtain 25 million experience in your Defence skill.",
     requirements: "99 Defence",
@@ -12440,7 +12440,7 @@ const tasks = [
   {
     id: 1132,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Farming XP",
     description: "Obtain 25 million experience in your Farming skill.",
     requirements: "99 Farming",
@@ -12451,7 +12451,7 @@ const tasks = [
   {
     id: 1133,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Firemaking XP",
     description: "Obtain 25 million experience in your Firemaking skill.",
     requirements: "99 Firemaking",
@@ -12462,7 +12462,7 @@ const tasks = [
   {
     id: 1134,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Fishing XP",
     description: "Obtain 25 million experience in your Fishing skill.",
     requirements: "99 Fishing",
@@ -12473,7 +12473,7 @@ const tasks = [
   {
     id: 1135,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Fletching XP",
     description: "Obtain 25 million experience in your Fletching skill.",
     requirements: "99 Fletching",
@@ -12484,7 +12484,7 @@ const tasks = [
   {
     id: 1136,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Herblore XP",
     description: "Obtain 25 million experience in your Herblore skill.",
     requirements: "99 Herblore",
@@ -12495,7 +12495,7 @@ const tasks = [
   {
     id: 1137,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Hitpoints XP",
     description: "Obtain 25 million experience in your Hitpoints skill.",
     requirements: "99 Hitpoints",
@@ -12506,7 +12506,7 @@ const tasks = [
   {
     id: 1138,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Hunter XP",
     description: "Obtain 25 million experience in your Hunter skill.",
     requirements: "99 Hunter",
@@ -12517,7 +12517,7 @@ const tasks = [
   {
     id: 1139,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Magic XP",
     description: "Obtain 25 million experience in your Magic skill.",
     requirements: "99 Magic",
@@ -12528,7 +12528,7 @@ const tasks = [
   {
     id: 1140,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Mining XP",
     description: "Obtain 25 million experience in your Mining skill.",
     requirements: "99 Mining",
@@ -12539,7 +12539,7 @@ const tasks = [
   {
     id: 1141,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Prayer XP",
     description: "Obtain 25 million experience in your Prayer skill.",
     requirements: "99 Prayer",
@@ -12550,7 +12550,7 @@ const tasks = [
   {
     id: 1142,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Ranged XP",
     description: "Obtain 25 million experience in your Ranged skill.",
     requirements: "99 Ranged",
@@ -12561,7 +12561,7 @@ const tasks = [
   {
     id: 1143,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Runecraft XP",
     description: "Obtain 25 million experience in your Runecraft skill.",
     requirements: "99 Runecraft",
@@ -12572,7 +12572,7 @@ const tasks = [
   {
     id: 1144,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Slayer XP",
     description: "Obtain 25 million experience in your Slayer skill.",
     requirements: "99 Slayer",
@@ -12583,7 +12583,7 @@ const tasks = [
   {
     id: 1145,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Smithing XP",
     description: "Obtain 25 million experience in your Smithing skill.",
     requirements: "99 Smithing",
@@ -12594,7 +12594,7 @@ const tasks = [
   {
     id: 1146,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Strength XP",
     description: "Obtain 25 million experience in your Strength skill.",
     requirements: "99 Strength",
@@ -12605,7 +12605,7 @@ const tasks = [
   {
     id: 1147,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Thieving XP",
     description: "Obtain 25 million experience in your Thieving skill.",
     requirements: "99 Thieving",
@@ -12616,7 +12616,7 @@ const tasks = [
   {
     id: 1148,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 25 Million Woodcutting XP",
     description: "Obtain 25 million experience in your Woodcutting skill.",
     requirements: "99 Woodcutting",
@@ -12627,7 +12627,7 @@ const tasks = [
   {
     id: 1149,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Agility XP",
     description: "Obtain 35 million experience in your Agility skill.",
     requirements: "99 Agility",
@@ -12638,7 +12638,7 @@ const tasks = [
   {
     id: 1150,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Attack XP",
     description: "Obtain 35 million experience in your Attack skill.",
     requirements: "99 Attack",
@@ -12649,7 +12649,7 @@ const tasks = [
   {
     id: 1151,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Construction XP",
     description: "Obtain 35 million experience in your Construction skill.",
     requirements: "99 Construction",
@@ -12660,7 +12660,7 @@ const tasks = [
   {
     id: 1152,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Cooking XP",
     description: "Obtain 35 million experience in your Cooking skill.",
     requirements: "99 Cooking",
@@ -12671,7 +12671,7 @@ const tasks = [
   {
     id: 1153,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Crafting XP",
     description: "Obtain 35 million experience in your Crafting skill.",
     requirements: "99 Crafting",
@@ -12682,7 +12682,7 @@ const tasks = [
   {
     id: 1154,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Defence XP",
     description: "Obtain 35 million experience in your Defence skill.",
     requirements: "99 Defence",
@@ -12693,7 +12693,7 @@ const tasks = [
   {
     id: 1155,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Farming XP",
     description: "Obtain 35 million experience in your Farming skill.",
     requirements: "99 Farming",
@@ -12704,7 +12704,7 @@ const tasks = [
   {
     id: 1156,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Firemaking XP",
     description: "Obtain 35 million experience in your Firemaking skill.",
     requirements: "99 Firemaking",
@@ -12715,7 +12715,7 @@ const tasks = [
   {
     id: 1157,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Fishing XP",
     description: "Obtain 35 million experience in your Fishing skill.",
     requirements: "99 Fishing",
@@ -12726,7 +12726,7 @@ const tasks = [
   {
     id: 1158,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Fletching XP",
     description: "Obtain 35 million experience in your Fletching skill.",
     requirements: "99 Fletching",
@@ -12737,7 +12737,7 @@ const tasks = [
   {
     id: 1159,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Herblore XP",
     description: "Obtain 35 million experience in your Herblore skill.",
     requirements: "99 Herblore",
@@ -12748,7 +12748,7 @@ const tasks = [
   {
     id: 1160,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Hitpoints XP",
     description: "Obtain 35 million experience in your Hitpoints skill.",
     requirements: "99 Hitpoints",
@@ -12759,7 +12759,7 @@ const tasks = [
   {
     id: 1161,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Hunter XP",
     description: "Obtain 35 million experience in your Hunter skill.",
     requirements: "99 Hunter",
@@ -12770,7 +12770,7 @@ const tasks = [
   {
     id: 1162,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Magic XP",
     description: "Obtain 35 million experience in your Magic skill.",
     requirements: "99 Magic",
@@ -12781,7 +12781,7 @@ const tasks = [
   {
     id: 1163,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Mining XP",
     description: "Obtain 35 million experience in your Mining skill.",
     requirements: "99 Mining",
@@ -12792,7 +12792,7 @@ const tasks = [
   {
     id: 1164,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Prayer XP",
     description: "Obtain 35 million experience in your Prayer skill.",
     requirements: "99 Prayer",
@@ -12803,7 +12803,7 @@ const tasks = [
   {
     id: 1165,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Ranged XP",
     description: "Obtain 35 million experience in your Ranged skill.",
     requirements: "99 Ranged",
@@ -12814,7 +12814,7 @@ const tasks = [
   {
     id: 1166,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Runecraft XP",
     description: "Obtain 35 million experience in your Runecraft skill.",
     requirements: "99 Runecraft",
@@ -12825,7 +12825,7 @@ const tasks = [
   {
     id: 1167,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Slayer XP",
     description: "Obtain 35 million experience in your Slayer skill.",
     requirements: "99 Slayer",
@@ -12836,7 +12836,7 @@ const tasks = [
   {
     id: 1168,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Smithing XP",
     description: "Obtain 35 million experience in your Smithing skill.",
     requirements: "99 Smithing",
@@ -12847,7 +12847,7 @@ const tasks = [
   {
     id: 1169,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Strength XP",
     description: "Obtain 35 million experience in your Strength skill.",
     requirements: "99 Strength",
@@ -12858,7 +12858,7 @@ const tasks = [
   {
     id: 1170,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Thieving XP",
     description: "Obtain 35 million experience in your Thieving skill.",
     requirements: "99 Thieving",
@@ -12869,7 +12869,7 @@ const tasks = [
   {
     id: 1171,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 35 Million Woodcutting XP",
     description: "Obtain 35 million experience in your Woodcutting skill.",
     requirements: "99 Woodcutting",
@@ -12880,7 +12880,7 @@ const tasks = [
   {
     id: 1172,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Agility XP",
     description: "Obtain 50 million experience in your Agility skill.",
     requirements: "99 Agility",
@@ -12891,7 +12891,7 @@ const tasks = [
   {
     id: 1173,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Attack XP",
     description: "Obtain 50 million experience in your Attack skill.",
     requirements: "99 Attack",
@@ -12902,7 +12902,7 @@ const tasks = [
   {
     id: 1174,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Construction XP",
     description: "Obtain 50 million experience in your Construction skill.",
     requirements: "99 Construction",
@@ -12913,7 +12913,7 @@ const tasks = [
   {
     id: 1175,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Cooking XP",
     description: "Obtain 50 million experience in your Cooking skill.",
     requirements: "99 Cooking",
@@ -12924,7 +12924,7 @@ const tasks = [
   {
     id: 1176,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Crafting XP",
     description: "Obtain 50 million experience in your Crafting skill.",
     requirements: "99 Crafting",
@@ -12935,7 +12935,7 @@ const tasks = [
   {
     id: 1177,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Defence XP",
     description: "Obtain 50 million experience in your Defence skill.",
     requirements: "99 Defence",
@@ -12946,7 +12946,7 @@ const tasks = [
   {
     id: 1178,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Farming XP",
     description: "Obtain 50 million experience in your Farming skill.",
     requirements: "99 Farming",
@@ -12957,7 +12957,7 @@ const tasks = [
   {
     id: 1179,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Firemaking XP",
     description: "Obtain 50 million experience in your Firemaking skill.",
     requirements: "99 Firemaking",
@@ -12968,7 +12968,7 @@ const tasks = [
   {
     id: 1180,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Fishing XP",
     description: "Obtain 50 million experience in your Fishing skill.",
     requirements: "99 Fishing",
@@ -12979,7 +12979,7 @@ const tasks = [
   {
     id: 1181,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Fletching XP",
     description: "Obtain 50 million experience in your Fletching skill.",
     requirements: "99 Fletching",
@@ -12990,7 +12990,7 @@ const tasks = [
   {
     id: 1182,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Herblore XP",
     description: "Obtain 50 million experience in your Herblore skill.",
     requirements: "99 Herblore",
@@ -13001,7 +13001,7 @@ const tasks = [
   {
     id: 1183,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Hitpoints XP",
     description: "Obtain 50 million experience in your Hitpoints skill.",
     requirements: "99 Hitpoints",
@@ -13012,7 +13012,7 @@ const tasks = [
   {
     id: 1184,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Hunter XP",
     description: "Obtain 50 million experience in your Hunter skill.",
     requirements: "99 Hunter",
@@ -13023,7 +13023,7 @@ const tasks = [
   {
     id: 1185,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Magic XP",
     description: "Obtain 50 million experience in your Magic skill.",
     requirements: "99 Magic",
@@ -13034,7 +13034,7 @@ const tasks = [
   {
     id: 1186,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Mining XP",
     description: "Obtain 50 million experience in your Mining skill.",
     requirements: "99 Mining",
@@ -13045,7 +13045,7 @@ const tasks = [
   {
     id: 1187,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Prayer XP",
     description: "Obtain 50 million experience in your Prayer skill.",
     requirements: "99 Prayer",
@@ -13056,7 +13056,7 @@ const tasks = [
   {
     id: 1188,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Ranged XP",
     description: "Obtain 50 million experience in your Ranged skill.",
     requirements: "99 Ranged",
@@ -13067,7 +13067,7 @@ const tasks = [
   {
     id: 1189,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Runecraft XP",
     description: "Obtain 50 million experience in your Runecraft skill.",
     requirements: "99 Runecraft",
@@ -13078,7 +13078,7 @@ const tasks = [
   {
     id: 1190,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Slayer XP",
     description: "Obtain 50 million experience in your Slayer skill.",
     requirements: "99 Slayer",
@@ -13089,7 +13089,7 @@ const tasks = [
   {
     id: 1191,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Smithing XP",
     description: "Obtain 50 million experience in your Smithing skill.",
     requirements: "99 Smithing",
@@ -13100,7 +13100,7 @@ const tasks = [
   {
     id: 1192,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Strength XP",
     description: "Obtain 50 million experience in your Strength skill.",
     requirements: "99 Strength",
@@ -13111,7 +13111,7 @@ const tasks = [
   {
     id: 1193,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Thieving XP",
     description: "Obtain 50 million experience in your Thieving skill.",
     requirements: "99 Thieving",
@@ -13122,7 +13122,7 @@ const tasks = [
   {
     id: 1194,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain 50 Million Woodcutting XP",
     description: "Obtain 50 million experience in your Woodcutting skill.",
     requirements: "99 Woodcutting",
@@ -13133,7 +13133,7 @@ const tasks = [
   {
     id: 1195,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain a Boss Pet",
     description: "Obtain any Boss Pet.",
     requirements: "N/A",
@@ -13144,7 +13144,7 @@ const tasks = [
   {
     id: 1196,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Obtain a Skilling Pet",
     description: "Obtain any Skilling Pet.",
     requirements: "N/A",
@@ -13155,7 +13155,7 @@ const tasks = [
   {
     id: 1197,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 80",
     description: "Reach level 80 in every skill.",
     requirements: "N/A",
@@ -13166,7 +13166,7 @@ const tasks = [
   {
     id: 1198,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 90",
     description: "Reach level 90 in every skill.",
     requirements: "N/A",
@@ -13177,7 +13177,7 @@ const tasks = [
   {
     id: 1199,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Combat Level 120",
     description: "Reach Combat Level 120.",
     requirements: "N/A",
@@ -13188,7 +13188,7 @@ const tasks = [
   {
     id: 1200,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Combat Level 126",
     description: "Reach Combat Level 126.",
     requirements: "N/A",
@@ -13199,7 +13199,7 @@ const tasks = [
   {
     id: 1201,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Agility",
     description: "Reach level 99 in your Agility skill.",
     requirements: "99 Agility",
@@ -13210,7 +13210,7 @@ const tasks = [
   {
     id: 1202,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Attack",
     description: "Reach level 99 in your Attack skill.",
     requirements: "99 Attack",
@@ -13221,7 +13221,7 @@ const tasks = [
   {
     id: 1203,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Construction",
     description: "Reach level 99 in your Construction skill.",
     requirements: "99 Construction",
@@ -13232,7 +13232,7 @@ const tasks = [
   {
     id: 1204,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Cooking",
     description: "Reach level 99 in your Cooking skill.",
     requirements: "99 Cooking",
@@ -13243,7 +13243,7 @@ const tasks = [
   {
     id: 1205,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Crafting",
     description: "Reach level 99 in your Crafting skill.",
     requirements: "99 Crafting",
@@ -13254,7 +13254,7 @@ const tasks = [
   {
     id: 1206,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Defence",
     description: "Reach level 99 in your Defence skill.",
     requirements: "99 Defence",
@@ -13265,7 +13265,7 @@ const tasks = [
   {
     id: 1207,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Farming",
     description: "Reach level 99 in your Farming skill.",
     requirements: "99 Farming",
@@ -13276,7 +13276,7 @@ const tasks = [
   {
     id: 1208,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Firemaking",
     description: "Reach level 99 in your Firemaking skill.",
     requirements: "99 Firemaking",
@@ -13287,7 +13287,7 @@ const tasks = [
   {
     id: 1209,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Fishing",
     description: "Reach level 99 in your Fishing skill.",
     requirements: "99 Fishing",
@@ -13298,7 +13298,7 @@ const tasks = [
   {
     id: 1210,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Fletching",
     description: "Reach level 99 in your Fletching skill.",
     requirements: "99 Fletching",
@@ -13309,7 +13309,7 @@ const tasks = [
   {
     id: 1211,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Herblore",
     description: "Reach level 99 in your Herblore skill.",
     requirements: "99 Herblore",
@@ -13320,7 +13320,7 @@ const tasks = [
   {
     id: 1212,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Hitpoints",
     description: "Reach level 99 in your Hitpoints skill.",
     requirements: "99 Hitpoints",
@@ -13331,7 +13331,7 @@ const tasks = [
   {
     id: 1213,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Hunter",
     description: "Reach level 99 in your Hunter skill.",
     requirements: "99 Hunter",
@@ -13342,7 +13342,7 @@ const tasks = [
   {
     id: 1214,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Magic",
     description: "Reach level 99 in your Magic skill.",
     requirements: "99 Magic",
@@ -13353,7 +13353,7 @@ const tasks = [
   {
     id: 1215,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Mining",
     description: "Reach level 99 in your Mining skill.",
     requirements: "99 Mining",
@@ -13364,7 +13364,7 @@ const tasks = [
   {
     id: 1216,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Prayer",
     description: "Reach level 99 in your Prayer skill.",
     requirements: "99 Prayer",
@@ -13375,7 +13375,7 @@ const tasks = [
   {
     id: 1217,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Ranged",
     description: "Reach level 99 in your Ranged skill.",
     requirements: "99 Ranged",
@@ -13386,7 +13386,7 @@ const tasks = [
   {
     id: 1218,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Runecraft",
     description: "Reach level 99 in your Runecraft skill.",
     requirements: "99 Runecraft",
@@ -13397,7 +13397,7 @@ const tasks = [
   {
     id: 1219,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Slayer",
     description: "Reach level 99 in your Slayer skill.",
     requirements: "99 Slayer",
@@ -13408,7 +13408,7 @@ const tasks = [
   {
     id: 1220,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Smithing",
     description: "Reach level 99 in your Smithing skill.",
     requirements: "99 Smithing",
@@ -13419,7 +13419,7 @@ const tasks = [
   {
     id: 1221,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Strength",
     description: "Reach level 99 in your Strength skill.",
     requirements: "99 Strength",
@@ -13430,7 +13430,7 @@ const tasks = [
   {
     id: 1222,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Thieving",
     description: "Reach level 99 in your Thieving skill.",
     requirements: "99 Thieving",
@@ -13441,7 +13441,7 @@ const tasks = [
   {
     id: 1223,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Level 99 Woodcutting",
     description: "Reach level 99 in your Woodcutting skill.",
     requirements: "99 Woodcutting",
@@ -13452,7 +13452,7 @@ const tasks = [
   {
     id: 1224,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 2000",
     description: "Reach a Total Level of 2000.",
     requirements: "N/A",
@@ -13463,7 +13463,7 @@ const tasks = [
   {
     id: 1225,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 2100",
     description: "Reach a Total Level of 2100.",
     requirements: "N/A",
@@ -13474,7 +13474,7 @@ const tasks = [
   {
     id: 1226,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 2200",
     description: "Reach a Total Level of 2200.",
     requirements: "N/A",
@@ -13485,7 +13485,7 @@ const tasks = [
   {
     id: 1227,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Read a Clueless Scroll",
     description: "Read a Clueless Scroll.",
     requirements: "N/A",
@@ -13496,7 +13496,7 @@ const tasks = [
   {
     id: 1228,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Slay an Abyssal Demon",
     description:
       "Kill an Abyssal Demon whilst on an Abyssal Demon Slayer Task.",
@@ -13508,7 +13508,7 @@ const tasks = [
   {
     id: 1229,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Smith a Dragonfire Shield",
     description: "Use an Anvil to smith a Dragonfire Shield.",
     requirements: "90 Smithing",
@@ -13519,7 +13519,7 @@ const tasks = [
   {
     id: 1230,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Transform into Uri",
     description: "Use the Uri Transform emote.",
     requirements: "N/A",
@@ -13530,7 +13530,7 @@ const tasks = [
   {
     id: 1231,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Travel Between Your Spirit Trees",
     description: "Travel between any two Spirit Trees that you've grown.",
     requirements: "91 Farming Kandarin✓ for completion of   Tree Gnome Village",
@@ -13541,7 +13541,7 @@ const tasks = [
   {
     id: 1232,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Use the Explore Emote",
     description: "Use the Explore emote.",
     requirements: "N/A",
@@ -13552,7 +13552,7 @@ const tasks = [
   {
     id: 1233,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Complete the Elite Falador Diary",
     description:
       "Complete all of the elite tasks in the   Falador Achievement Diary.",
@@ -13564,7 +13564,7 @@ const tasks = [
   {
     id: 1234,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Any God Wars Dungeon Boss 500 Times",
     description: "Defeat any one of the God Wars Dungeon bosses 500 times",
     requirements: "70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength",
@@ -13575,7 +13575,7 @@ const tasks = [
   {
     id: 1235,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Awakened Whisperer",
     description: "Defeat Awakened Whisperer.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -13586,7 +13586,7 @@ const tasks = [
   {
     id: 1236,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Cerberus 300 times",
     description: "Defeat Cerberus 300 times.",
     requirements: "91 Slayer",
@@ -13597,7 +13597,7 @@ const tasks = [
   {
     id: 1237,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Cerberus Before She Summons Souls",
     description: "Defeat Cerberus before she summons souls.",
     requirements: "91 Slayer",
@@ -13608,7 +13608,7 @@ const tasks = [
   {
     id: 1238,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Nex 300 Times",
     description: "Defeat Nex in the God Wars Dungeon 300 times.",
     requirements: "Completion of   The Frozen Door",
@@ -13619,7 +13619,7 @@ const tasks = [
   {
     id: 1239,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Defeat Whisperer 300 times",
     description: "Defeat Whisperer 300 times.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -13630,7 +13630,7 @@ const tasks = [
   {
     id: 1240,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Full Armadyl Armour Set",
     description: "Equip a full set of Armadyl Armour.",
     requirements: "70 Ranged,  70 Defence",
@@ -13641,7 +13641,7 @@ const tasks = [
   {
     id: 1241,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Full Bandos Armour Set",
     description: "Equip a full set of Bandos Armour.",
     requirements: "70 Strength,  65 Defence",
@@ -13652,7 +13652,7 @@ const tasks = [
   {
     id: 1242,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Full Graceful Outfit",
     description: "Equip a full set of Graceful gear.",
     requirements: "N/A",
@@ -13663,7 +13663,7 @@ const tasks = [
   {
     id: 1243,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Full set of Golden Prospector",
     description:
       "Equip a Golden prospector helmet, a Golden prospector jacket, some Golden prospector legs and Golden prospector boots.",
@@ -13675,7 +13675,7 @@ const tasks = [
   {
     id: 1244,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a full set of the Carpenters Outfit",
     description: "Equip a full set of the Carpenters Outfit",
     requirements: "N/A",
@@ -13686,7 +13686,7 @@ const tasks = [
   {
     id: 1245,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Godsword",
     description: "Equip any Godsword.",
     requirements:
@@ -13698,7 +13698,7 @@ const tasks = [
   {
     id: 1246,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Piece of the Armadyl Armour Set",
     description: "Equip any piece of the Armadyl Armour set.",
     requirements: "70 Ranged,  70 Defence",
@@ -13709,7 +13709,7 @@ const tasks = [
   {
     id: 1247,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Piece of the Bandos Armour Set",
     description: "Equip any piece of the Bandos Armour set.",
     requirements: "70 Strength,  65 Defence",
@@ -13720,7 +13720,7 @@ const tasks = [
   {
     id: 1248,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Piece of Torva Armour",
     description:
       "Equip either a Torva full helm, a Torva platebody or some Torva platelegs.",
@@ -13733,7 +13733,7 @@ const tasks = [
   {
     id: 1249,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Staff of the Dead",
     description: "Equip a Staff of the Dead.",
     requirements: "75 Attack,  75 Magic,  70 Hitpoints",
@@ -13744,7 +13744,7 @@ const tasks = [
   {
     id: 1250,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Zamorakian Spear",
     description: "Equip a Zamorakian Spear.",
     requirements: "70 Attack,  70 Hitpoints",
@@ -13755,7 +13755,7 @@ const tasks = [
   {
     id: 1251,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Zaryte Crossbow",
     description: "Obtain and equip a Zaryte Crossbow.",
     requirements:
@@ -13767,7 +13767,7 @@ const tasks = [
   {
     id: 1252,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip an Armadyl Crossbow",
     description: "Equip an Armadyl Crossbow.",
     requirements: "70 Ranged,  70 Agility",
@@ -13778,7 +13778,7 @@ const tasks = [
   {
     id: 1253,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip Some Primordial, Pegasian or Eternal Boots",
     description:
       "Equip either some Primordial Boots, some Pegasian Boots or some Eternal Boots.",
@@ -13791,7 +13791,7 @@ const tasks = [
   {
     id: 1254,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip the Bellator Ring",
     description: "Obtain and Equip the Bellator Ring.",
     requirements:
@@ -13803,7 +13803,7 @@ const tasks = [
   {
     id: 1255,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Cast Ice Barrage",
     description: "Cast the Ice Barrage spell.",
     requirements: "94 Magic",
@@ -13814,7 +13814,7 @@ const tasks = [
   {
     id: 1256,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete the Elite Desert Diary",
     description:
       "Complete all of the elite tasks in the   Desert Achievement Diary.",
@@ -13826,7 +13826,7 @@ const tasks = [
   {
     id: 1257,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete Tombs of Amascut 150 times",
     description: "Complete   Tombs of Amascut on normal or Expert 150 times.",
     requirements: "Completion of   Beneath Cursed Sands",
@@ -13837,7 +13837,7 @@ const tasks = [
   {
     id: 1258,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Complete Tombs of Amascut 250 times",
     description: "Complete Tombs of Amascut on normal or Expert 250 times.",
     requirements: "Completion of   Beneath Cursed Sands",
@@ -13848,7 +13848,7 @@ const tasks = [
   {
     id: 1259,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Craft a Ghorrock Teleport Tablet",
     description: "Craft a Ghorrock Teleport Tablet.",
     requirements: "96 Magic",
@@ -13859,7 +13859,7 @@ const tasks = [
   {
     id: 1260,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat Awakened Leviathan",
     description: "Defeat Awakened Leviathan.",
     requirements: "N/A",
@@ -13870,7 +13870,7 @@ const tasks = [
   {
     id: 1261,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Defeat Leviathan 300 times",
     description: "Defeat Leviathan 300 times.",
     requirements: "N/A",
@@ -13881,7 +13881,7 @@ const tasks = [
   {
     id: 1262,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a Dragon Chainbody in the Kharidian Desert",
     description: "Equip a Dragon Chainbody in the Kharidian Desert.",
     requirements: "N/A",
@@ -13892,7 +13892,7 @@ const tasks = [
   {
     id: 1263,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a full set of Raiment of the eye",
     description:
       "Equip a full set of the Raiment of the Eye outfit, purchased from the Guardians of the Rift minigame.",
@@ -13904,7 +13904,7 @@ const tasks = [
   {
     id: 1264,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a Piece of Masori Armour",
     description:
       "Equip either a Masori Mask, a Masori Body or some Masori chaps.",
@@ -13916,7 +13916,7 @@ const tasks = [
   {
     id: 1265,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a Piece of the Infinity Robe Set",
     description: "Equip any piece of the Infinity robe set.",
     requirements: "50 Magic,  25 Defence",
@@ -13927,7 +13927,7 @@ const tasks = [
   {
     id: 1266,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip Masori Assembler",
     description: "Obtain and Equip Masori Assembler.",
     requirements:
@@ -13939,7 +13939,7 @@ const tasks = [
   {
     id: 1267,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip Osmumten's Fang",
     description: "Obtain and Equip Osmumten's Fang.",
     requirements: "82 AttackCompletion of   Beneath Cursed Sands",
@@ -13950,7 +13950,7 @@ const tasks = [
   {
     id: 1268,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip the Elidinis Ward (Or)",
     description: "Obtain and Equip the Elidinis Ward (Or).",
     requirements:
@@ -13962,7 +13962,7 @@ const tasks = [
   {
     id: 1269,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip the Elidinis Ward",
     description: "Obtain and Equip the Elidinis Ward.",
     requirements:
@@ -13974,7 +13974,7 @@ const tasks = [
   {
     id: 1270,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Fletch 200 Dragon Darts",
     description: "Fletch 200 Dragon Darts.",
     requirements: "95 Fletching",
@@ -13985,7 +13985,7 @@ const tasks = [
   {
     id: 1271,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Hit 150 with the Keris Partisan",
     description: "Hit 150 damage or more with the Keris Partisan.",
     requirements: "65 AttackCompletion of   Beneath Cursed Sands",
@@ -13996,7 +13996,7 @@ const tasks = [
   {
     id: 1272,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 8 of Pyramid Plunder 150 Times",
     description:
       "Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 150 times.",
@@ -14009,7 +14009,7 @@ const tasks = [
   {
     id: 1273,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Room 8 of Pyramid Plunder 75 Times",
     description:
       "Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 75 times.",
@@ -14022,7 +14022,7 @@ const tasks = [
   {
     id: 1274,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Smith 1,000 Rune Dart Tips",
     description: "Use an Anvil to smith 1,000 Rune Dart Tips.",
     requirements: "89 Smithing",
@@ -14033,7 +14033,7 @@ const tasks = [
   {
     id: 1275,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Turn in 50 Summer Sq'irkjuices to Osman",
     description: "Turn in 50 Summer Sq'irkjuices to Osman in Al Kharid.",
     requirements: "65 ThievingCompletion of   Prince Ali Rescue",
@@ -14044,7 +14044,7 @@ const tasks = [
   {
     id: 1276,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Build a Gilded Portal Nexus",
     description:
       "Build a Gilded Portal Nexus in a Portal Nexus in your Player Owned House.",
@@ -14056,7 +14056,7 @@ const tasks = [
   {
     id: 1277,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Build a Gold Sink",
     description: "Build a Gold Sink.",
     requirements: "47 Construction",
@@ -14067,7 +14067,7 @@ const tasks = [
   {
     id: 1278,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Cast Spellbook Swap",
     description: "Cast the Spellbook Swap spell.",
     requirements: "96 Magic",
@@ -14078,7 +14078,7 @@ const tasks = [
   {
     id: 1279,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Complete the Elite Fremennik Diary",
     description:
       "Complete all of the elite tasks in the   Fremennik Achievement Diary.",
@@ -14090,7 +14090,7 @@ const tasks = [
   {
     id: 1280,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Create a Catherby Teleport Tablet",
     description: "Create a Catherby Teleport Tablet.",
     requirements: "87 Magic",
@@ -14101,7 +14101,7 @@ const tasks = [
   {
     id: 1281,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Create the Saturated Heart",
     description: "Create the Saturated Heart.",
     requirements: "N/A",
@@ -14112,7 +14112,7 @@ const tasks = [
   {
     id: 1282,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Dagannoth Kings Combat Achievements",
     description:
       "Complete all of the Combat Achievements for all three Dagannoth Kings.",
@@ -14124,7 +14124,7 @@ const tasks = [
   {
     id: 1283,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Awakened Duke Sucellus",
     description: "Defeat Awakened Duke Sucellus.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -14135,7 +14135,7 @@ const tasks = [
   {
     id: 1284,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Duke Sucellus 300 times",
     description: "Defeat Duke Sucellus 300 times.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -14146,7 +14146,7 @@ const tasks = [
   {
     id: 1285,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Each Dagannoth King 300 Times",
     description:
       "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 300 times.",
@@ -14158,7 +14158,7 @@ const tasks = [
   {
     id: 1286,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Phantom Muspah 300 times",
     description: "Defeat Phantom Muspah 300 times.",
     requirements: "N/A",
@@ -14169,7 +14169,7 @@ const tasks = [
   {
     id: 1287,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Vorkath 15 Times Without Leaving",
     description: "Defeat Vorkath on Ungael 15 times without leaving his area.",
     requirements: "N/A",
@@ -14180,7 +14180,7 @@ const tasks = [
   {
     id: 1288,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Vorkath 300 Times",
     description: "Defeat Vorkath on Ungael 300 times.",
     requirements: "N/A",
@@ -14191,7 +14191,7 @@ const tasks = [
   {
     id: 1289,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Defeat Vorkath 5 Times Without Special Damage",
     description:
       "Defeat Vorkath on Ungael 5 times in a row without taking any damage from his special attacks and without leaving his area. Failing this task requires you to leave the instance to try again.",
@@ -14203,7 +14203,7 @@ const tasks = [
   {
     id: 1290,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Bonecrusher necklace",
     description: "Equip a Bonecrusher necklace.",
     requirements:
@@ -14215,7 +14215,7 @@ const tasks = [
   {
     id: 1291,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Completed God Book",
     description: "Equip a completed God Book.",
     requirements: "N/A",
@@ -14226,7 +14226,7 @@ const tasks = [
   {
     id: 1292,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Dragon Crossbow",
     description: "Equip a Dragon Crossbow.",
     requirements: "64 Ranged,  78 Fletching",
@@ -14237,7 +14237,7 @@ const tasks = [
   {
     id: 1293,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Dragonbone Necklace",
     description: "Equip a Dragonbone Necklace.",
     requirements: "70 Prayer",
@@ -14248,7 +14248,7 @@ const tasks = [
   {
     id: 1294,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Dragonfire Ward",
     description: "Equip a Dragonfire Ward.",
     requirements: "70 Defence,  70 Ranged",
@@ -14259,7 +14259,7 @@ const tasks = [
   {
     id: 1295,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip a Neitiznot Faceguard",
     description: "Equip a Neitiznot Faceguard.",
     requirements: "70 Defence",
@@ -14270,7 +14270,7 @@ const tasks = [
   {
     id: 1296,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip Every Dagannoth King Ring",
     description:
       "Equip an Archer's Ring, a Berserker Ring, a Seer's Ring and a Warrior Ring.",
@@ -14282,7 +14282,7 @@ const tasks = [
   {
     id: 1297,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip the Magus Ring",
     description: "Obtain and Equip the Magus Ring.",
     requirements:
@@ -14294,7 +14294,7 @@ const tasks = [
   {
     id: 1298,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip the Venator Bow",
     description: "Obtain and Equip the Venator Bow.",
     requirements: "80 Ranged",
@@ -14305,7 +14305,7 @@ const tasks = [
   {
     id: 1299,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Make 50 Forgotten Brews",
     description: "Make 50 Forgotten Brews.",
     requirements: "91 Herblore",
@@ -14316,7 +14316,7 @@ const tasks = [
   {
     id: 1300,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Phantom Muspah Combat Achievements",
     description: "Complete all of the Combat Achievements for Phantom Muspah.",
     requirements: "N/A",
@@ -14327,7 +14327,7 @@ const tasks = [
   {
     id: 1301,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Vorkath Combat Achievements",
     description: "Complete all of the Combat Achievements for Vorkath.",
     requirements: "N/A",
@@ -14338,7 +14338,7 @@ const tasks = [
   {
     id: 1302,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Catch 150 Red Chinchompas in Kandarin",
     description: "Catch 150 Red Chinchompas in Kandarin",
     requirements: "63 Hunter",
@@ -14349,7 +14349,7 @@ const tasks = [
   {
     id: 1303,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Check a grown Dragonfruit Tree in Catherby",
     description:
       "Check the health of a Dragonfruit Tree you've grown in Catherby.",
@@ -14361,7 +14361,7 @@ const tasks = [
   {
     id: 1304,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Ardougne Agility Course",
     description: "Complete a lap of the Ardougne Rooftop Agility Course.",
     requirements: "90 Agility",
@@ -14372,7 +14372,7 @@ const tasks = [
   {
     id: 1305,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Elite Ardougne Diary",
     description:
       "Complete all of the elite tasks in the   Ardougne Achievement Diary.",
@@ -14384,7 +14384,7 @@ const tasks = [
   {
     id: 1306,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Complete the Elite Kandarin Diary",
     description:
       "Complete all of the elite tasks in the   Kandarin Achievement Diary.",
@@ -14396,7 +14396,7 @@ const tasks = [
   {
     id: 1307,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Craft a Wrath Rune",
     description: "Craft a Wrath Rune at the Wrath Altar.",
     requirements:
@@ -14408,7 +14408,7 @@ const tasks = [
   {
     id: 1308,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat 300 Demonic Gorillas",
     description: "Defeat 300 Demonic Gorillas in the Crash Site Cavern.",
     requirements: "N/A",
@@ -14419,7 +14419,7 @@ const tasks = [
   {
     id: 1309,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat 500 Demonic Gorillas",
     description: "Defeat 500 Demonic Gorillas in the Crash Site Cavern.",
     requirements: "N/A",
@@ -14430,7 +14430,7 @@ const tasks = [
   {
     id: 1310,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Defeat the Kraken Boss 300 Times",
     description: "Defeat the Kraken boss in Kraken Cove 300 times.",
     requirements: "87 Slayer",
@@ -14441,7 +14441,7 @@ const tasks = [
   {
     id: 1311,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Dragon Archer Chompy Hat",
     description: "Equip a Dragon Archer Chompy Hat.",
     requirements:
@@ -14453,7 +14453,7 @@ const tasks = [
   {
     id: 1312,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Dragon Full Helm",
     description: "Equip a Dragon Full Helm.",
     requirements: "60 Defence",
@@ -14464,7 +14464,7 @@ const tasks = [
   {
     id: 1313,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Gnome Scarf",
     description: "Obtain and Equip a Gnome Scarf.",
     requirements:
@@ -14476,7 +14476,7 @@ const tasks = [
   {
     id: 1314,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Heavy Ballista",
     description: "Equip a Heavy Ballista.",
     requirements: "75 Ranged,  72 Fletching",
@@ -14487,7 +14487,7 @@ const tasks = [
   {
     id: 1315,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Light Ballista",
     description: "Equip a Light Ballista.",
     requirements: "65 Ranged",
@@ -14498,7 +14498,7 @@ const tasks = [
   {
     id: 1316,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Maniacal Monkey Backpack",
     description: "Equip a Maniacal Monkey Backpack.",
     requirements: "48 Agility",
@@ -14509,7 +14509,7 @@ const tasks = [
   {
     id: 1317,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip an Abyssal Tentacle",
     description: "Equip an Abyssal Tentacle.",
     requirements: "50 Magic,  75 Attack,  87 Slayer",
@@ -14520,7 +14520,7 @@ const tasks = [
   {
     id: 1318,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip an Expert Dragon Archer Chompy Hat",
     description: "Equip an Expert Dragon Archer Chompy Hat.",
     requirements:
@@ -14532,7 +14532,7 @@ const tasks = [
   {
     id: 1319,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip an Occult Necklace",
     description: "Equip an Occult Necklace.",
     requirements: "70 Magic,  93 Slayer",
@@ -14543,7 +14543,7 @@ const tasks = [
   {
     id: 1320,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip Some Zenyte Jewelry",
     description: "Equip any piece of Zenyte Jewelry.",
     requirements: "89 Crafting",
@@ -14554,7 +14554,7 @@ const tasks = [
   {
     id: 1321,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Purchase a Halo from Castlewars",
     description: "Purchase any halo from Castlewars.",
     requirements: "N/A",
@@ -14565,7 +14565,7 @@ const tasks = [
   {
     id: 1322,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Elite Karamja Diary",
     description:
       "Complete all of the elite tasks in the   Karamja Achievement Diary.",
@@ -14577,7 +14577,7 @@ const tasks = [
   {
     id: 1323,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Fight Caves 10 Times",
     description: "Complete the TzHaar Fight Cave in Mor Ul Rek 10 times.",
     requirements: "N/A",
@@ -14588,7 +14588,7 @@ const tasks = [
   {
     id: 1324,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Fight Caves 15 Times",
     description: "Complete the TzHaar Fight Cave in Mor Ul Rek 15 times.",
     requirements: "N/A",
@@ -14599,7 +14599,7 @@ const tasks = [
   {
     id: 1325,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Fight Caves 5 Times",
     description: "Complete the TzHaar Fight Cave in Mor Ul Rek 5 times.",
     requirements: "N/A",
@@ -14610,7 +14610,7 @@ const tasks = [
   {
     id: 1326,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Inferno 10 Times",
     description: "Complete the Inferno in Mor Ul Rek 10 times.",
     requirements: "N/A",
@@ -14621,7 +14621,7 @@ const tasks = [
   {
     id: 1327,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Inferno 5 Times",
     description: "Complete the Inferno in Mor Ul Rek 5 times.",
     requirements: "N/A",
@@ -14632,7 +14632,7 @@ const tasks = [
   {
     id: 1328,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete Tzhaar-Ket-Raks fifth challenge",
     description: "Complete Tzhaar-Ket-Raks fifth challenge.",
     requirements: "Completion of   The Inferno",
@@ -14643,7 +14643,7 @@ const tasks = [
   {
     id: 1329,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete Tzhaar-Ket-Raks fourth challenge",
     description: "Complete Tzhaar-Ket-Raks fourth challenge.",
     requirements: "Completion of   The Inferno",
@@ -14654,7 +14654,7 @@ const tasks = [
   {
     id: 1330,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete Tzhaar-Ket-Raks sixth challenge",
     description: "Complete Tzhaar-Ket-Raks sixth challenge.",
     requirements: "Completion of   The Inferno",
@@ -14665,7 +14665,7 @@ const tasks = [
   {
     id: 1331,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete Tzhaar-Ket-Raks third challenge",
     description: "Complete Tzhaar-Ket-Raks third challenge.",
     requirements: "Completion of   The Inferno",
@@ -14676,7 +14676,7 @@ const tasks = [
   {
     id: 1332,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip a Fire Cape",
     description: "Equip a Fire Cape.",
     requirements: "Completion of   TzHaar Fight Cave",
@@ -14687,7 +14687,7 @@ const tasks = [
   {
     id: 1333,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Pickpocket a Diamond From a TzHaar",
     description: "Pickpocket a Diamond from a TzHaar.",
     requirements: "90 Thieving",
@@ -14698,7 +14698,7 @@ const tasks = [
   {
     id: 1334,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Purchase an Onyx in Mor Ul Rek",
     description: "Purchase an Onyx from an Ore and Gem Store in Mor Ul Rek.",
     requirements: "N/A",
@@ -14709,7 +14709,7 @@ const tasks = [
   {
     id: 1335,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Sacrifice a Fire Cape to Access the Inferno",
     description: "Sacrifice a Fire Cape to access the Inferno in Mor Ul Rek.",
     requirements: "Completion of   TzHaar Fight Cave",
@@ -14720,7 +14720,7 @@ const tasks = [
   {
     id: 1336,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Trade 100 Agility Arena Tickets for XP",
     description: "Trade in 100 or more Agility Arena Tickets for XP in one go.",
     requirements: "N/A",
@@ -14731,7 +14731,7 @@ const tasks = [
   {
     id: 1337,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "1 Chambers of Xeric Challenge Mode",
     description: "Complete the Chambers of Xeric Challenge Mode.",
     requirements: "N/A",
@@ -14742,7 +14742,7 @@ const tasks = [
   {
     id: 1338,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "1500 Lizardmen Shaman Kills",
     description: "Help the Shayzien House by killing 1500 Lizardmen shamans.",
     requirements: "100%   Shayzien favour",
@@ -14753,7 +14753,7 @@ const tasks = [
   {
     id: 1339,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "250 Chambers of Xeric",
     description:
       "Complete the Chambers of Xeric Normal or Challenge Mode 250 times.",
@@ -14765,7 +14765,7 @@ const tasks = [
   {
     id: 1340,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "300 Alchemical Hydra Kills",
     description: "Kill the Alchemical Hydra in Mount Karuulm 300 times.",
     requirements: "95 Slayer",
@@ -14776,7 +14776,7 @@ const tasks = [
   {
     id: 1341,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "50 Chambers of Xeric Challenge Mode",
     description: "Complete the Chambers of Xeric Challenge Mode 50 times.",
     requirements: "N/A",
@@ -14787,7 +14787,7 @@ const tasks = [
   {
     id: 1342,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Alchemical Hydra Combat Achievements",
     description:
       "Complete all of the Combat Achievements for Alchemical Hydra.",
@@ -14799,7 +14799,7 @@ const tasks = [
   {
     id: 1343,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Burn 200 Redwood Logs",
     description: "Burn 200 Redwood Logs.",
     requirements: "90 Firemaking,  90 Woodcutting60%   Hosidius favour",
@@ -14810,7 +14810,7 @@ const tasks = [
   {
     id: 1344,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Check a grown Redwood Tree",
     description:
       "Check the health of a Redwood Tree after growing one in the Farming Guild.",
@@ -14822,7 +14822,7 @@ const tasks = [
   {
     id: 1345,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Chop 500 Redwood logs",
     description: "Chop 500 Redwood logs from a Redwood Tree.",
     requirements: "90 Woodcutting60%   Hosidius favour",
@@ -14833,7 +14833,7 @@ const tasks = [
   {
     id: 1346,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Complete A Kingdom Divided",
     description: "Complete   A Kingdom Divided quest.",
     requirements:
@@ -14845,7 +14845,7 @@ const tasks = [
   {
     id: 1347,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Cook 100 Anglerfish.",
     description: "Cook 100 Anglerfish.",
     requirements:
@@ -14857,7 +14857,7 @@ const tasks = [
   {
     id: 1348,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Defeat Awakened Vardorvis",
     description: "Defeat Awakened Vardorvis.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -14868,7 +14868,7 @@ const tasks = [
   {
     id: 1349,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Defeat Vardorvis 300 times",
     description: "Defeat Vardorvis 300 times.",
     requirements: "Desert✓ for   Desert Treasure II completion",
@@ -14879,7 +14879,7 @@ const tasks = [
   {
     id: 1350,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Dragon Hunter Crossbow",
     description: "Equip a Dragon Hunter Crossbow.",
     requirements: "70 Ranged",
@@ -14890,7 +14890,7 @@ const tasks = [
   {
     id: 1351,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Dragon Hunter Lance",
     description: "Obtain and equip a Dragon hunter lance.",
     requirements:
@@ -14902,7 +14902,7 @@ const tasks = [
   {
     id: 1352,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Dragon Warhammer",
     description: "Obtain and equip a Dragon warhammer.",
     requirements: "60 Strength100%   Shayzien favour",
@@ -14913,7 +14913,7 @@ const tasks = [
   {
     id: 1353,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Golden Tench",
     description:
       "Equip a Golden tench, caught by aerial fishing on Molch Island.",
@@ -14925,7 +14925,7 @@ const tasks = [
   {
     id: 1354,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Kodai Wand",
     description: "Obtain and equip a Kodai wand.",
     requirements: "80 Magic Desert✓ for access to   Mage Training Arena",
@@ -14936,7 +14936,7 @@ const tasks = [
   {
     id: 1355,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a pair of Dragon Claws",
     description: "Equip a pair of Dragon Claws.",
     requirements: "60 Attack",
@@ -14947,7 +14947,7 @@ const tasks = [
   {
     id: 1356,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Twisted Buckler",
     description: "Equip a Twisted Buckler.",
     requirements: "75 Ranged,  75 Defence",
@@ -14958,7 +14958,7 @@ const tasks = [
   {
     id: 1357,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip an Elder Maul",
     description: "Obtain and equip an Elder maul.",
     requirements: "75 Attack,  75 Strength",
@@ -14969,7 +14969,7 @@ const tasks = [
   {
     id: 1358,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip any Ancestral piece",
     description:
       "Equip either an Ancestral Hat, an Ancestral robe top or an Ancestral robe bottom.",
@@ -14981,7 +14981,7 @@ const tasks = [
   {
     id: 1359,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip Dinh's Bulwark",
     description: "Equip Dinh's Bulwark.",
     requirements: "75 Attack,  75 Defence",
@@ -14992,7 +14992,7 @@ const tasks = [
   {
     id: 1360,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip the Ultor Ring",
     description: "Obtain and Equip the Ultor Ring.",
     requirements:
@@ -15004,7 +15004,7 @@ const tasks = [
   {
     id: 1361,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Fletch 250 Redwood logs into arrow shafts",
     description: "Fletch 250 Redwood logs into arrow shafts.",
     requirements: "90 Fletching,  90 Woodcutting60%   Hosidius favour",
@@ -15015,7 +15015,7 @@ const tasks = [
   {
     id: 1362,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Kourend and Kebos Elite Diary Tasks",
     description:
       "Complete all tasks in the elite tier of the   Kourend and Kebos achievement diary.",
@@ -15028,7 +15028,7 @@ const tasks = [
   {
     id: 1363,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Recolour a piece of the Ancestral Robes",
     description:
       "Recolour a piece of the Ancestral robes using a Twisted ancestral colour kit.",
@@ -15040,7 +15040,7 @@ const tasks = [
   {
     id: 1364,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Abyssal Sire Combat Achievements",
     description: "Complete all of the Combat Achievements for Abyssal Sire.",
     requirements: "Fremennik✓ for access to Vengeance spell",
@@ -15051,7 +15051,7 @@ const tasks = [
   {
     id: 1365,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Buy an Ash Covered Tome",
     description:
       "Buy an Ash Covered Tome from Petrified Pete's Ore Shop on Fossil Island.",
@@ -15063,7 +15063,7 @@ const tasks = [
   {
     id: 1366,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Catch a Herbiboar 150 Times",
     description: "Catch a Herbiboar on Fossil Island 150 times.",
     requirements: "80 Hunter,  31 Herblore",
@@ -15074,7 +15074,7 @@ const tasks = [
   {
     id: 1367,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Elite Lumbridge & Draynor Diary",
     description:
       "Complete all of the elite tasks in the   Lumbridge & Draynor Achievement Diary.",
@@ -15087,7 +15087,7 @@ const tasks = [
   {
     id: 1368,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Complete the Elite Varrock Diary",
     description:
       "Complete all of the elite tasks in the   Varrock Achievement Diary.",
@@ -15099,7 +15099,7 @@ const tasks = [
   {
     id: 1369,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat the Abyssal Sire 150 Times",
     description: "Defeat the Abyssal Sire in the Abyssal Nexus 150 times.",
     requirements: "85 Slayer",
@@ -15110,7 +15110,7 @@ const tasks = [
   {
     id: 1370,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat the Abyssal Sire 300 Times",
     description: "Defeat the Abyssal Sire in the Abyssal Nexus 300 times.",
     requirements: "85 Slayer",
@@ -15121,7 +15121,7 @@ const tasks = [
   {
     id: 1371,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Defeat the Abyssal Sire 50 Times",
     description: "Defeat the Abyssal Sire in the Abyssal Nexus 50 times.",
     requirements: "85 Slayer",
@@ -15132,7 +15132,7 @@ const tasks = [
   {
     id: 1372,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip a Dragonfire Shield",
     description: "Equip a Dragonfire Shield.",
     requirements: "75 Defence",
@@ -15143,7 +15143,7 @@ const tasks = [
   {
     id: 1373,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip a full set of the Forestry Outfit",
     description:
       "Equip a full set of the Forestry outfit, purchased from the Forestry minigame.",
@@ -15155,7 +15155,7 @@ const tasks = [
   {
     id: 1374,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip an Abyssal Bludgeon",
     description: "Equip an Abyssal Bludgeon.",
     requirements: "70 Attack,  70 Strength,  85 Slayer",
@@ -15166,7 +15166,7 @@ const tasks = [
   {
     id: 1375,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip an Abyssal Dagger",
     description: "Equip an Abyssal Dagger.",
     requirements: "70 Attack,  85 Slayer",
@@ -15177,7 +15177,7 @@ const tasks = [
   {
     id: 1376,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip an Ancient Wyvern Shield",
     description: "Equip an Ancient Wyvern Shield.",
     requirements: "70 Magic,  75 Defence",
@@ -15188,7 +15188,7 @@ const tasks = [
   {
     id: 1377,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Equip the Venator Ring",
     description: "Obtain and Equip the Venator Ring.",
     requirements:
@@ -15200,7 +15200,7 @@ const tasks = [
   {
     id: 1378,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Mine a Runite Ore Fragment",
     description:
       "Mine a Runite Ore Fragment in the Volcanic Mine on Fossil Island.",
@@ -15212,7 +15212,7 @@ const tasks = [
   {
     id: 1379,
     area: "Misthalin",
-    logoUrl: "./assets/Misthalin_Area_Badge.webp",
+    logoUrl: "/assets/Misthalin_Area_Badge.webp",
     name: "Receive a Torstol From a Herbiboar",
     description: "Receive a Torstol from a Herbiboar on Fossil Island.",
     requirements: "80 Hunter,  77 Herblore",
@@ -15223,7 +15223,7 @@ const tasks = [
   {
     id: 1380,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Attach a Holy ornament kit to the Scythe of Vitur",
     description: "Attach a Holy ornament kit to the Scythe of Vitur.",
     requirements: "Completion of   Theatre of Blood/Hard Mode",
@@ -15234,7 +15234,7 @@ const tasks = [
   {
     id: 1381,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Attach a Sanguine ornament kit to the Scythe",
     description: "Attach a Sanguine ornament kit to the Scythe of Vitur.",
     requirements: "Completion of   Theatre of Blood/Hard Mode",
@@ -15245,7 +15245,7 @@ const tasks = [
   {
     id: 1382,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Elite Morytania Diary",
     description:
       "Complete all of the elite tasks in the   Morytania Achievement Diary.",
@@ -15257,7 +15257,7 @@ const tasks = [
   {
     id: 1383,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Hallowed Sepulchre in 8:00",
     description:
       "Complete the Hallowed Sepulchre in Darkmeyer in 8:00 or less.",
@@ -15269,7 +15269,7 @@ const tasks = [
   {
     id: 1384,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Theatre of Blood 150 Times",
     description:
       "Complete the Theatre of Blood on Normal or Hard Mode 150 times.",
@@ -15281,7 +15281,7 @@ const tasks = [
   {
     id: 1385,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Theatre of Blood 250 Times",
     description:
       "Complete the Theatre of Blood on Normal or Hard Mode 250 times.",
@@ -15293,7 +15293,7 @@ const tasks = [
   {
     id: 1386,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Theatre of Blood 50 Times",
     description:
       "Complete the Theatre of Blood on Normal or Hard Mode 50 times.",
@@ -15305,7 +15305,7 @@ const tasks = [
   {
     id: 1387,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Create an Amulet of Blood Fury",
     description: "Create an Amulet of Blood Fury.",
     requirements: "90 Crafting,  87 MagicCompletion of   Sins of the Father",
@@ -15316,7 +15316,7 @@ const tasks = [
   {
     id: 1388,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat The Nightmare 150 times",
     description:
       "Defeat The Nightmare or Phosani's Nightmare 150 times combined.",
@@ -15328,7 +15328,7 @@ const tasks = [
   {
     id: 1389,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat The Nightmare 250 times",
     description:
       "Defeat The Nightmare or Phosani's Nightmare 250 times combined.",
@@ -15340,7 +15340,7 @@ const tasks = [
   {
     id: 1390,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat the Theatre of Blood Hardmode 50 times",
     description: "Defeat the Theatre of Blood Hardmode 50 times.",
     requirements: "N/A",
@@ -15351,7 +15351,7 @@ const tasks = [
   {
     id: 1391,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Defeat the Theatre of Blood Hardmode",
     description: "Defeat the Theatre of Blood Hardmode.",
     requirements: "N/A",
@@ -15362,7 +15362,7 @@ const tasks = [
   {
     id: 1392,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Full set of Bloodbark armour",
     description:
       "Equip a Bloodbark helm, a Bloodbark body, some Bloodbark legs, some Bloodbark gauntlets and Bloodbark boots.",
@@ -15375,7 +15375,7 @@ const tasks = [
   {
     id: 1393,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Ghrazi Rapier",
     description: "Equip a Ghrazi Rapier.",
     requirements: "80 Attack",
@@ -15386,7 +15386,7 @@ const tasks = [
   {
     id: 1394,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Nightmare Staff",
     description: "Equip a normal Nightmare Staff.",
     requirements: "72 Magic,  50 Hitpoints",
@@ -15397,7 +15397,7 @@ const tasks = [
   {
     id: 1395,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Piece of the Inquisitor's Set",
     description: "Equip any piece of the Inquisitor's Armour set.",
     requirements: "70 Strength,  30 Defence",
@@ -15408,7 +15408,7 @@ const tasks = [
   {
     id: 1396,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Piece of the Justiciar Set",
     description: "Equip any piece of the Justiciar Armour set.",
     requirements: "75 Defence",
@@ -15419,7 +15419,7 @@ const tasks = [
   {
     id: 1397,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Ring of Endurance",
     description: "Equip a Ring of Endurance.",
     requirements: "92 AgilityCompletion of   Sins of the Father",
@@ -15430,7 +15430,7 @@ const tasks = [
   {
     id: 1398,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Sanguinesti Staff",
     description: "Equip a Sanguinesti Staff.",
     requirements: "82 Magic",
@@ -15441,7 +15441,7 @@ const tasks = [
   {
     id: 1399,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip an Avernic Defender",
     description: "Equip an Avernic Defender.",
     requirements: "70 Attack,  70 Defence, Asgarnia✓",
@@ -15452,7 +15452,7 @@ const tasks = [
   {
     id: 1400,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip an Inquisitor's Mace",
     description: "Equip an Inquisitor's Mace.",
     requirements: "80 Attack",
@@ -15463,7 +15463,7 @@ const tasks = [
   {
     id: 1401,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip Every Barrows Armour Set",
     description: "Equip all six sets of Barrows armour.",
     requirements: "70 Defence,  70 Attack,  70 Strength,  70 Ranged,  70 Magic",
@@ -15474,7 +15474,7 @@ const tasks = [
   {
     id: 1402,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip Some Guardian Boots",
     description: "Equip a pair of Guardian Boots.",
     requirements: "75 Defence,  75 Slayer",
@@ -15485,7 +15485,7 @@ const tasks = [
   {
     id: 1403,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Floor 5 of the Hallowed Sepulchre",
     description: "Complete floor 5 of the Hallowed Sepulchre in Darkmeyer.",
     requirements: "92 AgilityCompletion of   Sins of the Father",
@@ -15496,7 +15496,7 @@ const tasks = [
   {
     id: 1404,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Grotesque Guardians Combat Achievements",
     description:
       "Complete all of the Combat Achievements for Grotesque Guardians.",
@@ -15508,7 +15508,7 @@ const tasks = [
   {
     id: 1405,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Phosani's Nightmare Combat Achievements",
     description:
       "Complete all of the Combat Achievements for Phosani's Nightmare.",
@@ -15520,7 +15520,7 @@ const tasks = [
   {
     id: 1406,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "The Nightmare Combat Achievements",
     description: "Complete all of the Combat Achievements for The Nightmare.",
     requirements: "N/A",
@@ -15531,7 +15531,7 @@ const tasks = [
   {
     id: 1407,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Catch 300 Red Chinchompas in Tirannwn",
     description: "Catch 300 Red Chinchompas in Tirannwn.",
     requirements: "63 Hunter",
@@ -15542,7 +15542,7 @@ const tasks = [
   {
     id: 1408,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Complete the Corrupted Gauntlet 150 Times",
     description: "Complete the Corrupted Gauntlet in Prifddinas 150 times.",
     requirements: "N/A",
@@ -15553,7 +15553,7 @@ const tasks = [
   {
     id: 1409,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Complete the Corrupted Gauntlet 50 Times",
     description: "Complete the Corrupted Gauntlet in Prifddinas 50 times.",
     requirements: "N/A",
@@ -15564,7 +15564,7 @@ const tasks = [
   {
     id: 1410,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Craft a Celestial Signet",
     description: "Craft a Celestial signet via a Singing Bowl.",
     requirements:
@@ -15576,7 +15576,7 @@ const tasks = [
   {
     id: 1411,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Craft a Toxic Blowpipe",
     description: "Craft a Toxic Blowpipe.",
     requirements: "53 Fletching,  75 Ranged",
@@ -15587,7 +15587,7 @@ const tasks = [
   {
     id: 1412,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Craft a Toxic Trident",
     description: "Craft a Toxic Trident.",
     requirements: "59 Crafting,  78 Magic",
@@ -15598,7 +15598,7 @@ const tasks = [
   {
     id: 1413,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Create 100 Divine Ranging Potions",
     description: "Create 100 Divine Ranging Potions.",
     requirements: "74 Herblore",
@@ -15609,7 +15609,7 @@ const tasks = [
   {
     id: 1414,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Create 100 Divine Super Combat Potions",
     description: "Create 100 Divine Super Combat Potions.",
     requirements: "97 Herblore",
@@ -15620,7 +15620,7 @@ const tasks = [
   {
     id: 1415,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat Zalcano 150 Times",
     description: "Defeat Zalcano in Prifddinas 150 times.",
     requirements: "N/A",
@@ -15631,7 +15631,7 @@ const tasks = [
   {
     id: 1416,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat Zalcano 300 Times",
     description: "Defeat Zalcano in Prifddinas 300 times.",
     requirements: "N/A",
@@ -15642,7 +15642,7 @@ const tasks = [
   {
     id: 1417,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat Zulrah 150 Times",
     description: "Defeat Zulrah at the Poison Waste 150 times.",
     requirements: "N/A",
@@ -15653,7 +15653,7 @@ const tasks = [
   {
     id: 1418,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Defeat Zulrah 300 Times",
     description: "Defeat Zulrah at the Poison Waste 300 times.",
     requirements: "N/A",
@@ -15664,7 +15664,7 @@ const tasks = [
   {
     id: 1419,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Dismantle a Zulrah scale unique",
     description: "Dismantle a Zulrah scale unique for 20,000 scales.",
     requirements: "N/A",
@@ -15675,7 +15675,7 @@ const tasks = [
   {
     id: 1420,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Dissect 50 Sacred Eels",
     description: "Dissect 50 Sacred Eels.",
     requirements: "87 Fishing,  72 Cooking",
@@ -15686,7 +15686,7 @@ const tasks = [
   {
     id: 1421,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Crystal Grail",
     description: "Equip a Crystal Grail.",
     requirements: "N/A",
@@ -15697,7 +15697,7 @@ const tasks = [
   {
     id: 1422,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Full Crystal Armour Set",
     description: "Equip a full set of Crystal armour.",
     requirements: "70 Defence",
@@ -15708,7 +15708,7 @@ const tasks = [
   {
     id: 1423,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Piece of the Dragonstone Armour Set",
     description: "Equip any piece of the Dragonstone armour set.",
     requirements: "40 Defence",
@@ -15719,7 +15719,7 @@ const tasks = [
   {
     id: 1424,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Serpentine Helm",
     description: "Equip a Serpentine Helm.",
     requirements: "52 Crafting,  75 Defence",
@@ -15730,7 +15730,7 @@ const tasks = [
   {
     id: 1425,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip an Elven Signet",
     description: "Equip an Elven Signet.",
     requirements: "80 Hunter",
@@ -15741,7 +15741,7 @@ const tasks = [
   {
     id: 1426,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip an Enhanced Crystal Weapon",
     description: "Equip a Blade of Saeldor or Bow of faerdhinen.",
     requirements:
@@ -15753,7 +15753,7 @@ const tasks = [
   {
     id: 1427,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Load a blowpipe with Dragon Darts",
     description: "Load a Blowpipe with Dragon Darts.",
     requirements:
@@ -15765,7 +15765,7 @@ const tasks = [
   {
     id: 1428,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Mine 200 Runite Ore in Tirannwn",
     description: "Mine 200 Runite Ore in Tirannwn.",
     requirements: "85 Mining",
@@ -15776,7 +15776,7 @@ const tasks = [
   {
     id: 1429,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Obtain a Crystal Tool Seed",
     description: "Obtain a Crystal Tool Seed as a drop from Zalcano.",
     requirements: "N/A",
@@ -15787,7 +15787,7 @@ const tasks = [
   {
     id: 1430,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Obtain a Zalcano Shard",
     description: "Obtain a Zalcano Shard as a drop from Zalcano in Prifddinas.",
     requirements: "N/A",
@@ -15798,7 +15798,7 @@ const tasks = [
   {
     id: 1431,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Smith 500 Rune Dart Tips in Prifddinas",
     description: "Smith 500 Rune Dart Tips in Prifddinas.",
     requirements: "89 Smithing Desert✓ for completion of   The Tourist Trap",
@@ -15809,7 +15809,7 @@ const tasks = [
   {
     id: 1432,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Zulrah Combat Achievements",
     description: "Complete all of the Combat Achievements for Zulrah.",
     requirements: "Fremennik✓ for access to Vengeance spell",
@@ -15820,7 +15820,7 @@ const tasks = [
   {
     id: 1433,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Build an Obelisk",
     description: "Build an Obelisk in your Player Owned House.",
     requirements:
@@ -15832,7 +15832,7 @@ const tasks = [
   {
     id: 1434,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Complete the Elite Wilderness Diary",
     description:
       "Complete all of the elite tasks in the   Wilderness Achievement Diary.",
@@ -15844,7 +15844,7 @@ const tasks = [
   {
     id: 1435,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Cook a Dark Crab",
     description: "Cook a Dark Crab.",
     requirements: "90 Cooking,  85 Fishing",
@@ -15855,7 +15855,7 @@ const tasks = [
   {
     id: 1436,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Callisto 300 times",
     description: "Defeat Callisto or Artio 300 times.",
     requirements: "N/A",
@@ -15866,7 +15866,7 @@ const tasks = [
   {
     id: 1437,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat the Corporeal Beast 150 Times",
     description: "Defeat the Corporeal Beast in the Wilderness 150 times.",
     requirements: "N/A",
@@ -15877,7 +15877,7 @@ const tasks = [
   {
     id: 1438,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat the Corporeal Beast 250 Times",
     description: "Defeat the Corporeal Beast in the Wilderness 250 times.",
     requirements: "N/A",
@@ -15888,7 +15888,7 @@ const tasks = [
   {
     id: 1439,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Venenatis 300 times",
     description: "Defeat Venenatis or Spindel 300 times.",
     requirements: "N/A",
@@ -15899,7 +15899,7 @@ const tasks = [
   {
     id: 1440,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Defeat Vet'ion 300 times",
     description: "Defeat Vet'ion or Calvar'ion 300 times.",
     requirements: "N/A",
@@ -15910,7 +15910,7 @@ const tasks = [
   {
     id: 1441,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip 250 Black Chinchompas",
     description: "Equip a stack of at least 250 Black Chinchompas.",
     requirements: "73 Hunter,  65 Ranged",
@@ -15921,7 +15921,7 @@ const tasks = [
   {
     id: 1442,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip 500 Black Chinchompas",
     description: "Equip a stack of at least 500 Black Chinchompas.",
     requirements: "73 Hunter,  65 Ranged",
@@ -15932,7 +15932,7 @@ const tasks = [
   {
     id: 1443,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Blessed Spirit Shield",
     description: "Equip a Blessed Spirit Shield.",
     requirements: "70 Defence,  85 Prayer",
@@ -15943,7 +15943,7 @@ const tasks = [
   {
     id: 1444,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Full Dagon'Hai Set",
     description: "Equip a full set of Dagon'hai robes.",
     requirements: "70 Magic,  40 Defence",
@@ -15954,7 +15954,7 @@ const tasks = [
   {
     id: 1445,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Malediction Ward",
     description: "Equip a Malediction Ward.",
     requirements: "60 Defence",
@@ -15965,7 +15965,7 @@ const tasks = [
   {
     id: 1446,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Piece of the Dagon'Hai Set",
     description: "Equip any piece of the Dagon'hai robe set.",
     requirements: "70 Magic,  40 Defence",
@@ -15976,7 +15976,7 @@ const tasks = [
   {
     id: 1447,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Ring of the Gods",
     description: "Equip a Ring of the Gods.",
     requirements: "N/A",
@@ -15987,7 +15987,7 @@ const tasks = [
   {
     id: 1448,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Thammaron's Sceptre",
     description: "Equip a Thammaron's Sceptre.",
     requirements: "60",
@@ -15998,7 +15998,7 @@ const tasks = [
   {
     id: 1449,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Treasonous Ring",
     description: "Equip a Treasonous Ring.",
     requirements: "N/A",
@@ -16009,7 +16009,7 @@ const tasks = [
   {
     id: 1450,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Tyrannical Ring",
     description: "Equip a Tyrannical Ring.",
     requirements: "N/A",
@@ -16020,7 +16020,7 @@ const tasks = [
   {
     id: 1451,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip an Odium Ward",
     description: "Equip an Odium Ward.",
     requirements: "60 Defence",
@@ -16031,7 +16031,7 @@ const tasks = [
   {
     id: 1452,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip Craw's Bow",
     description: "Equip Craw's Bow.",
     requirements: "60 Ranged",
@@ -16042,7 +16042,7 @@ const tasks = [
   {
     id: 1453,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip full Elder chaos robe",
     description: "Equip the Elder Chaos Hood, Robe, and top.",
     requirements: "40 Magic",
@@ -16053,7 +16053,7 @@ const tasks = [
   {
     id: 1454,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip the Accursed Sceptre",
     description: "Obtain and Equip the Accursed Sceptre.",
     requirements: "70 Magic",
@@ -16064,7 +16064,7 @@ const tasks = [
   {
     id: 1455,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip the Ursine Chainmace",
     description: "Obtain and Equip the Ursine Chainmace.",
     requirements: "70 Attack",
@@ -16075,7 +16075,7 @@ const tasks = [
   {
     id: 1456,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip the Voidwaker",
     description: "Obtain and Equip the Voidwaker.",
     requirements: "75 Attack",
@@ -16086,7 +16086,7 @@ const tasks = [
   {
     id: 1457,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip the Webweaver",
     description: "Obtain and Equip the Webweaver.",
     requirements: "70 Ranged",
@@ -16097,7 +16097,7 @@ const tasks = [
   {
     id: 1458,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip Viggora's Chainmace",
     description: "Equip Viggora's Chainmace.",
     requirements: "60 Attack",
@@ -16108,7 +16108,7 @@ const tasks = [
   {
     id: 1459,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Make an Extended Antifire Potion",
     description: "Make an Extended Antifire Potion.",
     requirements: "84 Herblore",
@@ -16119,7 +16119,7 @@ const tasks = [
   {
     id: 1460,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Mine Some Runite Ore in the Wilderness",
     description: "Mine some Runite Ore in the Wilderness.",
     requirements: "85 Mining",
@@ -16130,7 +16130,7 @@ const tasks = [
   {
     id: 1461,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "750 Collection log slots",
     description: "Obtain 750 unique Collection Log slots.",
     requirements: "N/A",
@@ -16141,7 +16141,7 @@ const tasks = [
   {
     id: 1462,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Combat Achievements Elite Tier",
     description:
       "Obtain enough points to unlock the elite tier of combat achievements",
@@ -16153,7 +16153,7 @@ const tasks = [
   {
     id: 1463,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Combat Achievements Hard Tier",
     description:
       "Obtain enough points to unlock the hard tier of combat achievements",
@@ -16165,7 +16165,7 @@ const tasks = [
   {
     id: 1464,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Combat Achievements Master Tier",
     description:
       "Obtain enough points to unlock the master tier of combat achievements",
@@ -16177,7 +16177,7 @@ const tasks = [
   {
     id: 1465,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip a Dragon Platebody or Dragon Kiteshield",
     description: "Equip either a Dragon Platebody or a Dragon Kiteshield.",
     requirements:
@@ -16189,7 +16189,7 @@ const tasks = [
   {
     id: 1466,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Equip full Virtus",
     description:
       "Equip full Virtus outfit, obtained from Desert Treasure II bosses.",
@@ -16202,7 +16202,7 @@ const tasks = [
   {
     id: 1467,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Base Level 95",
     description: "Reach level 95 in every skill.",
     requirements: "N/A",
@@ -16213,7 +16213,7 @@ const tasks = [
   {
     id: 1468,
     area: "General",
-    logoUrl: "./assets/Globe-icon.webp",
+    logoUrl: "/assets/Globe-icon.webp",
     name: "Reach Total Level 2277",
     description: "Reach the highest possible Total Level of 2277.",
     requirements: "N/A",
@@ -16224,7 +16224,7 @@ const tasks = [
   {
     id: 1469,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip a Full Set of Torva Armour",
     description:
       "Equip a Torva full helm, a Torva platebody and some Torva platelegs.",
@@ -16237,7 +16237,7 @@ const tasks = [
   {
     id: 1470,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Equip Every Godsword",
     description: "Equip all five Godswords",
     requirements:
@@ -16249,7 +16249,7 @@ const tasks = [
   {
     id: 1471,
     area: "Asgarnia",
-    logoUrl: "./assets/Asgarnia_Area_Badge.webp",
+    logoUrl: "/assets/Asgarnia_Area_Badge.webp",
     name: "Godwars Dungeon Combat Achievements",
     description:
       "Complete all of the Combat Achievements for Godwars Dungeon bosses, including Nex.",
@@ -16261,7 +16261,7 @@ const tasks = [
   {
     id: 1472,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a Full Infinity Robe Set",
     description: "Equip a full set of Infinity robes.",
     requirements: "50 Magic,  25 Defence",
@@ -16272,7 +16272,7 @@ const tasks = [
   {
     id: 1473,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip a full set of Masori (f)",
     description: "Obtain and Equip Masori Mask, Body and chaps. All Fortified.",
     requirements:
@@ -16284,7 +16284,7 @@ const tasks = [
   {
     id: 1474,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip Osmumten's Fang (or)",
     description: "Obtain and Equip Osmumten's Fang (or).",
     requirements: "82 AttackCompletion of   Beneath Cursed Sands",
@@ -16295,7 +16295,7 @@ const tasks = [
   {
     id: 1475,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Equip the Tumeken's Shadow",
     description: "Obtain and Equip the Tumeken's Shadow.",
     requirements: "85 MagicCompletion of   Beneath Cursed Sands",
@@ -16306,7 +16306,7 @@ const tasks = [
   {
     id: 1476,
     area: "Kharidian Desert",
-    logoUrl: "./assets/Desert_Area_Badge.webp",
+    logoUrl: "/assets/Desert_Area_Badge.webp",
     name: "Tombs of Amascut Combat Achievements",
     description:
       "Complete all of the Combat Achievements for Tombs of Amascut: Entry, Normal and Expert.",
@@ -16318,7 +16318,7 @@ const tasks = [
   {
     id: 1477,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Build a Demonic Throne",
     description:
       "Build a Demonic Throne in a Throne Room in your Player Owned House.",
@@ -16330,7 +16330,7 @@ const tasks = [
   {
     id: 1478,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip Every Completed God Book",
     description: "Equip every completed God Book.",
     requirements: "N/A",
@@ -16341,7 +16341,7 @@ const tasks = [
   {
     id: 1479,
     area: "Fremennik Provinces",
-    logoUrl: "./assets/Fremennik_Area_Badge.webp",
+    logoUrl: "/assets/Fremennik_Area_Badge.webp",
     name: "Equip Every Draconic Shield",
     description:
       "Equip a Dragonfire Ward, a Dragonfire Shield and an Ancient Wyvern Shield.",
@@ -16353,7 +16353,7 @@ const tasks = [
   {
     id: 1480,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Enhance a Trident of the Seas",
     description: "Enhance a Trident of the Seas.",
     requirements: "87 Slayer",
@@ -16364,7 +16364,7 @@ const tasks = [
   {
     id: 1481,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Kruk Jr. Monkey Backpack",
     description: "Equip a Kruk Jr. Monkey Backpack.",
     requirements: "48 Agility",
@@ -16375,7 +16375,7 @@ const tasks = [
   {
     id: 1482,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip a Prince Awowogei Monkey Backpack",
     description: "Equip a Prince Awowogei Monkey Backpack.",
     requirements: "48 Agility",
@@ -16386,7 +16386,7 @@ const tasks = [
   {
     id: 1483,
     area: "Kandarin",
-    logoUrl: "./assets/Kandarin_Area_Badge.webp",
+    logoUrl: "/assets/Kandarin_Area_Badge.webp",
     name: "Equip All Zenyte Jewelry",
     description: "Equip every piece of Zenyte Jewelry.",
     requirements: "98 Crafting",
@@ -16397,7 +16397,7 @@ const tasks = [
   {
     id: 1484,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete the Inferno 15 Times",
     description: "Complete the Inferno in Mor Ul Rek 15 times.",
     requirements: "N/A",
@@ -16408,7 +16408,7 @@ const tasks = [
   {
     id: 1485,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Complete Tzhaar-Ket-Raks Special challenge",
     description: "Complete Tzhaar-Ket-Raks league-only challenge.",
     requirements: "N/A",
@@ -16419,7 +16419,7 @@ const tasks = [
   {
     id: 1486,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "Equip an Infernal Cape",
     description: "Equip an Infernal Cape.",
     requirements: "Completion of   The Inferno",
@@ -16430,7 +16430,7 @@ const tasks = [
   {
     id: 1487,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "The Fight Caves Combat Achievements",
     description:
       "Complete all of the Combat Achievements for   The Fight Caves.",
@@ -16442,7 +16442,7 @@ const tasks = [
   {
     id: 1488,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "The Inferno Combat Achievements",
     description: "Complete all of the Combat Achievements for   The Inferno.",
     requirements: "N/A",
@@ -16453,7 +16453,7 @@ const tasks = [
   {
     id: 1489,
     area: "Karamja",
-    logoUrl: "./assets/Karamja_Area_Badge.webp",
+    logoUrl: "/assets/Karamja_Area_Badge.webp",
     name: "TzHaar-Ket-Rak's Combat Achievements",
     description:
       "Complete all of the Combat Achievements for TzHaar-Ket-Rak's Challenges.",
@@ -16465,7 +16465,7 @@ const tasks = [
   {
     id: 1490,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Chambers of Xeric Combat Achievements",
     description:
       "Complete all of the Combat Achievements for Chambers of Xeric: Normal mode and Challenge mode.",
@@ -16477,7 +16477,7 @@ const tasks = [
   {
     id: 1491,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a full set of Ancestral",
     description:
       "Equip an Ancestral Hat, an Ancestral robe top and an Ancestral robe bottom.",
@@ -16489,7 +16489,7 @@ const tasks = [
   {
     id: 1492,
     area: "Kourend",
-    logoUrl: "./assets/Kourend_Area_Badge.webp",
+    logoUrl: "/assets/Kourend_Area_Badge.webp",
     name: "Equip a Twisted Bow",
     description: "Obtain and equip a Twisted bow.",
     requirements: "85 Ranged",
@@ -16500,7 +16500,7 @@ const tasks = [
   {
     id: 1493,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Complete the Hallowed Sepulchre in 6:30",
     description:
       "Complete the Hallowed Sepulchre in Darkmeyer in 6:30 or less.",
@@ -16512,7 +16512,7 @@ const tasks = [
   {
     id: 1494,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Full Inquisitor's Set",
     description: "Equip a full set of Inquisitor's Armour.",
     requirements: "70 Strength,  30 Defence",
@@ -16523,7 +16523,7 @@ const tasks = [
   {
     id: 1495,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Full Justiciar Set",
     description: "Equip a full set of Justiciar Armour.",
     requirements: "75 Defence",
@@ -16534,7 +16534,7 @@ const tasks = [
   {
     id: 1496,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Nightmare Staff With an Orb",
     description:
       "Equip either an Eldritch Nightmare Staff, a Harmonised Nightmare Staff or a Volatile Nightmare Staff.",
@@ -16546,7 +16546,7 @@ const tasks = [
   {
     id: 1497,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Equip a Scythe of Vitur",
     description: "Equip a Scythe of Vitur.",
     requirements: "80 Attack,  90 Strength",
@@ -16557,7 +16557,7 @@ const tasks = [
   {
     id: 1498,
     area: "Morytania",
-    logoUrl: "./assets/Morytania_Area_Badge.webp",
+    logoUrl: "/assets/Morytania_Area_Badge.webp",
     name: "Theatre of Blood Combat Achievements",
     description:
       "Complete all of the Combat Achievements for Theatre of Blood: Entry, Normal and Hard mode.",
@@ -16569,7 +16569,7 @@ const tasks = [
   {
     id: 1499,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Corrupted Blade of Saeldor",
     description: "Equip a Corrupted Blade of Saeldor.",
     requirements: "80 Attack",
@@ -16580,7 +16580,7 @@ const tasks = [
   {
     id: 1500,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Corrupted Bow of Faerdhinen",
     description: "Obtain and Equip a Corrupted Bow of Faerdhinen.",
     requirements: "80 Ranged,  70 AgilityCompletion of   The Gauntlet",
@@ -16591,7 +16591,7 @@ const tasks = [
   {
     id: 1501,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Equip a Crystal Crown",
     description: "Equip a Crystal Crown.",
     requirements: "N/A",
@@ -16602,7 +16602,7 @@ const tasks = [
   {
     id: 1502,
     area: "Tirannwn",
-    logoUrl: "./assets/Tirannwn_Area_Badge.webp",
+    logoUrl: "/assets/Tirannwn_Area_Badge.webp",
     name: "Gauntlet Combat Achievements",
     description:
       "Complete all of the Combat Achievements for the Gauntlet & Corrupted Gauntlet.",
@@ -16614,7 +16614,7 @@ const tasks = [
   {
     id: 1503,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip a Spectral or Arcane Spirit Shield",
     description:
       "Equip either a Spectral Spirit Shield or an Arcane Spirit Shield.",
@@ -16626,7 +16626,7 @@ const tasks = [
   {
     id: 1504,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip an Amulet of Eternal Glory",
     description: "Equip an Amulet of Eternal Glory.",
     requirements: "83 Hunter or both  80 Crafting and  68 Magic",
@@ -16637,7 +16637,7 @@ const tasks = [
   {
     id: 1505,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Equip an Elysian Spirit Shield",
     description: "Equip an Elysian Spirit Shield.",
     requirements:
@@ -16649,7 +16649,7 @@ const tasks = [
   {
     id: 1506,
     area: "Wilderness",
-    logoUrl: "./assets/Wilderness_Area_Badge.webp",
+    logoUrl: "/assets/Wilderness_Area_Badge.webp",
     name: "Obtain Every Revenant Weapon",
     description:
       "Obtain Craws Bow, Viggora's Chainmace and Thammaron's Sceptre as drops from Revenants.",

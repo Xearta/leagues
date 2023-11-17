@@ -90,7 +90,10 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               checked={checkedRows["General"]}
               onChange={() => handleCheckboxChange("General")}
             />
-            <img src="./assets/Globe-icon.webp" alt="General Logo" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/Globe-icon.webp"}
+              alt="General Logo"
+            />
             General
           </td>
           <td id="General-easy">107</td>
@@ -109,7 +112,7 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               onChange={() => handleCheckboxChange("Misthalin")}
             />
             <img
-              src="./assets/Misthalin_Area_Badge.webp"
+              src={process.env.PUBLIC_URL + "/assets/Misthalin_Area_Badge.webp"}
               alt="Misthalin Logo"
             />
             Misthalin
@@ -129,7 +132,10 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               checked={checkedRows["Karamja"]}
               onChange={() => handleCheckboxChange("Karamja")}
             />
-            <img src="./assets/Karamja_Area_Badge.webp" alt="Karamja Logo" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/Karamja_Area_Badge.webp"}
+              alt="Karamja Logo"
+            />
             Karamja
           </td>
           <td id="Karamja-easy">7</td>
@@ -147,7 +153,10 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               checked={checkedRows["Asgarnia"]}
               onChange={() => handleCheckboxChange("Asgarnia")}
             />
-            <img src="./assets/Asgarnia_Area_Badge.webp" alt="Asgarnia Logo" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/Asgarnia_Area_Badge.webp"}
+              alt="Asgarnia Logo"
+            />
             Asgarnia
           </td>
           <td id="Asgarnia-easy">18</td>
@@ -166,7 +175,7 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               onChange={() => handleCheckboxChange("Kharidian Desert")}
             />
             <img
-              src="./assets/Desert_Area_Badge.webp"
+              src={process.env.PUBLIC_URL + "/assets/Desert_Area_Badge.webp"}
               alt="Kharidian Desert Logo"
             />
             Kharidian Desert
@@ -187,7 +196,7 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               onChange={() => handleCheckboxChange("Fremennik Provinces")}
             />
             <img
-              src="./assets/Fremennik_Area_Badge.webp"
+              src={process.env.PUBLIC_URL + "/assets/Fremennik_Area_Badge.webp"}
               alt="Fremennik Provinces Logo"
             />
             Fremennik Provinces
@@ -207,7 +216,10 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               checked={checkedRows["Kandarin"]}
               onChange={() => handleCheckboxChange("Kandarin")}
             />
-            <img src="./assets/Kandarin_Area_Badge.webp" alt="Kandarin Logo" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/Kandarin_Area_Badge.webp"}
+              alt="Kandarin Logo"
+            />
             Kandarin
           </td>
           <td id="Kandarin-easy">21</td>
@@ -226,7 +238,7 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               onChange={() => handleCheckboxChange("Morytania")}
             />
             <img
-              src="./assets/Morytania_Area_Badge.webp"
+              src={process.env.PUBLIC_URL + "/assets/Morytania_Area_Badge.webp"}
               alt="Morytania Logo"
             />
             Morytania
@@ -246,7 +258,10 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               checked={checkedRows["Tirannwn"]}
               onChange={() => handleCheckboxChange("Tirannwn")}
             />
-            <img src="./assets/Tirannwn_Area_Badge.webp" alt="Tirannwn Logo" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/Tirannwn_Area_Badge.webp"}
+              alt="Tirannwn Logo"
+            />
             Tirannwn
           </td>
           <td id="Tirannwn-easy">9</td>
@@ -265,7 +280,9 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               onChange={() => handleCheckboxChange("Wilderness")}
             />
             <img
-              src="./assets/Wilderness_Area_Badge.webp"
+              src={
+                process.env.PUBLIC_URL + "/assets/Wilderness_Area_Badge.webp"
+              }
               alt="Wilderness Logo"
             />
             Wilderness
@@ -285,7 +302,10 @@ const TaskTableHeader = ({ onCheckboxChange, initialCheckedRows }) => {
               checked={checkedRows["Kourend"]}
               onChange={() => handleCheckboxChange("Kourend")}
             />
-            <img src="./assets/Kourend_Area_Badge.webp" alt="Kourend" />
+            <img
+              src={process.env.PUBLIC_URL + "/assets/Kourend_Area_Badge.webp"}
+              alt="Kourend"
+            />
             Kourend
           </td>
           <td id="Kourend-easy">21</td>

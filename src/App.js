@@ -92,23 +92,23 @@ function App() {
 
     switch (points) {
       case 10:
-        imageSrc = "./assets/Easy_Badge.webp";
+        imageSrc = process.env.PUBLIC_URL + "/assets/Easy_Badge.webp";
         altText = "Easy";
         break;
       case 40:
-        imageSrc = "./assets/Medium_Badge.webp";
+        imageSrc = process.env.PUBLIC_URL + "/assets/Medium_Badge.webp";
         altText = "Medium";
         break;
       case 80:
-        imageSrc = "./assets/Hard_Badge.webp";
+        imageSrc = process.env.PUBLIC_URL + "/assets/Hard_Badge.webp";
         altText = "Hard";
         break;
       case 200:
-        imageSrc = "./assets/Elite_Badge.webp";
+        imageSrc = process.env.PUBLIC_URL + "/assets/Elite_Badge.webp";
         altText = "Elite";
         break;
       case 400:
-        imageSrc = "./assets/Master_Badge.webp";
+        imageSrc = process.env.PUBLIC_URL + "/assets/Master_Badge.webp";
         altText = "Master";
         break;
       default:
