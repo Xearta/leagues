@@ -1,8 +1,10 @@
+import tasksData from "./tasks"; // Use a different name to avoid conflicts with the loadTasks function
+
 export const loadTasks = () => {
   try {
     const serializedData = localStorage.getItem("tasksData");
     if (serializedData === null) {
-      return { tasks: [], selectedAreas: [] }; // If no data is saved, return default values
+      return { tasks: tasksData, selectedAreas: ["General", "Misthalin"] }; // Use default tasks from tasks.js and set default areas
     }
     const { tasks, selectedAreas } = JSON.parse(serializedData);
     return { tasks: tasks || [], selectedAreas: selectedAreas || [] };

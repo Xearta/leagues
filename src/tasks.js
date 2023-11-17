@@ -1,10 +1,3 @@
-// // src/tasks.js
-// const tasks = [
-
-//   // Add more tasks as needed
-// ];
-
-// export default tasks;
 const tasks = [
   {
     id: 25,
