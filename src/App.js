@@ -3,7 +3,7 @@ import "./App.css";
 import TaskTableHeader from "./TaskTableHeader";
 import tasks from "./tasks";
 // Import tasks from localStorage if available, otherwise use the default tasks
-import { loadTasks, saveTasks } from "./taskStorage";
+import { loadTasks, saveTasks, exportTasks, importTasks } from "./taskStorage";
 
 function App() {
   const [taskList, setTaskList] = useState(loadTasks().tasks || tasks);
@@ -50,6 +50,26 @@ function App() {
     // Save tasks to localStorage whenever the taskList changes
     saveTasks(taskList, checkedAreas);
   }, [taskList, checkedAreas]);
+
+  // Function to handle exporting tasks
+  const handleExport = () => {
+    exportTasks(taskList);
+  };
+
+  // Function to handle importing tasks
+  const handleImport = (e) => {
+    const file = e.target.files[0];
+    if (file) {
+      importTasks(file)
+        .then((importedTasks) => {
+          setTaskList(importedTasks);
+          saveTasks(importedTasks, checkedAreas);
+        })
+        .catch((error) => {
+          // Handle import error
+        });
+    }
+  };
 
   const completedTasksCount = taskList.filter((task) => task.completed).length;
 
@@ -157,7 +177,6 @@ function App() {
           });
         }}
       />
-
       <div className="total-points">
         <span>Total Points: </span>
         {totalPoints}
@@ -168,7 +187,6 @@ function App() {
           </>
         )}
       </div>
-
       {/* Display unlockable areas information */}
       <div className="unlock-info">
         <p>
@@ -178,23 +196,43 @@ function App() {
 
       {/* Add filter and sorting controls here */}
       <div className="controls">
-        <label>
-          <input
-            type="checkbox"
-            checked={!hideCompleted}
-            onChange={() => setHideCompleted(!hideCompleted)}
-          />
-          Hide {completedTasksCount} completed tasks
-        </label>
-      </div>
+        <div className="column">
+          {/* Top left: Hide 'x' completed tasks */}
+          <label>
+            <input
+              type="checkbox"
+              checked={!hideCompleted}
+              onChange={() => setHideCompleted(!hideCompleted)}
+            />
+            Hide {completedTasksCount} completed tasks
+          </label>
 
-      {/* Display the number of tasks being shown */}
-      <div className="task-count">
-        {checkedAreas.length > 0
-          ? sortedTasks.length === 1
-            ? "1 task is being shown"
-            : `${sortedTasks.length} tasks are being shown`
-          : "No area selected. Please select at least one area."}
+          {/* Bottom left: 'x' tasks are being shown */}
+          <div className="task-count">
+            {checkedAreas.length > 0
+              ? sortedTasks.length === 1
+                ? "1 task is being shown"
+                : `${sortedTasks.length} tasks are being shown`
+              : "No area selected. Please select at least one area."}
+          </div>
+        </div>
+
+        <div className="column column-right">
+          {/* Top right: Export tasks */}
+          <button className="export-button" onClick={handleExport}>
+            Export Tasks
+          </button>
+
+          {/* Bottom right: Import button */}
+          <div className="import-container">
+            <input
+              id="file-input"
+              className="import-button"
+              type="file"
+              onChange={handleImport}
+            />
+          </div>
+        </div>
       </div>
 
       {/* Search bar */}
@@ -207,7 +245,6 @@ function App() {
           className="search-bar-input"
         />
       </div>
-
       {checkedAreas.length > 0 && (
         <table>
           <thead className="task-table-header">

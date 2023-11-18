@@ -26,3 +26,49 @@ export const saveTasks = (tasks, selectedAreas) => {
     console.error("Error saving data to localStorage:", err);
   }
 };
+
+// Function to export tasks
+export const exportTasks = (tasks) => {
+  try {
+    const serializedTasks = JSON.stringify(tasks);
+    const blob = new Blob([serializedTasks], { type: "text/plain" });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "tasks.txt";
+    a.click();
+
+    // Clean up the URL object to free up resources
+    URL.revokeObjectURL(url);
+
+    console.log("Tasks exported successfully.");
+  } catch (error) {
+    console.error("Error exporting tasks:", error);
+  }
+};
+
+// Function to import tasks
+export const importTasks = (file) => {
+  return new Promise((resolve, reject) => {
+    try {
+      const reader = new FileReader();
+
+      reader.onload = (event) => {
+        const tasks = JSON.parse(event.target.result);
+        console.log("Tasks imported successfully:", tasks);
+        resolve(tasks);
+      };
+
+      reader.onerror = (error) => {
+        console.error("Error reading file:", error);
+        reject(error);
+      };
+
+      reader.readAsText(file);
+    } catch (error) {
+      console.error("Error importing tasks:", error);
+      reject(error);
+    }
+  });
+};
