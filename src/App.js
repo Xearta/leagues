@@ -16,6 +16,21 @@ function App() {
   const [totalPoints, setTotalPoints] = useState(0);
   const [checkedAreas, setCheckedAreas] = useState(loadTasks().selectedAreas); // Define checkedAreas state
 
+  // Define point requirements for each area
+  const areaPointRequirements = [
+    0, 0, 2000, 4000, 7000, 11000, 15000, 22000, 35000, 50000, 75000,
+  ];
+
+  const unlockedAreasCount = areaPointRequirements.filter(
+    (points) => totalPoints >= points
+  ).length;
+  const lockedAreas = areaPointRequirements.length - unlockedAreasCount;
+  const nextUnlockIndex = unlockedAreasCount;
+  const pointsNeededForNextUnlock =
+    lockedAreas > 0
+      ? Math.max(0, areaPointRequirements[nextUnlockIndex] - totalPoints)
+      : 0;
+
   useEffect(() => {
     const { tasks: tasks, selectedAreas: selectedAreas } = loadTasks();
 
@@ -124,7 +139,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="container">
       <TaskTableHeader
         initialCheckedRows={checkedAreas.reduce(
           (checkedRows, area) => ({ ...checkedRows, [area]: true }),
@@ -147,6 +162,18 @@ function App() {
         <span>Total Points: </span>
         {totalPoints}
         <span>/145,610</span>
+        {lockedAreas > 0 && (
+          <>
+            <span> ({pointsNeededForNextUnlock} Points for next area)</span>
+          </>
+        )}
+      </div>
+
+      {/* Display unlockable areas information */}
+      <div className="unlock-info">
+        <p>
+          Available Areas: {unlockedAreasCount} / {areaPointRequirements.length}
+        </p>
       </div>
 
       {/* Add filter and sorting controls here */}
@@ -201,12 +228,28 @@ function App() {
               const taskClassName = `task ${
                 isCompletedTask ? "completed-task" : ""
               }`;
+              const isNARequirement = task.requirements === "N/A";
+              const taskStyles = {
+                backgroundColor: isCompletedTask ? "lightgreen" : "",
+              };
+              const requirementStyles = {
+                backgroundColor: isCompletedTask
+                  ? "lightgreen"
+                  : isNARequirement
+                  ? "#E8F6DC"
+                  : "",
+                textAlign: isNARequirement ? "center" : "left",
+                color: isNARequirement ? "#8A8C88" : "",
+                fontWeight: isNARequirement ? 200 : 400,
+                fontSize: isNARequirement ? "0.8em" : "1em",
+              };
 
               return (
                 <tr
                   key={task.id}
                   className={taskClassName}
                   onClick={() => completeTask(task.id)}
+                  style={taskStyles}
                 >
                   <td>
                     <img
@@ -217,7 +260,7 @@ function App() {
                   </td>
                   <td>{task.name}</td>
                   <td>{task.description}</td>
-                  <td>{task.requirements}</td>
+                  <td style={requirementStyles}> {task.requirements}</td>{" "}
                   <td>{pointsToImage(task.points)}</td>
                   <td>{task.completion}%</td>
                 </tr>
